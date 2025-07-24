@@ -6,6 +6,6 @@ has_children: true
 parent: Vergil
 ---
 
-# Vergil 2
+# Vergil 6
 
 This section contains our readings from *Aeneid* 6
