@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Vergil 12 - End of the *Aeneid*
+title: Vergil 12 - End of the Aeneid
 nav_order: 2
 parent: Vergil 12
 ---
