@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Vergil Book 1 - Proem
+title: Vergil 1 - Proem
 nav_order: 1
 parent: Vergil 1
 ---
