@@ -5,7 +5,7 @@ nav_order: 2
 parent: Vergil 6
 ---
 
-# Vergil 4 - Roman Glory
+# Vergil 6 - Roman Glory
 
 ## Romany Glory
 
