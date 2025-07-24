@@ -21,6 +21,7 @@ deberi caelo fatisque ad sidera tolli.               **795**
 
 quid struis? aut qua spe gelidis in nubibus haeres?
 
+---------------------
 
 ## Jupiter Continues, then Juno Responds
 
@@ -44,7 +45,7 @@ digna indigna pati, sed flammis cincta sub ipsa
 
 starem acie traheremque inimica in proelia Teucros.
 
-
+---------------------
 
 ## Juno Concedes
 
