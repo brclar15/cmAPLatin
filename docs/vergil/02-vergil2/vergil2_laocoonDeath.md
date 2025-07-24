@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Vergil 2 - Proem
+title: Vergil 2 - Death of Laocoon
 nav_order: 1
 parent: Vergil 2
 ---
