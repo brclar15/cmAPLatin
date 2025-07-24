@@ -1,3 +1,9 @@
+---
+layout: page
+title: Vergil Book 1
+nav_order: 1
+---
+
 # Vergil Book 1
 
 ## Opening of the Epic
