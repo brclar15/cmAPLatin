@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Vergil 2 - Death of Laocoon
-nav_order: 1
+nav_order: 2
 parent: Vergil 2
 ---
 
