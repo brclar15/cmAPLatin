@@ -5,7 +5,7 @@ nav_order: 1
 parent: Vergil 7
 ---
 
-# Vergil 6 - King Latinus
+# Vergil 7 - King Latinus
 
 ## King Latinus
 
