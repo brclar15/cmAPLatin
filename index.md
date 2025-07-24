@@ -3,7 +3,7 @@ title: Home
 layout: home
 ---
 
-#Catholic Memorial
+# Catholic Memorial
 ## AP LATIN: 2025-2026
 
 
