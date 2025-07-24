@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Vergil 1: Storm
+title: Vergil 1 - Storm
 nav_order: 2
 ---
 
