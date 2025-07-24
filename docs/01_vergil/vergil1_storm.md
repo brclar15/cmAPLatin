@@ -2,6 +2,7 @@
 layout: page
 title: Vergil 1 - Storm
 nav_order: 2
+parent: Vergil 1
 ---
 
 # Vergil 1 - Storm
