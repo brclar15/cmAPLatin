@@ -5,7 +5,7 @@ nav_order: 1
 parent: Vergil 6
 ---
 
-# Vergil 4 - Dido in the Underworld
+# Vergil 6 - Dido in the Underworld
 
 ## Dido in the Underworld
 
