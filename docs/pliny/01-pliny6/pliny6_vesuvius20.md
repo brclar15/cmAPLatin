@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Pliny 6 - Vesuvius & Pliny the Younger
+title: Pliny 6.20 - Vesuvius
 nav_order: 3
 parent: Pliny 6
 ---
