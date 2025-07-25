@@ -1,13 +1,13 @@
 ---
 layout: page
-title: Pliny 6 - Calpurnia
+title: Pliny 6.4 & 6.7 - Calpurnia
 nav_order: 1
 parent: Pliny 6
 ---
 
 # Pliny 6 - Letters to Calprunia
 
-## Letters to Calprunia
+## 6.4 Letters to Calprunia
 
 
 6.4 C. PLINIUS CALPURNIAE SUAE S.
@@ -16,6 +16,8 @@ parent: Pliny 6
 
 
 ------------------
+
+## 6.7 Letters to Calprunia
 
 6.7   C. PLINIUS CALPURNIAE SUAE S.
 1 Scribis te absentia mea non mediocriter affici unumque habere solacium, quod pro me libellos meos teneas, saepe etiam in vestigio meo colloces. 2 Gratum est quod nos requiris, gratum quod his fomentis acquiescis; invicem ego epistulas tuas lectito atque identidem in manus quasi novas sumo. 3 Sed eo magis ad desiderium tui accendor: nam cuius litterae tantum habent suavitatis, huius sermonibus quantum dulcedinis inest! Tu tamen quam frequentissime scribe, licet hoc ita me delectet ut torqueat. Vale.
