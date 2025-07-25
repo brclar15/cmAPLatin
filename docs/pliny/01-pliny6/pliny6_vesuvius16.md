@@ -1,13 +1,13 @@
 ---
 layout: page
-title: Pliny 6.20 - Vesuvius
+title: Pliny 6.16 - Vesuvius
 nav_order: 2
 parent: Pliny 6
 ---
 
 # Pliny 6 - Vesuvius & Pliny the Elder
 
-## Vesuvius & Pliny the Elder
+## 6.16 Vesuvius & Pliny the Elder
 
 
 16  C. PLINIUS TACITO SUO S.
