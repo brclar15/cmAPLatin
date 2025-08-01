@@ -21,7 +21,7 @@ et dulcissime vanus est, mihi tamen amarus erat puero.
 
 Credo etiam Graecis pueris Vergilius ita sit, cum eum sic
 
-discere coguntur ut ego illum. Videlicet difficultas, difficultas		5
+discere coguntur ut ego illum. Videlicet difficultas, difficultas		**5**
 
 omnino ediscendae linguae peregrinae, quasi felle
 
@@ -31,7 +31,7 @@ narrationum. Nulla enim verba illa noveram, et saevis
 
 terroribus ac poenis ut nossem instabatur mihi vehementer.
 
-Nam et Latina aliquando infans utique nulla noveram, et			10
+Nam et Latina aliquando infans utique nulla noveram, et			**10**
 
 tamen advertendo didici sine ullo metu atque cruciatu, inter
 
@@ -41,7 +41,7 @@ adludentium. Didici vero illa sine poenali onere urgentium.
 
 Hinc satis elucet maiorem habere vim ad discenda ista
 
-liberam curiositatem quam meticulosam necessitatem.			15
+liberam curiositatem quam meticulosam necessitatem.			**15**
 
 --------
 
@@ -109,4 +109,3 @@ line 1 	grammaticam: literally “(a system of) grammar,” but here it means th
       14 	elucet: used impersonally, “it is clear”
  	ista: refers to Latina (verba)
       15 	liberam curiositatem: accusative subjective of habere
-<img width="540" height="696" alt="image" src="https://github.com/user-attachments/assets/5de565e1-3866-4f05-9f0a-b60810f2a041" />
