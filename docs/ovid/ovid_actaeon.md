@@ -10,6 +10,7 @@ parent: Ovid
 ## Actaeon & Diana
 ### Met. 3.138 - 3.252
 
+---------------
 
 Prima nepos inter tot res tibi, Cadme, secundas
 
@@ -20,7 +21,6 @@ addita, vosque, canes satiatae sanguine erili.                 **140**
 at bene si quaeras, Fortunae crimen in illo,
 
 non scelus invenies; quod enim scelus error habebat?
-
 
 Mons erat infectus variarum caede ferarum,
 
