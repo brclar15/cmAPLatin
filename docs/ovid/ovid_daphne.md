@@ -39,7 +39,7 @@ nondum laurus erat, longoque decentia crine               **450**
 
 tempora cingebat de qualibet arbore Phoebus.
 
-     Primus amor Phoebi Daphne Peneia, quem non
+Primus amor Phoebi Daphne Peneia, quem non
 
 fors ignara dedit, sed saeva Cupidinis ira,
 
@@ -185,7 +185,7 @@ ei mihi, quod nullis amor est sanabilis herbis
 
 nec prosunt domino, quae prosunt omnibus, artes!'
 
-     Plura locuturum timido Peneia cursu               **525**
+Plura locuturum timido Peneia cursu               **525**
 
 fugit cumque ipso verba inperfecta reliquit,
 
@@ -241,7 +241,7 @@ pes modo tam velox pigris radicibus haeret,
 
 ora cacumen habet: remanet nitor unus in illa.
 
-     Hanc quoque Phoebus amat positaque in stipite dextra
+ Hanc quoque Phoebus amat positaque in stipite dextra
 
 sentit adhuc trepidare novo sub cortice pectus
 
