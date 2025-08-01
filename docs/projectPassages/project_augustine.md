@@ -13,6 +13,8 @@ Aurelius Augustinus Hipponensis, better known as Augustine of Hippo, was a highl
 
 -----------
 
+## Text
+
 Cur ergo Graecam etiam grammaticam oderam talia
 
 cantantem? Nam et Homerus peritus texere tales fabellas
