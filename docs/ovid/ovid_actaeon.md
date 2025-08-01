@@ -11,7 +11,7 @@ parent: Ovid
 ### Met. 3.138 - 3.252
 
 
-     Prima nepos inter tot res tibi, Cadme, secundas
+Prima nepos inter tot res tibi, Cadme, secundas
 
 causa fuit luctus, alienaque cornua fronti
 
@@ -21,7 +21,7 @@ at bene si quaeras, Fortunae crimen in illo,
 
 non scelus invenies; quod enim scelus error habebat?
 
-     Mons erat infectus variarum caede ferarum,
+Mons erat infectus variarum caede ferarum,
 
 iamque dies medius rerum contraxerat umbras
 
