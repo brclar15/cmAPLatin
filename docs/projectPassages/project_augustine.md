@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Augustine's *Confessions*
+title: St. Augustine
 nav_order: 1
 parent: Project Passages
 ---
