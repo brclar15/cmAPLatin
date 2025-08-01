@@ -75,8 +75,10 @@ reicio, -ere, -ieci, -iectum: to drive back
 reperio, -ire, repperi, repertus =lego, -ere
 subinde: repeatedly
 subsidium, -i, n. = auxilium, -i 
- 
---------------
+
+ 
+---------
+
 
 line 1 	fugae meae: Turia’s husband, an ally of Pompey, was forced to flee after Julius Caesar defeated Pompey’s forces at the Battle of Pharsalus in 49 BCE.
         3 	corpori = corpore
@@ -92,5 +94,3 @@ line 1 	fugae meae: Turia’s husband, an ally of Pompey, was forced to flee aft
         9 	agmen: “posse (of armed men)” is perhaps the best translation, as it refers to the men Milo commonly used to intimidate and harass political opponents.
       10 	exsul: Milo was exiled from Rome in 52 BC, after being convicted of election bribery and violence in the murder of one of his political opponents, Publius Clodius Pulcher.
  	belli civilis: The civil war between Julius Caesar and Pompey the Great, which lasted from 49 BCE to 45 BCE.
-
-<img width="540" height="719" alt="image" src="https://github.com/user-attachments/assets/26e7566f-4d40-4112-a995-1c53edfe6cd9" />
