@@ -13,6 +13,8 @@ The Ruodlieb is a medieval poem likely written by a now-anonymous German monk. I
 
 ---------
 
+## Text
+
 Rex poscens tabulam iubet opponi sibi sellam
 et me contra se iubet in fulchro residere,
 ut secum ludam, quod ego nimium renuebam,
