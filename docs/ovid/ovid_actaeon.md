@@ -15,7 +15,7 @@ Prima nepos inter tot res tibi, Cadme, secundas
 
 causa fuit luctus, alienaque cornua fronti
 
-addita, vosque, canes satiatae sanguine erili.               **140**
+addita, vosque, canes satiatae sanguine erili.                 **140**
 
 at bene si quaeras, Fortunae crimen in illo,
 
