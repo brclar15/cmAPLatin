@@ -14,6 +14,8 @@ his wife and her daring acts to hide and protect him during the civil wars of th
 
 ---------------
 
+## Text
+
 Amplissima subsidia fugae meae praestitisti. Ornamentis
 
 vitam meam instruxisti, cum omne aurum margaritaque
