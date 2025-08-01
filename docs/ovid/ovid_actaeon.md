@@ -21,6 +21,7 @@ at bene si quaeras, Fortunae crimen in illo,
 
 non scelus invenies; quod enim scelus error habebat?
 
+
 Mons erat infectus variarum caede ferarum,
 
 iamque dies medius rerum contraxerat umbras
@@ -45,7 +46,8 @@ sistite opus praesens nodosaque tollite lina!'
 
 iussa viri faciunt intermittuntque laborem.
 
-     Vallis erat piceis et acuta densa cupressu,               **155**
+
+Vallis erat piceis et acuta densa cupressu,               **155**
 
 nomine Gargaphie succinctae sacra Dianae,
 
