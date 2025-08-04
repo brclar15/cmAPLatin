@@ -15,39 +15,39 @@ Aurelius Augustinus Hipponensis, better known as Augustine of Hippo, was a highl
 
 ## Text
 
-     note: bolded words appear in the vocab below
+     note: words in _italics_ appear in the vocab below
 
      note2: footnotes will lead you to the commentary
 
-Cur ergo Graecam etiam grammaticam oderam talia
+Cur ergo Graecam etiam _grammaticam_ _oderam_ talia
 
-cantantem? Nam et Homerus peritus texere tales fabellas
+_cantantem_? Nam et _Homerus_ _peritus_ _texere_ tales _fabellas_
 
-et dulcissime vanus est, mihi tamen amarus erat puero.
+et dulcissime _vanus_ est, mihi tamen _amarus_ erat puero.
 
-Credo etiam Graecis pueris Vergilius ita sit, cum eum sic
+Credo etiam Graecis pueris _Vergilius_ ita sit, cum eum sic
 
-discere coguntur ut ego illum. Videlicet difficultas, difficultas		**5**
+discere coguntur ut ego illum. _Videlicet difficultas, difficultas_		**5**
 
-omnino ediscendae linguae peregrinae, quasi felle
+_omnino ediscendae_ linguae _peregrinae_, quasi _felle_
 
-aspergebat omnes suavitates Graecas fabulosarum
+_aspergebat_ omnes _suavitates_ Graecas _fabulosarum_
 
-narrationum. Nulla enim verba illa noveram, et saevis
+_narrationum_. Nulla enim verba illa noveram, et saevis
 
-terroribus ac poenis ut nossem instabatur mihi vehementer.
+_terroribus_ ac poenis ut nossem _instabatur_ mihi vehementer.
 
-Nam et Latina aliquando infans utique nulla noveram, et			**10**
+Nam et _Latina aliquando_ infans _utique_ nulla noveram, et			**10**
 
-tamen advertendo didici sine ullo metu atque cruciatu, inter
+tamen _advertendo_ didici sine ullo metu atque _cruciatu_, inter
 
-etiam blandimenta nutricum et ioca adridentium et laetitias
+etiam _blandimenta nutricum_ et _ioca adridentium_ et laetitias
 
-adludentium. Didici vero illa sine poenali onere urgentium.
+_adludentium_. Didici vero illa sine _poenali onere urgentium_.
 
-Hinc satis elucet maiorem habere vim ad discenda ista
+Hinc satis _elucet maiorem_ habere vim ad discenda ista
 
-liberam curiositatem quam meticulosam necessitatem.			**15**
+liberam _curiositatem_ quam _meticulosam necessitatem_.			**15**
 
 --------
 
