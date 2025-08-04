@@ -52,16 +52,16 @@ liberam curiositatem quam meticulosam necessitatem.			**15**
 | Vocab | Definition | Vocab | Definition |
 | -------- | ------- | -------- | ------- |
 | **_adludo, -ere, -lusi, -lusum_**        | to joke         | **_adrideo, -ere_** |     to smile      |
-| **_adverto, -ere_ **       | to pay attention          | **_aliquando_** |     at one time      |
+| **_adverto, -ere_**       | to pay attention          | **_aliquando_** |     at one time      |
 | **_amarus, -a, -um_**        | bitter, disagreeable          | **_aspergo, -ere_** |     to sprinkle      |
 | **_blandimentum, -i, n._**        | flattery          | **_canto, -are_** |     _cano, -ere_      |
 | **_cruciatus, -us, m._**        | torment          | **_curiositas, -tatis, f._** |     curiosity      |
 | **_difficultas, -tatis, f._**        | difficulty          | **_edisco, -ere_** |     _disco, -ere_      |
 | **_eluceo, -ere_**        | to be clear          | **_fabella, -ae, f._** |     _fabula, -ae_      |
 | **_fabulosus, -a, -um_**        | fabulous          | **_fel, fellis, n._** |     bile, bitterness      |
-| **_Graecus, -a, -um_ **       | Greek, of Greek          | **_grammatica, -ae, f._** |     grammar      |
-| **_Homerus, -i, m._ **       | Homer (Greek poet)          | **_insto, -are_** |     to demand, threaten      |
-| **_ioca, -orum, n._ **       | jokes          | **_Latinus,-a, -um_** |     Latin      |
+| **_Graecus, -a, -um_**       | Greek, of Greek          | **_grammatica, -ae, f._** |     grammar      |
+| **_Homerus, -i, m._**       | Homer (Greek poet)          | **_insto, -are_** |     to demand, threaten      |
+| **_ioca, -orum, n._**       | jokes          | **_Latinus,-a, -um_** |     Latin      |
 | **_maior, -is_**        | greater          | **_meticulosus, -a, -um_** |     _timidus, -a, -um_      |
 | **_narratio, -onis, f._**       | _fabula, -ae_          | **_necessitas, -tatis, f._** |     compulsion      |
 | **_nutrix, -icis, f._**       | nurse          | **_odi, -isse, osum_** |     to hate      |
