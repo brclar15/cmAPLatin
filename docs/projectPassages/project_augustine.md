@@ -15,7 +15,7 @@ Aurelius Augustinus Hipponensis, better known as Augustine of Hippo, was a highl
 
 ## Text
 
-     note: words in _italics_ appear in the vocab below
+     note: words in italics appear in the vocab below
 
      note2: footnotes will lead you to the commentary
 
