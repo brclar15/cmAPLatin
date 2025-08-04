@@ -83,18 +83,19 @@ liberam _curiositatem_ quam _meticulosam necessitatem_.			**15**
 ## Commentary
 
 
-line 1 	grammaticam: literally “(a system of) grammar,” but here it means the “(Greek) language and literature” or, specifically, “(Greek) poetry”
- 	talia: supply carmina; etiam...talia (“also...such...”) establishes a contrast between the Greek epic poetry of Homer and the Latin epic poetry of the Aeneid. Just before this passage, Augustine had been discussing his love of the Aeneid.
-        2 	cantantem: modifies a personified Graecam grammaticam, “the Greek language, that sings...” 
- 	texere: the infinitive completes the idea of peritus, “skillful at...”
-        3 	vanus: This description of Homer here alludes back to the larger context of Augustine’s discussion in sections 12 and 13 of the Confessions, in which he contrasts his own misguided, youthful love of epic poetry (in particular, the Aeneid) to, in his opinion, the upright love for Christian scripture. According to his account, epic poetry is empty, deceptive, and a distraction from becoming a better Christian.
- 	puero: taken together with mihi, “as a boy”
-        4 	sit: Classical Latin would use an infinitive as the main verb of the indirect statement introduced by credo, but Latin after the second century CE began to substitute this with the subjunctive (usually introduced with quod).
-        5 	illum: refers to Homer
-        6 	ediscendae: gerundive with linguae
-        7 	aspergebat: the subject is difficultas
-        9 	nossem = novissem; perfect forms of nosco, noscere have a present meaning, pluperfect forms have a perfect meaning instabatur: used impersonally, “it was demanded”
-      10 	et =“even”
+[^1]: grammaticam: literally “(a system of) grammar,” but here it means the “(Greek) language and literature” or, specifically, “(Greek) poetry”
+[^1]: talia: supply carmina; etiam...talia (“also...such...”) establishes a contrast between the Greek epic poetry of Homer and the Latin epic poetry of the Aeneid. Just before this passage, Augustine had been discussing his love of the Aeneid.
+[^1]: cantantem: modifies a personified Graecam grammaticam, “the Greek language, that sings...” 
+[^1]: texere: the infinitive completes the idea of peritus, “skillful at...”
+[^1]: vanus: This description of Homer here alludes back to the larger context of Augustine’s discussion in sections 12 and 13 of the _Confessions_, in which he contrasts his own misguided, youthful love of epic poetry (in particular, the Aeneid) to, in his opinion, the upright love for Christian scripture. According to his account, epic poetry is empty, deceptive, and a distraction from becoming a better Christian.
+[^1]: puero: taken together with mihi, “as a boy”
+[^1]: sit: Classical Latin would use an infinitive as the main verb of the indirect statement introduced by credo, but Latin after the second century CE began to substitute this with the subjunctive (usually introduced with quod).
+[^1]: illum: refers to Homer
+[^1]: ediscendae: gerundive with linguae
+[^1]: aspergebat: the subject is difficultas
+[^1]: nossem = novissem; perfect forms of nosco, noscere have a present meaning, pluperfect forms have a perfect meaning 
+[^1] instabatur: used impersonally, “it was demanded”
+[^1]: et =“even”
  	Latina nulla: supply verba
  	infans: taken together with the subject of noveram, “as an infant”
   12–13 	adridentium...adludentium...urgentium: adjectives being used substantively
