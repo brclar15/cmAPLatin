@@ -47,6 +47,8 @@ liberam curiositatem quam meticulosam necessitatem.			**15**
 
 --------
 
+
+| -------- | ------- || -------- | ------- |
 | adludo, -ere, -lusi, -lusum        | to joke         | adrideo, -ere |     to smile      |
 | adverto, -ere        | to pay attention          | aliquando |     at one time      |
 | amarus, -a, -um        | bitter, disagreeable          | aspergo, -ere |     to sprinkle      |
