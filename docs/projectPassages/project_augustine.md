@@ -47,9 +47,23 @@ liberam curiositatem quam meticulosam necessitatem.			**15**
 
 --------
 
- 
-adludo, -ere, -lusi, -lusum: to joke
-adrideo, -ere: to smile
+| adludo, -ere, -lusi, -lusum        | to joke         | adrideo, -ere |     to smile      |
+| vocab1        | def1          | vocab2 |     def2      |
+| vocab1        | def1          | vocab2 |     def2      |
+| vocab1        | def1          | vocab2 |     def2      |
+| vocab1        | def1          | vocab2 |     def2      |
+| vocab1        | def1          | vocab2 |     def2      |
+| vocab1        | def1          | vocab2 |     def2      |
+| vocab1        | def1          | vocab2 |     def2      |
+| vocab1        | def1          | vocab2 |     def2      |
+| vocab1        | def1          | vocab2 |     def2      |
+| vocab1        | def1          | vocab2 |     def2      |
+| vocab1        | def1          | vocab2 |     def2      |
+| vocab1        | def1          | vocab2 |     def2      |
+| vocab1        | def1          | vocab2 |     def2      |
+
+: 
+: 
 adverto, -ere: to pay attention
 aliquando: at one time
 amarus, -a, -um: bitter, disagreeable
