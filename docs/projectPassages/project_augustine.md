@@ -48,62 +48,31 @@ liberam curiositatem quam meticulosam necessitatem.			**15**
 --------
 
 | adludo, -ere, -lusi, -lusum        | to joke         | adrideo, -ere |     to smile      |
-| vocab1        | def1          | vocab2 |     def2      |
-| vocab1        | def1          | vocab2 |     def2      |
-| vocab1        | def1          | vocab2 |     def2      |
-| vocab1        | def1          | vocab2 |     def2      |
-| vocab1        | def1          | vocab2 |     def2      |
-| vocab1        | def1          | vocab2 |     def2      |
-| vocab1        | def1          | vocab2 |     def2      |
-| vocab1        | def1          | vocab2 |     def2      |
-| vocab1        | def1          | vocab2 |     def2      |
-| vocab1        | def1          | vocab2 |     def2      |
-| vocab1        | def1          | vocab2 |     def2      |
-| vocab1        | def1          | vocab2 |     def2      |
-| vocab1        | def1          | vocab2 |     def2      |
+| adverto, -ere        | to pay attention          | aliquando |     at one time      |
+| amarus, -a, -um        | bitter, disagreeable          | aspergo, -ere |     to sprinkle      |
+| blandimentum, -i, n.        | flattery          | canto, -are |     cano, -ere      |
+| cruciatus, -us, m        | torment          | curiositas, -tatis, f. |     curiosity      |
+| difficultas, -tatis, f.        | difficulty          | edisco, -ere |     disco, -ere      |
+| eluceo, -ere        | to be clear          | fabella, -ae, f. |     fabula, -ae      |
+| fabulosus, -a, -um        | fabulous          | fel, fellis, n. |     bile, bitterness      |
+| Graecus, -a, -um        | Greek, of Greek          | grammatica, -ae, f. |     grammar      |
+| Homerus, -i, m.        | Homer (Greek poet)          | insto, -are |     to demand, threaten      |
+| ioca, -orum, n.        | jokes          | Latinus,-a, -um |     Latin      |
+| maior, -is        | greater          | meticulosus, -a, -um |     timidus, -a, -um      |
+| narratio, -onis, f.        | fabula, -ae          | necessitas, -tatis, f. |     compulsion      |
+| nutrix, -icis, f.        | nurse          | odi, -isse, osum |     to hate      |
+| omnino        | at all          | onus, -eris, n. |     burden      |
+| peregrinus, -a, -um         | alienus, -a, -um          | peritus, -a, -um |     skillful      |
+| poenalis, -e        |  of punishment          | suavitas, -tatis, f. |     sweetness      |
+| terror, -is, m.        | formido, -inis          | texo, -ere, -ui, textum |     scribo, -ere      |
+| urgeo, -ere        | to force          | utique |     certainly      |
+| vanus, -a, -um        | deceptive          | Vergilius, -i, m. |     Vergil (Roman poet)      |
+| videlicet        | clearly          | vocab2 |     def2      |
 
-: 
-: 
-adverto, -ere: to pay attention
-aliquando: at one time
-amarus, -a, -um: bitter, disagreeable
-aspergo, -ere: to sprinkle
-blandimentum, -i, n.: flattery
-canto, -are = cano, -ere
-cruciatus, -us, m.: torment
-curiositas, -tatis, f.: curiosity
-difficultas, -tatis, f.: difficulty
-edisco, -ere = disco, -ere
-eluceo, -ere: to be clear
-fabella, -ae, f. = fabula, -ae
-fabulosus, -a, -um: fabulous
-fel, fellis, n.: bile, bitterness
-Graecus, -a, -um: Greek, of Greek
-grammatica, -ae, f.: grammar
-Homerus, -i, m.: Homer (Greek poet)
-insto, -are: to demand, threaten
-ioca, -orum, n.: jokes
-Latinus,-a, -um: Latin
-maior, -is: greater
-meticulosus, -a, -um = timidus, -a, -um
-narratio, -onis, f. = fabula, -ae
-necessitas, -tatis, f.: compulsion
-nutrix, -icis, f.: nurse
-odi, -isse, osum: to hate
-omnino.: at all
-onus, -eris, n.: burden
-peregrinus, -a, -um = alienus, -a, -um
-peritus, -a, -um: skillful
-poenalis, -e: of punishment
-suavitas, -tatis, f.: sweetness
-terror, -is, f. = formido, -inis
-texo, -ere, -ui, textum = scribo, -ere
-urgeo, -ere: to force
-utique: certainly
-vanus, -a, -um: deceptive
-Vergilius, -i, m.: Vergil (Roman poet)
-videlicet: clearly 
 
+--------------
+
+## Commentary
 
 
 line 1 	grammaticam: literally “(a system of) grammar,” but here it means the “(Greek) language and literature” or, specifically, “(Greek) poetry”
