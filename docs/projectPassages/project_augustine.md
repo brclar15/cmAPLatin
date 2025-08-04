@@ -51,12 +51,12 @@ liberam curiositatem quam meticulosam necessitatem.			**15**
 
 | Vocab | Definition | Vocab | Definition |
 | -------- | ------- | -------- | ------- |
-| _adludo, -ere, -lusi, -lusum_        | to joke         | adrideo, -ere |     to smile      |
+| **_adludo, -ere, -lusi, -lusum_**        | to joke         | adrideo, -ere |     to smile      |
 | _adverto, -ere_        | to pay attention          | aliquando |     at one time      |
 | _amarus, -a, -um_        | bitter, disagreeable          | aspergo, -ere |     to sprinkle      |
 | _blandimentum, -i, n._        | flattery          | canto, -are |     cano, -ere      |
 | _cruciatus, -us, m._        | torment          | curiositas, -tatis, f. |     curiosity      |
-| d_ifficultas, -tatis, f._        | difficulty          | edisco, -ere |     disco, -ere      |
+| _difficultas, -tatis, f._        | difficulty          | edisco, -ere |     disco, -ere      |
 | _eluceo, -ere_        | to be clear          | fabella, -ae, f. |     fabula, -ae      |
 | _fabulosus, -a, -um_        | fabulous          | fel, fellis, n. |     bile, bitterness      |
 | _Graecus, -a, -um_        | Greek, of Greek          | grammatica, -ae, f. |     grammar      |
