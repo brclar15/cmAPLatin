@@ -16,6 +16,7 @@ Aurelius Augustinus Hipponensis, better known as Augustine of Hippo, was a highl
 ## Text
 
 > note: bolded words appear in the vocab below
+
 > note2: footnotes will lead you to the commentary
 
 Cur ergo Graecam etiam grammaticam oderam talia
