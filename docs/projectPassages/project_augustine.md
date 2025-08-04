@@ -51,19 +51,19 @@ liberam curiositatem quam meticulosam necessitatem.			**15**
 
 | Vocab | Definition | Vocab | Definition |
 | -------- | ------- | -------- | ------- |
-| adludo, -ere, -lusi, -lusum        | to joke         | adrideo, -ere |     to smile      |
-| adverto, -ere        | to pay attention          | aliquando |     at one time      |
-| amarus, -a, -um        | bitter, disagreeable          | aspergo, -ere |     to sprinkle      |
-| blandimentum, -i, n.        | flattery          | canto, -are |     cano, -ere      |
-| cruciatus, -us, m        | torment          | curiositas, -tatis, f. |     curiosity      |
-| difficultas, -tatis, f.        | difficulty          | edisco, -ere |     disco, -ere      |
-| eluceo, -ere        | to be clear          | fabella, -ae, f. |     fabula, -ae      |
-| fabulosus, -a, -um        | fabulous          | fel, fellis, n. |     bile, bitterness      |
-| Graecus, -a, -um        | Greek, of Greek          | grammatica, -ae, f. |     grammar      |
-| Homerus, -i, m.        | Homer (Greek poet)          | insto, -are |     to demand, threaten      |
-| ioca, -orum, n.        | jokes          | Latinus,-a, -um |     Latin      |
-| maior, -is        | greater          | meticulosus, -a, -um |     timidus, -a, -um      |
-| narratio, -onis, f.        | fabula, -ae          | necessitas, -tatis, f. |     compulsion      |
+| _adludo, -ere, -lusi, -lusum_        | to joke         | adrideo, -ere |     to smile      |
+| _adverto, -ere_        | to pay attention          | aliquando |     at one time      |
+| _amarus, -a, -um_        | bitter, disagreeable          | aspergo, -ere |     to sprinkle      |
+| _blandimentum, -i, n._        | flattery          | canto, -are |     cano, -ere      |
+| _cruciatus, -us, m._        | torment          | curiositas, -tatis, f. |     curiosity      |
+| d_ifficultas, -tatis, f._        | difficulty          | edisco, -ere |     disco, -ere      |
+| _eluceo, -ere_        | to be clear          | fabella, -ae, f. |     fabula, -ae      |
+| _fabulosus, -a, -um_        | fabulous          | fel, fellis, n. |     bile, bitterness      |
+| _Graecus, -a, -um_        | Greek, of Greek          | grammatica, -ae, f. |     grammar      |
+| _Homerus, -i, m._        | Homer (Greek poet)          | insto, -are |     to demand, threaten      |
+| _ioca, -orum, n._        | jokes          | Latinus,-a, -um |     Latin      |
+| _maior, -is_        | greater          | meticulosus, -a, -um |     timidus, -a, -um      |
+| _narratio, -onis, f._        | fabula, -ae          | necessitas, -tatis, f. |     compulsion      |
 | nutrix, -icis, f.        | nurse          | odi, -isse, osum |     to hate      |
 | omnino        | at all          | onus, -eris, n. |     burden      |
 | peregrinus, -a, -um         | alienus, -a, -um          | peritus, -a, -um |     skillful      |
