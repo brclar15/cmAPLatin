@@ -48,6 +48,8 @@ liberam curiositatem quam meticulosam necessitatem.			**15**
 --------
 
 
+
+| Vocab | Definition | Vocab | Definition |
 | -------- | ------- | -------- | ------- |
 | adludo, -ere, -lusi, -lusum        | to joke         | adrideo, -ere |     to smile      |
 | adverto, -ere        | to pay attention          | aliquando |     at one time      |
