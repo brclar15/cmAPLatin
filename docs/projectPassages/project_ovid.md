@@ -17,9 +17,9 @@ comprised of mythological stories that explain the origin of all the holidays on
 ## Text
 
 
-Quod mare non novit, quae nescit _Ariona_ tellus?
+Quod mare non novit[^1], quae nescit _Ariona_[^2] tellus?
 
-Carmine currentes ille tenebat aquas.
+Carmine currentes ille tenebat[^3] aquas.
 
 Saepe sequens _agnam_ lupus est a voce _retentus_,
 
@@ -29,39 +29,39 @@ Inde domum _repetens_ _puppem_ conscendit Arion,			**5**
 
 atque ita quaesitas arte ferebat opes.
 
-_Forsitan_, infelix, ventos undasque timebas:
+_Forsitan_, infelix[^4], ventos undasque timebas:
 
 at tibi nave tua tutius aequor erat.
 
 Namque _gubernator_ _destricto_ _constitit_ _ense_
 
-ceteraque _armata_ _conscia_ turba manu.				**10**
+ceteraque _armata_[^5] _conscia_ turba manu.				**10**
 
-Ille, metu _pavidus_, “Mortem non _deprecor_” inquit,
+Ille[^6], metu _pavidus_, “Mortem non _deprecor_” inquit,
 
-“sed liceat sumpta pauca referre lyra.”
+“sed liceat[^7] sumpta pauca[^8] referre[^9] lyra.”
 
 Dant _veniam_ ridentque moram: capit ille _coronam_,
 
-quae possit _crines_, _Phoebe_, _decere_ tuos;
+quae[^10] possit _crines_, _Phoebe_[^11], _decere_ tuos;
 
-induerat _Tyrio_ _bis_ _tinctam_ _murice_ _pallam_:				**15**
+induerat _Tyrio_[^12] _bis_ _tinctam_ _murice_ _pallam_:				**15**
 
-reddidit _icta_ suos _pollice_ _chorda_ sonos,
+reddidit _icta_ suos _pollice_[^13] _chorda_ sonos,
 
-_flebilibus_ numeris veluti _canentia_ dura
+_flebilibus_ numeris[^14] veluti _canentia_ dura
 
-_traiectus_ _penna_ _tempora_ _cantat_ _olor_.
+_traiectus_ _penna_[^15] _tempora_[^16] _cantat_ _olor_.
 
-_Protinus_ in medias _ornatus_ _desilit_ undas;
+_Protinus_ in medias _ornatus_[^17] _desilit_ undas;
 
 _spargitur_ impulsa _caerula_ puppis aqua.				**20**
 
-Inde (fide _maius_) tergo _delphina_ _recurvo_
+Inde (fide[^18] _maius_) tergo _delphina_[^19] _recurvo_
 
-_se memorant oneri subposuisse_ novo.
+_se[^20] memorant oneri subposuisse_ novo.
 
-Ille, sedens _citharamque_ tenens, _pretiumque_ _vehendi_
+Ille, sedens _citharamque_ tenens, _pretiumque_[^21] _vehendi_
 
 cantat et _aequoreas_ carmine _mulcet_ aquas.
 
@@ -107,23 +107,23 @@ cantat et _aequoreas_ carmine _mulcet_ aquas.
 
 
 [^1]: _novit_: perfect forms of _nosco_, _noscere_ have a present meaning 
-[^1]: _Ariona_: Greek accusative of _Arion_
-[^1]: _tenebat_ = “_could hold back_”; the imperfect tense can denote general capability, as it does here.
-[^1]: _infelix_: vocative; here, the poet addresses Arion directly (a stylistic device called “**apostrophe**”).
-[^1]: _armata_: ablative to agree with _manu_
-[^1]: _ille_: refers to Arion
-[^1]: _liceat_ = “_let it be permitted_”; sc. _mihi_
-[^1]: _pauca_: neuter plural and the accusative direct object of _referre_
-[^1]: _referre_ : “_to play_” here
-[^1]: _quae possit_ : “_(the sort) which could_”
-[^1]: _Phoebe_: vocative; here, the poet addresses Apollo directly.
-[^1]: _Tyrio...murice_: Murex was a species of snail native to Tyre (in present-day Lebanon) that secreted a purple dye used to stain fabric. The process required vast amounts of the dye and was labor-intensive, so the resulting color was highly valued and very expensive. As a result, only the very rich could afford it, so it became a symbol of wealth and royalty.
-[^1]: _pollice_ = _digitis_
-[^1]: _numeris_ = “_song_”
-[^1]: _penna_: ironically, _penna_ in other contexts refers to a “_feather_.”
-[^1]: _tempora_: with _canentia_, “_having been pierced on its white brow_.” This use of the accusative shows where he has been pierced (_traiectus_).
-[^1]: _ornatus_: Arion jumped into the ocean fully clothed.
-[^1]: _fide maius_: an expression of amazement; the neuter singular _maius_ refers to the sentence as a whole
-[^1]: _delphina_: Greek accusative singular
-[^1]: _se_: refers to the dolphin and is the object of _subposuisse_
-[^1]: _pretium vehendi_ = “_as the price for carrying him_”
+[^2]: _Ariona_: Greek accusative of _Arion_
+[^3]: _tenebat_ = “_could hold back_”; the imperfect tense can denote general capability, as it does here.
+[^4]: _infelix_: vocative; here, the poet addresses Arion directly (a stylistic device called “**apostrophe**”).
+[^5]: _armata_: ablative to agree with _manu_
+[^6]: _ille_: refers to Arion
+[^7]: _liceat_ = “_let it be permitted_”; sc. _mihi_
+[^8]: _pauca_: neuter plural and the accusative direct object of _referre_
+[^9]: _referre_ : “_to play_” here
+[^10]: _quae possit_ : “_(the sort) which could_”
+[^11]: _Phoebe_: vocative; here, the poet addresses Apollo directly.
+[^12]: _Tyrio...murice_: Murex was a species of snail native to Tyre (in present-day Lebanon) that secreted a purple dye used to stain fabric. The process required vast amounts of the dye and was labor-intensive, so the resulting color was highly valued and very expensive. As a result, only the very rich could afford it, so it became a symbol of wealth and royalty.
+[^13]: _pollice_ = _digitis_
+[^14]: _numeris_ = “_song_”
+[^15]: _penna_: ironically, _penna_ in other contexts refers to a “_feather_.”
+[^16]: _tempora_: with _canentia_, “_having been pierced on its white brow_.” This use of the accusative shows where he has been pierced (_traiectus_).
+[^17]: _ornatus_: Arion jumped into the ocean fully clothed.
+[^18]: _fide maius_: an expression of amazement; the neuter singular _maius_ refers to the sentence as a whole
+[^19]: _delphina_: Greek accusative singular
+[^20]: _se_: refers to the dolphin and is the object of _subposuisse_
+[^21]: _pretium vehendi_ = “_as the price for carrying him_”
