@@ -16,27 +16,27 @@ his wife and her daring acts to hide and protect him during the civil wars of th
 
 ## Text
 
-Amplissima subsidia fugae meae praestitisti. Ornamentis
+_Amplissima_ _subsidia_ fugae meae praestitisti. _Ornamentis_
 
-vitam meam instruxisti, cum omne aurum margaritaque
+vitam meam _instruxisti_, cum omne aurum _margaritaque_
 
-corpori tuo detracta tradidisti mihi—et subinde familia,
+corpori tuo _detracta_ tradidisti mihi — et _subinde_ familia,
 
-nummis, fructibus, callide deceptis adversariorum
+_nummis, fructibus, callide deceptis adversariorum_
 
-custodibus, absentiam meam locupletasti. Pro vita rogabas	**5**
+custodibus, _absentiam_ meam _locupletasti_. Pro vita rogabas	**5**
 
-absentis—quod ut conarere virtus tua te hortabatur. Verbis
+_absentis_ — quod ut _conarere_ virtus tua te _hortabatur_. Verbis
 
-tuis victa me munibat clementia eorum, contra quos ea
+tuis victa me _munibat clementia_ eorum, contra quos ea
 
-parabas. Semper tamen vox tua est firmitate animi emissa.
+parabas. Semper tamen vox tua est _firmitate_ animi _emissa_.
 
-Interea agmen ex repertis hominibus a Milone, cuius domus
+Interea agmen ex _repertis_ hominibus a _Milone_, cuius domus
 
-emptione potitus eram cum esset exsul, belli civilis			**10**
+_emptione_ _potitus_ eram cum esset _exsul_, belli _civilis_			**10**
 
-occasionibus irrupturum et direpturum prospere reiecisti et
+_occasionibus irrupturum_ et _direpturum prospere reiecisti_ et
 
 defendisti domum nostram.
 
@@ -46,7 +46,7 @@ defendisti domum nostram.
 | Vocab | Definition | Vocab | Definition |
 | -------- | ------- | -------- | ------- |
 | **_absens, -ntis_** | absent | **_absentia, -ae_**, f. | absence |
-| **_adversarius, -i_**, m. | **_hostis, -is_** | **_amplus, -a, -um_** | abundant |
+| **_adversarius, -i_**, m. | _hostis, -is_ | **_amplus, -a, -um_** | abundant |
 | **_callidus, -a, -um_** | clever | **_civilis, -e_** | civil |
 | **_clementia, -ae_**, f. | mercy | **_conor, -ari_** | to try |
 | **_contra_** (+ ACC) | in front of | **_decipio, -ere, -cepi, -ceptum_** | to deceive |
@@ -69,19 +69,18 @@ defendisti domum nostram.
 ---------
 
 
-line 1 	ornamentis = “with the things I needed”
-
-fugae meae: Turia’s husband, an ally of Pompey, was forced to flee after Julius Caesar defeated Pompey’s forces at the Battle of Pharsalus in 49 BCE.
-        3 	corpori = corpore
- 	detracta: refers to omne aurum margaritaque
- 	familia = servis. The term here refers not to the father, mother, child, etc., but to those that make up the extended Roman family (i.e., those who are enslaved).
-        5 	locupletasti = locupletavisti
- 	Pro vita rogabas absentis = “you begged for my life while (I was) absent.”  To whom she pleaded is not clear, but absentis probably indicates that her husband was abroad.
-        6 	ut conarere: a command indirectly stated after hortabatur
- 	conarere = conareris
-        7 	victa = victorum. Despite its neuter plural form, this participle describes the same men to whom eorum and quos refer (i.e., those who had the means to intercede on Vespillo’s behalf). The feminine singular form is due possibly to the author’s artful intent that the word agree with clementia.
- 	munibat = muniebat
- 	ea: refers to verbis tuis
-        9 	agmen: “posse (of armed men)” is perhaps the best translation, as it refers to the men Milo commonly used to intimidate and harass political opponents.
-      10 	exsul: Milo was exiled from Rome in 52 BC, after being convicted of election bribery and violence in the murder of one of his political opponents, Publius Clodius Pulcher.
- 	belli civilis: The civil war between Julius Caesar and Pompey the Great, which lasted from 49 BCE to 45 BCE.
+[^1]: _ornamentis_ = “_with the things I needed_”
+[^1]: _fugae meae_: Turia’s husband, an ally of Pompey, was forced to flee after Julius Caesar defeated Pompey’s forces at the Battle of Pharsalus in 49 BCE.
+[^1]: _corpori_ = _corpore_
+[^1]: _detracta_: refers to _omne aurum margaritaque_
+[^1]: _familia_ = _servis_. The term here refers not to the father, mother, child, etc., but to those that make up the extended Roman family (i.e., those who are enslaved).
+[^1]: _locupletasti_ = _locupletavisti_
+[^1]: _Pro vita rogabas absentis_ = “_you begged for my life while (I was) absent_.”  To whom she pleaded is not clear, but _absentis_ probably indicates that her husband was abroad.
+[^1]: _ut conarere_: a command indirectly stated after _hortabatur_
+[^1]: _conarere_ = _conareris_
+[^1]: _victa_ = _victorum_. Despite its neuter plural form, this participle describes the same men to whom _eorum_ and _quos_ refer (i.e., those who had the means to intercede on Vespillo’s behalf). The feminine singular form is due possibly to the author’s artful intent that the word agree with _clementia_.
+[^1]: _munibat_ = _muniebat_
+[^1]: _ea_: refers to _verbis tuis_
+[^1]: _agmen_: “_posse (of armed men)_” is perhaps the best translation, as it refers to the men Milo commonly used to intimidate and harass political opponents.
+[^1]: _exsul_: Milo was exiled from Rome in 52 BC, after being convicted of election bribery and violence in the murder of one of his political opponents, Publius Clodius Pulcher.
+[^1]: _belli civilis_: The civil war between Julius Caesar and Pompey the Great, which lasted from 49 BCE to 45 BCE.
