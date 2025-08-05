@@ -72,9 +72,9 @@ cantat et aequoreas carmine mulcet aquas.
 | -------- | ------- | -------- | ------- |
 | **_aequoreus, -a, -um_** | of the ocean | **_agna, -ae_**, f. | lamb |
 | **_Arion, -onis_**, m. | Arion (a child of Poseidon) | **_armo, -are, -avi, -atus_** | to arm |
-| **_avidus, -a, -um_** | **_intentus, -a, -um_** | **_bis_** | twice |
+| **_avidus, -a, -um_** | _intentus, -a, -um_ | **_bis_** | twice |
 | **_caerulus, -a, -um_** | sky-blue | **_canens, -ntis_** | _albus, -a, -um_ |
-| **_canto, -are_** | **_cano, -ere_** | **_chorda, -ae_**, f. | string (of an instrument) |
+| **_canto, -are_** | _cano, -ere_ | **_chorda, -ae_**, f. | string (of an instrument) |
 | **_cithara, -ae_**, f. | lyre | **_conscendo, -ere, -i_** | to board (a ship) |
 | **_conscius, -a, -um_** | conspiring | **_consto, -are, -stiti_** | _sto, -are_ |
 | **_corona, -ae_**, f. | crown | **_crinis, -is_**, m. | _coma, -ae_ |
