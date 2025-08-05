@@ -83,23 +83,23 @@ liberam _curiositatem_ quam _meticulosam necessitatem_.			**15**
 ## Commentary
 
 
-[^1]: grammaticam: literally “(a system of) grammar,” but here it means the “(Greek) language and literature” or, specifically, “(Greek) poetry”
-[^1]: talia: supply carmina; etiam...talia (“also...such...”) establishes a contrast between the Greek epic poetry of Homer and the Latin epic poetry of the Aeneid. Just before this passage, Augustine had been discussing his love of the Aeneid.
-[^1]: cantantem: modifies a personified Graecam grammaticam, “the Greek language, that sings...” 
-[^1]: texere: the infinitive completes the idea of peritus, “skillful at...”
-[^1]: vanus: This description of Homer here alludes back to the larger context of Augustine’s discussion in sections 12 and 13 of the _Confessions_, in which he contrasts his own misguided, youthful love of epic poetry (in particular, the Aeneid) to, in his opinion, the upright love for Christian scripture. According to his account, epic poetry is empty, deceptive, and a distraction from becoming a better Christian.
-[^1]: puero: taken together with mihi, “as a boy”
-[^1]: sit: Classical Latin would use an infinitive as the main verb of the indirect statement introduced by credo, but Latin after the second century CE began to substitute this with the subjunctive (usually introduced with quod).
-[^1]: illum: refers to Homer
-[^1]: ediscendae: gerundive with linguae
-[^1]: aspergebat: the subject is difficultas
-[^1]: nossem = novissem; perfect forms of nosco, noscere have a present meaning, pluperfect forms have a perfect meaning 
-[^1] instabatur: used impersonally, “it was demanded”
-[^1]: et =“even”
- 	Latina nulla: supply verba
- 	infans: taken together with the subject of noveram, “as an infant”
-  12–13 	adridentium...adludentium...urgentium: adjectives being used substantively
-      13 	illa: refers to Latina (verba)
-      14 	elucet: used impersonally, “it is clear”
- 	ista: refers to Latina (verba)
-      15 	liberam curiositatem: accusative subjective of habere
+[^1]: _grammaticam_: literally “(a system of) grammar,” but here it means the “(Greek) language and literature” or, specifically, “(Greek) poetry”
+[^1]: _talia_: supply carmina; etiam...talia (“also...such...”) establishes a contrast between the Greek epic poetry of Homer and the Latin epic poetry of the Aeneid. Just before this passage, Augustine had been discussing his love of the Aeneid.
+[^1]: _cantantem_: modifies a personified Graecam grammaticam, “the Greek language, that sings...” 
+[^1]: _texere_: the infinitive completes the idea of peritus, “skillful at...”
+[^1]: _vanus_: This description of Homer here alludes back to the larger context of Augustine’s discussion in sections 12 and 13 of the _Confessions_, in which he contrasts his own misguided, youthful love of epic poetry (in particular, the Aeneid) to, in his opinion, the upright love for Christian scripture. According to his account, epic poetry is empty, deceptive, and a distraction from becoming a better Christian.
+[^1]: _puero_: taken together with mihi, “as a boy”
+[^1]: _sit_: Classical Latin would use an infinitive as the main verb of the indirect statement introduced by credo, but Latin after the second century CE began to substitute this with the subjunctive (usually introduced with quod).
+[^1]: _illum_: refers to Homer
+[^1]: _ediscendae_: gerundive with linguae
+[^1]: _aspergebat_: the subject is difficultas
+[^1]: _nossem_ = _novissem_; perfect forms of _nosco_, _noscere_ have a present meaning, pluperfect forms have a perfect meaning 
+[^1] _instabatur_: used impersonally, “_it was demanded_”
+[^1]: _et_ =“_even_”
+[^1]: _Latina nulla_: supply _verba_
+[^1]: _infans_: taken together with the subject of noveram, “as an infant”
+[^1]: _adridentium...adludentium...urgentium_: adjectives being used substantively
+[^1]: _illa_: refers to _Latina (verba)_
+[^1]: _elucet_: used impersonally, “_it is clear_”
+[^1]: _ista_: refers to _Latina (verba)_
+[^1]: _liberam curiositatem_: accusative subjective of _habere_
