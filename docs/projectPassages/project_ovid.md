@@ -25,7 +25,7 @@ Saepe sequens _agnam_ lupus est a voce _retentus_,
 
 saepe _avidum_ fugiens _restitit_ agna lupum.
 
-Inde domum _repetens_ _puppem_ conscendit Arion,			**5**
+Inde domum _repetens_ _puppem_ _conscendit_ Arion,			**5**
 
 atque ita quaesitas arte ferebat opes.
 
