@@ -56,40 +56,22 @@ defendisti domum nostram.
 | **_firmitas, -atis_**, f. | strength | **_fructus, -us_**, m. | provisions |
 | **_hortor, -ari_** | to urge | **_instruo, -ere, instruxi_** | to provide |
 | **_irrumpo, -ere, -rupi, ruptum_** | to break in | **_locupleto, -are, -avi_** | to enrich |
-| **_margaritum, -i_**, n. | jewelry | vocab2 | def2 |
-| vocab1 | def1 | vocab2 | def2 |
-| vocab1 | def1 | vocab2 | def2 |
-| vocab1 | def1 | vocab2 | def2 |
-| vocab1 | def1 | vocab2 | def2 |
-| vocab1 | def1 | vocab2 | def2 |
-| vocab1 | def1 | vocab2 | def2 |
-| vocab1 | def1 | vocab2 | def2 |
+| **_margaritum, -i_**, n. | jewelry | **_Milo, -nis_**, m. | Titus Annius Milo, a local politician |
+| **_munio, -ire_** | to strengthen | **_nummus, -i_**, m. | _pecunia, -ae_ |
+| **_occasio, -onis_**, f. | opportunity | **_potior, -iri, -itus sum_** | _emo, -ere_ |
+| **_prosper, -a, -um_** | _felix, -icis_ | **_reicio, -ere, -ieci, -iectum_** | to drive back |
+| **_reperio, -ire, repperi, repertus_** | _lego, -ere_ | **_subinde_** | repeatedly |
+| **_subsidium, -_i**, n. | _auxilium, -i_  |    |    |
 
 
-
-: 
-: 
-: 
-: 
-: 
-: 
-Milo, -nis, m.: Titus Annius Milo, a local politician
-munio, -ire: to strengthen
-nummus, -i, m. = pecunia, -ae
-occasio, -onis, f.: opportunity
-ornamentis = “with the things I needed”
-potior, -iri, -itus sum = emo, -ere
-prosper, -a, -um = felix, -icis
-reicio, -ere, -ieci, -iectum: to drive back
-reperio, -ire, repperi, repertus =lego, -ere
-subinde: repeatedly
-subsidium, -i, n. = auxilium, -i 
 
  
 ---------
 
 
-line 1 	fugae meae: Turia’s husband, an ally of Pompey, was forced to flee after Julius Caesar defeated Pompey’s forces at the Battle of Pharsalus in 49 BCE.
+line 1 	ornamentis = “with the things I needed”
+
+fugae meae: Turia’s husband, an ally of Pompey, was forced to flee after Julius Caesar defeated Pompey’s forces at the Battle of Pharsalus in 49 BCE.
         3 	corpori = corpore
  	detracta: refers to omne aurum margaritaque
  	familia = servis. The term here refers not to the father, mother, child, etc., but to those that make up the extended Roman family (i.e., those who are enslaved).
