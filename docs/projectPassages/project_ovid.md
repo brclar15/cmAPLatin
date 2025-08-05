@@ -70,34 +70,34 @@ cantat et aequoreas carmine mulcet aquas.
 
 | Vocab | Definition | Vocab | Definition |
 | -------- | ------- | -------- | ------- |
-| _aequoreus, -a, -um_ | of the ocean | _agna, -ae_, f. | lamb |
-| _Arion, -onis_, m. | Arion (a child of Poseidon) | _armo, -are, -avi, -atus_ | to arm |
-| _avidus, -a, -um_ | _intentus, -a, -um_ | _bis_ | twice |
-| _caerulus, -a, -um_ | sky-blue | _canens, -ntis_ | _albus, -a, -um_ |
-| _canto, -are_ | _cano, -ere_ | _chorda, -ae_, f. | string (of an instrument) |
-| _cithara, -ae_, f. | lyre | c_onscendo, -ere, -i_ | to board (a ship) |
-| _conscius, -a, -um_ | conspiring | _consto, -are, -stiti_ | _sto, -are_ |
-| _corona, -ae_, f. | crown | _crinis, -is_, m. | _coma, -ae_ |
-| _deceo, -ere_ | to be suitable (for) | _delphinus, -i_, m. | dolphin |
-| _deprecor, -ari_ | to beg to avoid | _desilio, -ire_ | to jump down |
-| _destringo, -ere, -inxi, -ictum_ | to unsheathe, draw | _ensis, -is_, m. | _gladius, -i_ |
-| _flebilis, -e_ | tearful | _forsitan_ | _fortasse_ |
-| _gubernator, -oris_, m. | helmsman | _icio, -ere, ici, ictum_ | to pluck |
-| _lyra, -ae_, f. | lyre | _maius_ | greater |
-| _memoro, -are_ | to recount | _mulceo, -ere_ | to calm |
-| _murex, -icis_, f. | purple | _olor, -is_, m. | swan |
-| _onus, -eris_, n. | weight | _orno, -are, -avi, -atus_ | to decorate |
-| _palla, -ae_, f. | robe | _pavidus, -a, -um_ | trembling |
-| _penna, -ae_, f. | arrow | _Phoebus, -i_, m. | Apollo |
-| _pollex, -icis_, m. | thumb | _pretium, -i_, n. | price |
-| _protinus_ | _statim_ | _puppis, -is_, f. | _navis, -is_, f. |
-| _quaero, -ere, quaesivi, quaesitum_ | to obtain | _recurvus, -a, -um_ | curved |
-| _repeto, -ere_ | _redeo, -ire_ | _resto, -are, -stiti_ | to stop |
-| _retineo, -ere, -tinui, -tentum_ | to hold back | _spargo, -ere_ | to splash |
-| _subpono, -ere, -posui_ (+ DAT.) | to place under | _tempus, -oris_, n. | brow |
-| _tingo, -ere, -xi, -nctum_ | to dye | _traicio, -ere, -ieci, -iectum_ | to pierce |
-| _Tyrius, -a, -um_ | Tyrian, from the city of Tyre | _veho, -ere_ | _fero, ferre_ |
-| _venia, -ae_, f. | _beneficium, -i_  |    |    |
+| **_aequoreus, -a, -um_** | of the ocean | **_agna, -ae_**, f. | lamb |
+| **_Arion, -onis_**, m. | Arion (a child of Poseidon) | **_armo, -are, -avi, -atus_** | to arm |
+| **_avidus, -a, -um_** | **_intentus, -a, -um_** | **_bis_** | twice |
+| **_caerulus, -a, -um_** | sky-blue | **_canens, -ntis_** | _albus, -a, -um_ |
+| **_canto, -are_** | **_cano, -ere_** | **_chorda, -ae_**, f. | string (of an instrument) |
+| **_cithara, -ae_**, f. | lyre | **_conscendo, -ere, -i_** | to board (a ship) |
+| **_conscius, -a, -um_** | conspiring | **_consto, -are, -stiti_** | _sto, -are_ |
+| **_corona, -ae_**, f. | crown | **_crinis, -is_**, m. | _coma, -ae_ |
+| **_deceo, -ere_** | to be suitable (for) | **_delphinus, -i_**, m. | dolphin |
+| **_deprecor, -ari_** | to beg to avoid | **_desilio, -ire_** | to jump down |
+| **_destringo, -ere, -inxi, -ictum_** | to unsheathe, draw | **_ensis, -is_**, m. | _gladius, -i_ |
+| **_flebilis, -e_** | tearful | **_forsitan_** | _fortasse_ |
+| **_gubernator, -oris_**, m. | helmsman | **_icio, -ere, ici, ictum_** | to pluck |
+| **_lyra, -ae_**, f. | lyre | **_maius_** | greater |
+| **_memoro, -are_** | to recount | **_mulceo, -ere_** | to calm |
+| **_murex, -icis_**, f. | purple | **_olor, -is_**, m. | swan |
+| **_onus, -eris_**, n. | weight | **_orno, -are, -avi, -atus_** | to decorate |
+| **_palla, -ae_**, f. | robe | **_pavidus, -a, -um_** | trembling |
+| **_penna, -ae_**, f. | arrow | **_Phoebus, -i_**, m. | Apollo |
+| **_pollex, -icis_**, m. | thumb | **_pretium, -i_**, n. | price |
+| **_protinus_** | **_statim_** | **_puppis, -is_**, f. | _navis, -is_, f. |
+| **_quaero, -ere, quaesivi, quaesitum**_ | to obtain | **_recurvus, -a, -um_** | curved |
+| **_repeto, -ere_** | **_redeo, -ire_** | **_resto, -are, -stiti_** | to stop |
+| **_retineo, -ere, -tinui, -tentum_** | to hold back | **_spargo, -ere_** | to splash |
+| **_subpono, -ere, -posui_** (+ DAT.) | to place under | **_tempus, -oris_**, n. | brow |
+| **_tingo, -ere, -xi, -nctum_** | to dye | **_traicio, -ere, -ieci, -iectum_** | to pierce |
+| **_Tyrius, -a, -um_** | Tyrian, from the city of Tyre | **_veho, -ere_** | _fero, ferre_ |
+| **_venia, -ae_**, f. | **_beneficium, -i_**  |    |    |
 
 
 
