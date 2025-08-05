@@ -15,23 +15,23 @@ The _Ruodlieb_ is a medieval poem likely written by a now-anonymous German monk.
 
 ## Text
 
-Rex poscens tabulam iubet opponi sibi sellam
-et me contra se iubet in fulchro residere,
-ut secum ludam, quod ego nimium renuebam,
-dicens “Terribile miserum conludere rege”;
-et dum me vidit sibi non audere reniti,			**5**
+Rex poscens _tabulam_ iubet _opponi_ sibi sellam
+et me contra se iubet in _fulchro_ residere,
+ut secum ludam, quod ego _nimium renuebam_,
+dicens “Terribile miserum _conludere_ rege”;
+et dum me vidit sibi non audere _reniti_,			**5**
 ludere laudavi, cupiens ab eo superari,
-“Vinci de rege” dicens “quid obest miserum me?
-Sed timeo, domine, quod mox irasceris in me,
-si fortuna iuvet, mihi quod Victoria constet.”
-Rex subridendo dixit velut atque iocando:			**10**
-“Non opus est, care, super hac re quid vereare:
-si numquam vincam, commocior haut ego fiam;
-sed, quam districte noscas ludas volo cum me,
-nam quos ignotos facies volo discere tractus.”
-Statim rex et ego studiose traximus ambo,			**15**
-et, sibi gratia sit, mihi ter Victoria cessit,
-multis principibus nimis id mirantibus eius.
+“Vinci de rege” dicens “quid _obest_ miserum me?
+Sed timeo, domine, quod mox _irasceris_ _in_ me,
+si fortuna iuvet, mihi quod Victoria _constet_.”
+Rex _subridendo_ dixit velut atque _iocando_:			**10**
+“Non opus est, care, _super_ hac re quid _vereare_:
+si numquam vincam, _commocior_ haut ego fiam;
+sed, quam _districte_ noscas ludas volo cum me,
+nam quos _ignotos_ facies volo discere _tractus_.”
+Statim rex et ego _studiose traximus ambo_,			**15**
+et, sibi gratia sit, mihi _ter_ Victoria cessit,
+multis principibus _nimis_ id _mirantibus_ eius.
 
 ---------
 
@@ -59,27 +59,27 @@ multis principibus nimis id mirantibus eius.
 ## Commentary
 
 
-line 1 	tabulam: refers to a chess board. This is one of the earliest references to chess in European literature. The game had recently been introduced via Islamic influence at the time this poem was written. While the rules had not yet been developed and formalized into their current form, the game was already very popular among European nobility.
- 	sibi: dative with the compound verb opponi
-        3 	secum = cum se
- 	quod: refers to ut secum ludam; “(something) which”
-        4 	terribile: supply est with the whole phrase miserum conludere rege as the subject
-miserum: supply virum; here “wretched” has the sense of “lower-class” (at least relative to the king)
- 	rege: ablative direct object of conludere as a result of the con- (i.e., cum-) prefix
-        5 	sibi: dative with the compound verb reniti
-        6 	ludere = “playing,” take as the object of laudavi
-        7 	quid = quomodo
-        obest: take vinci as the subject and miserum me as the object. By the medieval period, authors were inconsistent about the use of the dative with compound verbs.
-        9 	mihi: dative with compound verb constet
-      10	subridendo and iocando = subridens and iocans. By the medieval period, ablative gerunds were equivalent to nominative present participles.
-      11  	quid = aliquid
- 	vereare = verearis; supply an ut, “that you...”
-      12  	commocior = commotior (from commotus, -a, -um); the spelling of the letter t as a c before an i was common in medieval Latin to reflect the pronunciation of /ts/.
-      13 	quam...me = noscas quam districte volo (ut) ludas cum me, “know how seriously I want you to play with me;” with noscas as an independent subjunctive indicating a gentle command and ludas as a command/wish indirectly stated with volo. As the verb of an indirect question introduced by noscas and quam districte, one would expect volo to be in the subjunctive, but medieval Latin is less strict about the mood of subordinate verbs.
-      14 	ignotos: supply mihi
-  	facies: from the verb facio, -ere not the noun facies, -ei
-      16 	sibi: refers to a personified Victoria
- 	sibi gratia sit = “let thanks be to her”
-      17 	principibus: refers to the nobles watching the chess match
- 	id: refers to the whole situation
- 	eius: refers to the king
+[^1]: _tabulam_: refers to a chess board. This is one of the earliest references to chess in European literature. The game had recently been introduced via Islamic influence at the time this poem was written. While the rules had not yet been developed and formalized into their current form, the game was already very popular among European nobility.
+[^2]: _sibi_: dative with the compound verb _opponi_
+[^3]: _secum_ = _cum se_
+[^4]: _quod_: refers to_ ut secum ludam_; “(_something_) _which_”
+[^5]: _terribile_: supply _est_ with the whole phrase _miserum conludere rege_ as the subject
+[^6]: _miserum_: supply _virum_; here “_wretched_” has the sense of “_lower-class_” (at least relative to the king)
+[^7]: _rege_: ablative direct object of _conludere_ as a result of the _con_- (i.e., _cum_-) prefix
+[^8]: _sibi_: dative with the compound verb _reniti_
+[^9]: _ludere_ = “_playing_,” take as the object of _laudavi_
+[^10]: _quid_ = _quomodo_
+[^11]: _obest_: take _vinci_ as the subject and _miserum_ me as the object. By the medieval period, authors were inconsistent about the use of the dative with compound verbs.
+[^12]: _mihi_: dative with compound verb _constet_
+[^13]: _subridendo_ and _iocando_ = _subridens_ and _iocans_. By the medieval period, ablative gerunds were equivalent to nominative present participles.
+[^14]: _quid_ = _aliquid_
+[^15]: _vereare_ = _verearis_; supply an _ut_, “_that you..._”
+[^16]: _commocior_ = _commotior_ (from _commotus, -a, -um_); the spelling of the letter _-t_ as a _-c_ before an _-i_ was common in medieval Latin to reflect the pronunciation of /_ts_/.
+[^17]: _quam...me_ = _noscas quam districte volo (ut) ludas cum me_, “_know how seriously I want you to play with me_;” with _noscas_ as an independent subjunctive indicating a gentle command and _ludas_ as a command/wish indirectly stated with _volo_. As the verb of an indirect question introduced by _noscas_ and _quam districte_, one would expect _volo_ to be in the subjunctive, but medieval Latin is less strict about the mood of subordinate verbs.
+[^18]: _ignotos_: supply _mihi_
+[^19]: _facies_: from the verb _facio, -ere_ NOT the noun _facies, -ei_
+[^20]: _sibi_: refers to a personified Victoria
+[^21]: _sibi gratia sit_ = “_let thanks be to her_”
+[^22]: _principibus_: refers to the nobles watching the chess match
+[^23]: _id_: refers to the whole situation
+[^24]: _eius_: refers to the king
