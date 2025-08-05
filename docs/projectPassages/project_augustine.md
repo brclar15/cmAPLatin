@@ -19,35 +19,35 @@ Aurelius Augustinus Hipponensis, better known as Augustine of Hippo, was a highl
 
      note2: footnotes will lead you to the commentary
 
-Cur ergo Graecam etiam _grammaticam_ _oderam_ talia
+Cur ergo Graecam etiam[^1] _grammaticam_[^2] _oderam_ talia[^3]
 
-_cantantem_? Nam et _Homerus_ _peritus_ _texere_ tales _fabellas_
+_cantantem_[^4]? Nam et _Homerus_ _peritus_ _texere_[^5] tales _fabellas_
 
-et dulcissime _vanus_ est, mihi tamen _amarus_ erat puero.
+et dulcissime _vanus_[^6] est, mihi tamen _amarus_ erat puero[^7].
 
-Credo etiam Graecis pueris _Vergilius_ ita sit, cum eum sic
+Credo etiam Graecis pueris _Vergilius_ ita sit[^8], cum eum sic
 
-discere coguntur ut ego illum. _Videlicet difficultas, difficultas_		**5**
+discere coguntur ut ego illum[^9]. _Videlicet difficultas, difficultas_		**5**
 
-_omnino ediscendae_ linguae _peregrinae_, quasi _felle_
+_omnino ediscendae_[^10] linguae _peregrinae_, quasi _felle_
 
-_aspergebat_ omnes _suavitates_ Graecas _fabulosarum_
+_aspergebat_[^11] omnes _suavitates_ Graecas _fabulosarum_
 
 _narrationum_. Nulla enim verba illa noveram, et saevis
 
-_terroribus_ ac poenis ut nossem _instabatur_ mihi vehementer.
+_terroribus_ ac poenis ut nossem[^12] _instabatur_[^13] mihi vehementer.
 
-Nam et _Latina aliquando_ infans _utique_ nulla noveram, et			**10**
+Nam et[^14] _Latina[^15] aliquando_ infans[^16] _utique_ nulla noveram, et			**10**
 
 tamen _advertendo_ didici sine ullo metu atque _cruciatu_, inter
 
-etiam _blandimenta nutricum_ et _ioca adridentium_ et laetitias
+etiam _blandimenta nutricum_ et _ioca adridentium_[^17] et laetitias
 
-_adludentium_. Didici vero illa sine _poenali onere urgentium_.
+_adludentium_[^17]. Didici vero illa[^18] sine _poenali onere urgentium_[^17].
 
-Hinc satis _elucet maiorem_ habere vim ad discenda ista
+Hinc satis _elucet[^19] maiorem_ habere vim ad discenda ista[^20]
 
-liberam _curiositatem_ quam _meticulosam necessitatem_.			**15**
+liberam[^21] _curiositatem_ quam _meticulosam necessitatem_.			**15**
 
 --------
 
@@ -83,23 +83,24 @@ liberam _curiositatem_ quam _meticulosam necessitatem_.			**15**
 ## Commentary
 
 
-[^1]: _grammaticam_: literally “(a system of) grammar,” but here it means the “(Greek) language and literature” or, specifically, “(Greek) poetry”
-[^1]: _talia_: supply carmina; etiam...talia (“also...such...”) establishes a contrast between the Greek epic poetry of Homer and the Latin epic poetry of the Aeneid. Just before this passage, Augustine had been discussing his love of the Aeneid.
-[^1]: _cantantem_: modifies a personified Graecam grammaticam, “the Greek language, that sings...” 
-[^1]: _texere_: the infinitive completes the idea of peritus, “skillful at...”
-[^1]: _vanus_: This description of Homer here alludes back to the larger context of Augustine’s discussion in sections 12 and 13 of the _Confessions_, in which he contrasts his own misguided, youthful love of epic poetry (in particular, the Aeneid) to, in his opinion, the upright love for Christian scripture. According to his account, epic poetry is empty, deceptive, and a distraction from becoming a better Christian.
-[^1]: _puero_: taken together with mihi, “as a boy”
-[^1]: _sit_: Classical Latin would use an infinitive as the main verb of the indirect statement introduced by credo, but Latin after the second century CE began to substitute this with the subjunctive (usually introduced with quod).
-[^1]: _illum_: refers to Homer
-[^1]: _ediscendae_: gerundive with linguae
-[^1]: _aspergebat_: the subject is difficultas
-[^1]: _nossem_ = _novissem_; perfect forms of _nosco_, _noscere_ have a present meaning, pluperfect forms have a perfect meaning 
-[^1] _instabatur_: used impersonally, “_it was demanded_”
-[^1]: _et_ =“_even_”
-[^1]: _Latina nulla_: supply _verba_
-[^1]: _infans_: taken together with the subject of noveram, “as an infant”
-[^1]: _adridentium...adludentium...urgentium_: adjectives being used substantively
-[^1]: _illa_: refers to _Latina (verba)_
-[^1]: _elucet_: used impersonally, “_it is clear_”
-[^1]: _ista_: refers to _Latina (verba)_
-[^1]: _liberam curiositatem_: accusative subjective of _habere_
+[^1]: _etiam...talia_ : (“also...such...”) establishes a contrast between the Greek epic poetry of Homer and the Latin epic poetry of the Aeneid. Just before this passage, Augustine had been discussing his love of the Aeneid.
+[^2]: _grammaticam_: literally “(a system of) grammar,” but here it means the “(Greek) language and literature” or, specifically, “(Greek) poetry”
+[^3]: _talia_: supply _carmina_
+[^4]: _cantantem_: modifies a personified Graecam grammaticam, “the Greek language, that sings...” 
+[^5]: _texere_: the infinitive completes the idea of peritus, “skillful at...”
+[^6]: _vanus_: This description of Homer here alludes back to the larger context of Augustine’s discussion in sections 12 and 13 of the _Confessions_, in which he contrasts his own misguided, youthful love of epic poetry (in particular, the Aeneid) to, in his opinion, the upright love for Christian scripture. According to his account, epic poetry is empty, deceptive, and a distraction from becoming a better Christian.
+[^7]: _puero_: taken together with mihi, “as a boy”
+[^8]: _sit_: Classical Latin would use an infinitive as the main verb of the indirect statement introduced by credo, but Latin after the second century CE began to substitute this with the subjunctive (usually introduced with quod).
+[^9]: _illum_: refers to Homer
+[^10]: _ediscendae_: gerundive with _linguae_
+[^11]: _aspergebat_: the subject is _difficultas_
+[^12]: _nossem_ = _novissem_; perfect forms of _nosco_, _noscere_ have a present meaning, pluperfect forms have a perfect meaning 
+[^13] _instabatur_: used impersonally, “_it was demanded_”
+[^14]: _et_ =“_even_”
+[^15]: _Latina nulla_: supply _verba_
+[^16]: _infans_: taken together with the subject of noveram, “as an infant”
+[^17]: _adridentium...adludentium...urgentium_: adjectives being used substantively
+[^18]: _illa_: refers to _Latina (verba)_
+[^19]: _elucet_: used impersonally, “_it is clear_”
+[^20]: _ista_: refers to _Latina (verba)_
+[^21]: _liberam curiositatem_: accusative subjective of _habere_
