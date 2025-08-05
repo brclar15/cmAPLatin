@@ -92,7 +92,7 @@ cantat et _aequoreas_ carmine _mulcet_ aquas.
 | **_pollex, -icis_**, m. | thumb | **_pretium, -i_**, n. | price |
 | **_protinus_** | **_statim_** | **_puppis, -is_**, f. | _navis, -is_, f. |
 | **_quaero, -ere, quaesivi, quaesitum_** | to obtain | **_recurvus, -a, -um_** | curved |
-| **_repeto, -ere_** | **_redeo, -ire_** | **_resto, -are, -stiti_** | to stop |
+| **_repeto, -ere_** | _redeo, -ire_ | **_resto, -are, -stiti_** | to stop |
 | **_retineo, -ere, -tinui, -tentum_** | to hold back | **_spargo, -ere_** | to splash |
 | **_subpono, -ere, -posui_** (+ DAT.) | to place under | **_tempus, -oris_**, n. | brow |
 | **_tingo, -ere, -xi, -nctum_** | to dye | **_traicio, -ere, -ieci, -iectum_** | to pierce |
