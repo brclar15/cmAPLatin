@@ -55,7 +55,7 @@ _traiectus_ _penna_[^15] _tempora_[^16] _cantat_ _olor_.
 
 _Protinus_ in medias _ornatus_[^17] _desilit_ undas;
 
-_spargitur_ impulsa _caerula_ puppis aqua.				**20**
+_spargitur_ impulsa _caerula_ _puppis_ aqua.				**20**
 
 Inde (fide[^18] _maius_) tergo _delphina_[^19] _recurvo_
 
