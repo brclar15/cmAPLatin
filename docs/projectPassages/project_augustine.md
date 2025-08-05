@@ -107,7 +107,7 @@ liberam[^21] _curiositatem_ quam _meticulosam necessitatem_.			**15**
 
 [^12]: _nossem_ = _novissem_; perfect forms of _nosco_, _noscere_ have a present meaning, pluperfect forms have a perfect meaning 
 
-[^13] _instabatur_: used impersonally, “_it was demanded_”
+[^13]: _instabatur_: used impersonally, “_it was demanded_”
 
 [^14]: _et_ =“_even_”
 
