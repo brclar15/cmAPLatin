@@ -106,23 +106,24 @@ cantat et aequoreas carmine mulcet aquas.
 ----------
 
 
-line 1 	novit: perfect forms of nosco, noscere have a present meaning Ariona: Greek accusative of Arion
-        2 	tenebat = “could hold back”; the imperfect tense can denote general capability, as it does here.
-        7 	infelix: vocative; here, the poet addresses Arion directly (a stylistic device called “apostrophe”).
-      10 	armata: ablative to agree with manu
-      11 	ille: refers to Arion
-      12 	liceat = “let it be permitted”; sc. mihi
- 	pauca: neuter plural and the accusative direct object of referre
- 	referre = here, “to play”
-      14 	quae possit = “(the sort) which could”
- 	Phoebe: vocative; here, the poet addresses Apollo directly.
-      15 	Tyrio...murice: Murex was a species of snail native to Tyre (in present-day Lebanon) that secreted a purple dye used to stain fabric. The process required vast amounts of the dye and was labor-intensive, so the resulting color was highly valued and very expensive. As a result, only the very rich could afford it, so it became a symbol of wealth and royalty.
-      16 	pollice = digitis
-      17 	numeris = “song”
-      18 	penna: ironically, penna in other contexts refers to a “feather.”
- 	tempora: with canentia, “having been pierced on its white brow.” This use of the accusative shows where he has been pierced (traiectus).
-      19 	ornatus: Arion jumped into the ocean fully clothed.
-      21 	fide maius: an expression of amazement; the neuter singular maius refers to the sentence as a whole
- 	delphina: Greek accusative singular
-      22 	se: refers to the dolphin and is the object of subposuisse
-      23 	pretium vehendi = “as the price for carrying him”
+[^1]: _novit_: perfect forms of _nosco_, _noscere_ have a present meaning 
+[^1]: _Ariona_: Greek accusative of _Arion_
+[^1]: _tenebat_ = “_could hold back_”; the imperfect tense can denote general capability, as it does here.
+[^1]: _infelix_: vocative; here, the poet addresses Arion directly (a stylistic device called “**apostrophe**”).
+[^1]: _armata_: ablative to agree with _manu_
+[^1]: _ille_: refers to Arion
+[^1]: _liceat_ = “_let it be permitted_”; sc. _mihi_
+[^1]: _pauca_: neuter plural and the accusative direct object of _referre_
+[^1]: _referre_ : “_to play_” here
+[^1]: _quae possit_ : “_(the sort) which could_”
+[^1]: _Phoebe_: vocative; here, the poet addresses Apollo directly.
+[^1]: _Tyrio...murice_: Murex was a species of snail native to Tyre (in present-day Lebanon) that secreted a purple dye used to stain fabric. The process required vast amounts of the dye and was labor-intensive, so the resulting color was highly valued and very expensive. As a result, only the very rich could afford it, so it became a symbol of wealth and royalty.
+[^1]: _pollice_ = _digitis_
+[^1]: _numeris_ = “_song_”
+[^1]: _penna_: ironically, _penna_ in other contexts refers to a “_feather_.”
+[^1]: _tempora_: with _canentia_, “_having been pierced on its white brow_.” This use of the accusative shows where he has been pierced (_traiectus_).
+[^1]: _ornatus_: Arion jumped into the ocean fully clothed.
+[^1]: _fide maius_: an expression of amazement; the neuter singular _maius_ refers to the sentence as a whole
+[^1]: _delphina_: Greek accusative singular
+[^1]: _se_: refers to the dolphin and is the object of _subposuisse_
+[^1]: _pretium vehendi_ = “_as the price for carrying him_”
