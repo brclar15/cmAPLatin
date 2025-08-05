@@ -37,51 +37,22 @@ multis principibus nimis id mirantibus eius.
 
 | Vocab | Definition | Vocab | Definition |
 | -------- | ------- | -------- | ------- |
-| vocab1 | def1 | vocab2 | def2 |
-| vocab1 | def1 | vocab2 | def2 |
-| vocab1 | def1 | vocab2 | def2 |
-| vocab1 | def1 | vocab2 | def2 |
-| vocab1 | def1 | vocab2 | def2 |
-| vocab1 | def1 | vocab2 | def2 |
-| vocab1 | def1 | vocab2 | def2 |
-| vocab1 | def1 | vocab2 | def2 |
-| vocab1 | def1 | vocab2 | def2 |
-| vocab1 | def1 | vocab2 | def2 |
-| vocab1 | def1 | vocab2 | def2 |
-| vocab1 | def1 | vocab2 | def2 |
-| vocab1 | def1 | vocab2 | def2 |
-| vocab1 | def1 | vocab2 | def2 |
-| vocab1 | def1 | vocab2 | def2 |
-| vocab1 | def1 | vocab2 | def2 |
+| **_ambo, -ae, -o_** | both | **_commocior, -ius_** | _iratior, -ius_ |
+| **_conludo, -ere_** | to play with/against | **_consto, -are_** | to stand with |
+| **_districtus, -a, -um_** | serious | **_fulchrum, -i_**, n. | _lectus, -i_ |
+| **_in_** (+ ACC) | toward | **_ignosco, -ere, ignovi, ignotum_** | _nescio, -ire_ |
+| **_iocor, -ari_** | to joke | **_irascor, -i_** | to become angry |
+| **_miror, -ari_** | to marvel at | **_nimis_** | very much |
+| **_nimium_** | very much | **_obsum, obesse_** | to harm |
+| **_oppono, -ere_** | to place opposite | **_renitor, -i_** | to resist |
+| **_renuo, -ere_** | to oppose | **_studiosus, -a, -um_** | eager |
+| **_subrideo, -ere_** | _rideo, -ere_ | **_super_** (+ ABL) | about |
+| **_tabula, -ae_**, f | game board | **_ter_** | three times |
+| **_tractus, us_**, m. | move (as in a move made in a game) | **_traho, -ere, traxi, tractum_** | to make a move |
+| **_vereor, -eri_** | _timeo, -ere_ |   |   |
 
 
 
-ambo, -ae, -o: both
-commocior, -ius = iratior, -ius
-conludo, -ere: to play with/against
-consto, -are: to stand with
-districtus, -a, -um: serious
-fulchrum, -i, n. = lectus, -i
-in (+ acc.): toward
-ignosco, -ere, ignovi, ignotum = nescio, -ire
-iocor, -ari: to joke
-irascor, -i: to become angry
-miror, -ari: to marvel at
-nimis: very much
-nimium: very much
-obsum, obesse: to harm
-oppono, -ere: to place opposite
-quid = quomodo
-renitor, -i: to resist
-renuo, -ere: to oppose
-studiosus, -a, -um: eager
-subrideo, -ere = rideo, -ere
-super (+ abl.): about
-tabula, -ae, f.: game board
-ter: three times
-tractus, us, m.: move (as in one made in a game)
-traho, -ere, traxi, tractum: to make a move
-vereor, -eri = timeo, -ere 
 
  ---------
  
@@ -97,7 +68,8 @@ miserum: supply virum; here “wretched” has the sense of “lower-class” (a
  	rege: ablative direct object of conludere as a result of the con- (i.e., cum-) prefix
         5 	sibi: dative with the compound verb reniti
         6 	ludere = “playing,” take as the object of laudavi
-        7 	obest: take vinci as the subject and miserum me as the object. By the medieval period, authors were inconsistent about the use of the dative with compound verbs.
+        7 	quid = quomodo
+        obest: take vinci as the subject and miserum me as the object. By the medieval period, authors were inconsistent about the use of the dative with compound verbs.
         9 	mihi: dative with compound verb constet
       10	subridendo and iocando = subridens and iocans. By the medieval period, ablative gerunds were equivalent to nominative present participles.
       11  	quid = aliquid
