@@ -27,7 +27,7 @@ saepe _avidum_ fugiens _restitit_ agna lupum.
 
 Inde domum _repetens_ _puppem_ _conscendit_ Arion,			**5**
 
-atque ita quaesitas arte ferebat opes.
+atque ita _quaesitas_ arte ferebat opes.
 
 _Forsitan_, infelix[^4], ventos undasque timebas:
 
