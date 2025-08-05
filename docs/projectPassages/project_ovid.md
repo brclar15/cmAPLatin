@@ -105,6 +105,7 @@ cantat et _aequoreas_ carmine _mulcet_ aquas.
 
 ----------
 
+## Commentary
 
 [^1]: _novit_: perfect forms of _nosco_, _noscere_ have a present meaning 
 [^2]: _Ariona_: Greek accusative of _Arion_
