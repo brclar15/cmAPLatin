@@ -70,7 +70,7 @@ liberam[^21] _curiositatem_ quam _meticulosam necessitatem_.			**15**
 | **_narratio, -onis, f._**       | _fabula, -ae_          | **_necessitas, -tatis, f._** |     compulsion      |
 | **_nutrix, -icis, f._**       | nurse          | **_odi, -isse, osum_** |     to hate      |
 | **_omnino_**        | at all          | **_onus, -eris, n._** |     burden      |
-| **_peregrinus, -a, -um_**         | **_alienus, -a, -um_**          | peritus, -a, -um |     skillful      |
+| **_peregrinus, -a, -um_**         | **_alienus, -a, -um_**          | **peritus, -a, -um** |     skillful      |
 | **_poenalis, -e_**        |  of punishment          | **_suavitas, -tatis, f._** |     sweetness      |
 | **_terror, -is, m._**        | _formido, -inis, f._          | **_texo, -ere, -ui, textum_** |     _scribo, -ere_      |
 | **_urgeo, -ere_**        | to force          | **_utique_** |     certainly      |
@@ -93,11 +93,11 @@ liberam[^21] _curiositatem_ quam _meticulosam necessitatem_.			**15**
 
 [^5]: _texere_: the infinitive completes the idea of peritus, “skillful at...”
 
-[^6]: _vanus_: This description of Homer here alludes back to the larger context of Augustine’s discussion in sections 12 and 13 of the _Confessions_, in which he contrasts his own misguided, youthful love of epic poetry (in particular, the Aeneid) to, in his opinion, the upright love for Christian scripture. According to his account, epic poetry is empty, deceptive, and a distraction from becoming a better Christian.
+[^6]: _vanus_: This description of Homer here alludes back to the larger context of Augustine’s discussion in sections 12 and 13 of the _Confessions_, in which he contrasts his own misguided, youthful love of epic poetry (in particular, the _Aeneid_) to, in his opinion, the upright love for Christian scripture. According to his account, epic poetry is empty, deceptive, and a distraction from becoming a better Christian.
 
-[^7]: _puero_: taken together with mihi, “as a boy”
+[^7]: _puero_: taken together with _mihi_, “as a boy”
 
-[^8]: _sit_: Classical Latin would use an infinitive as the main verb of the indirect statement introduced by credo, but Latin after the second century CE began to substitute this with the subjunctive (usually introduced with quod).
+[^8]: _sit_: Classical Latin would use an infinitive as the main verb of the indirect statement introduced by _credo_, but Latin after the second century CE began to substitute this with the subjunctive (usually introduced with _quod_).
 
 [^9]: _illum_: refers to Homer
 
@@ -113,7 +113,7 @@ liberam[^21] _curiositatem_ quam _meticulosam necessitatem_.			**15**
 
 [^15]: _Latina nulla_: supply _verba_
 
-[^16]: _infans_: taken together with the subject of noveram, “as an infant”
+[^16]: _infans_: taken together with the subject of _noveram_, “_as an infant_”
 
 [^17]: _adridentium...adludentium...urgentium_: adjectives being used substantively
 
