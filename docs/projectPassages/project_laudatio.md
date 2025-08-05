@@ -67,7 +67,7 @@ defendisti domum nostram.
  
 ---------
 
-
+## Commentary
 
 [^1]: _fugae meae_: Turia’s husband, an ally of Pompey, was forced to flee after Julius Caesar defeated Pompey’s forces at the Battle of Pharsalus in 49 BCE.
 [^2]: _ornamentis_ = “_with the things I needed_”
