@@ -45,7 +45,7 @@ Dant _veniam_ ridentque moram: capit ille _coronam_,
 
 quae possit _crines_, _Phoebe_, _decere_ tuos;
 
-induerat Tyrio _bis_ _tinctam_ _murice_ _pallam_:				**15**
+induerat _Tyrio_ _bis_ _tinctam_ _murice_ _pallam_:				**15**
 
 reddidit _icta_ suos _pollice_ _chorda_ sonos,
 
