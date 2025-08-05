@@ -84,23 +84,43 @@ liberam[^21] _curiositatem_ quam _meticulosam necessitatem_.			**15**
 
 
 [^1]: _etiam...talia_ : (“also...such...”) establishes a contrast between the Greek epic poetry of Homer and the Latin epic poetry of the Aeneid. Just before this passage, Augustine had been discussing his love of the Aeneid.
+
 [^2]: _grammaticam_: literally “(a system of) grammar,” but here it means the “(Greek) language and literature” or, specifically, “(Greek) poetry”
+
 [^3]: _talia_: supply _carmina_
+
 [^4]: _cantantem_: modifies a personified Graecam grammaticam, “the Greek language, that sings...” 
+
 [^5]: _texere_: the infinitive completes the idea of peritus, “skillful at...”
+
 [^6]: _vanus_: This description of Homer here alludes back to the larger context of Augustine’s discussion in sections 12 and 13 of the _Confessions_, in which he contrasts his own misguided, youthful love of epic poetry (in particular, the Aeneid) to, in his opinion, the upright love for Christian scripture. According to his account, epic poetry is empty, deceptive, and a distraction from becoming a better Christian.
+
 [^7]: _puero_: taken together with mihi, “as a boy”
+
 [^8]: _sit_: Classical Latin would use an infinitive as the main verb of the indirect statement introduced by credo, but Latin after the second century CE began to substitute this with the subjunctive (usually introduced with quod).
+
 [^9]: _illum_: refers to Homer
+
 [^10]: _ediscendae_: gerundive with _linguae_
+
 [^11]: _aspergebat_: the subject is _difficultas_
+
 [^12]: _nossem_ = _novissem_; perfect forms of _nosco_, _noscere_ have a present meaning, pluperfect forms have a perfect meaning 
+
 [^13] _instabatur_: used impersonally, “_it was demanded_”
+
 [^14]: _et_ =“_even_”
+
 [^15]: _Latina nulla_: supply _verba_
+
 [^16]: _infans_: taken together with the subject of noveram, “as an infant”
+
 [^17]: _adridentium...adludentium...urgentium_: adjectives being used substantively
+
 [^18]: _illa_: refers to _Latina (verba)_
+
 [^19]: _elucet_: used impersonally, “_it is clear_”
+
 [^20]: _ista_: refers to _Latina (verba)_
+
 [^21]: _liberam curiositatem_: accusative subjective of _habere_
