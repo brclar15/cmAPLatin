@@ -42,30 +42,37 @@ defendisti domum nostram.
 
 
 ---------------
- 
-absens, -ntis: absent
-absentia, -ae, f.: absence
-adversarius, -i, m. = hostis, -is
-amplus, -a, -um: abundant
-callidus, -a, -um: clever
-civilis, -e: civil
-clementia, -ae, f.: mercy
-conor, -ari: to try
-contra (+ acc.): in front of
-decipio, -ere, -cepi, -ceptum: to deceive
-detraho, -ere, -traxi, -tractum: to take off
-diripio, -ere, -ripui, -reptum: to plunder
-emitto, -ere: to send forth
-emptio, -onis, f.: purchase
-ex (+ abl.): of
-exsul, -is, m./f.: an exile
-firmitas, -atis, f.: strength
-fructus, -us, m.: provisions
-hortor, -ari: to urge
-instruo, -ere, instruxi: to provide
-irrumpo, -ere, -rupi, ruptum: to break in
-locupleto, -are, -avi: to enrich
-margaritum, -i, n.: jewelry
+
+| Vocab | Definition | Vocab | Definition |
+| -------- | ------- | -------- | ------- |
+| **_absens, -ntis_** | absent | **_absentia, -ae_**, f. | absence |
+| **_adversarius, -i_**, m. | **_hostis, -is_** | **_amplus, -a, -um_** | abundant |
+| **_callidus, -a, -um_** | clever | **_civilis, -e_** | civil |
+| **_clementia, -ae_**, f. | mercy | **_conor, -ari_** | to try |
+| **_contra_** (+ ACC) | in front of | **_decipio, -ere, -cepi, -ceptum_** | to deceive |
+| **_detraho, -ere, -traxi, -tractum_** | to take off | **_diripio, -ere, -ripui, -reptum_** | to plunder |
+| **_emitto, -ere_** | to send forth | **_emptio, -onis_**, f. | purchase |
+| **_ex_** (+ ABL) | of | **_exsul, -is_**, m./f. | an exile |
+| **_firmitas, -atis_**, f. | strength | **_fructus, -us_**, m. | provisions |
+| **_hortor, -ari_** | to urge | **_instruo, -ere, instruxi_** | to provide |
+| **_irrumpo, -ere, -rupi, ruptum_** | to break in | **_locupleto, -are, -avi_** | to enrich |
+| **_margaritum, -i_**, n. | jewelry | vocab2 | def2 |
+| vocab1 | def1 | vocab2 | def2 |
+| vocab1 | def1 | vocab2 | def2 |
+| vocab1 | def1 | vocab2 | def2 |
+| vocab1 | def1 | vocab2 | def2 |
+| vocab1 | def1 | vocab2 | def2 |
+| vocab1 | def1 | vocab2 | def2 |
+| vocab1 | def1 | vocab2 | def2 |
+
+
+
+: 
+: 
+: 
+: 
+: 
+: 
 Milo, -nis, m.: Titus Annius Milo, a local politician
 munio, -ire: to strengthen
 nummus, -i, m. = pecunia, -ae
