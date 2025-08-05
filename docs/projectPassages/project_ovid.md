@@ -112,7 +112,7 @@ cantat et _aequoreas_ carmine _mulcet_ aquas.
 [^4]: _infelix_: vocative; here, the poet addresses Arion directly (a stylistic device called “**apostrophe**”).
 [^5]: _armata_: ablative to agree with _manu_
 [^6]: _ille_: refers to Arion
-[^7]: _liceat_ = “_let it be permitted_”; sc. _mihi_
+[^7]: _liceat_ = “_let it be permitted_”; supply _mihi_
 [^8]: _pauca_: neuter plural and the accusative direct object of _referre_
 [^9]: _referre_ : “_to play_” here
 [^10]: _quae possit_ : “_(the sort) which could_”
