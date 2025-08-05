@@ -16,22 +16,39 @@ The _Ruodlieb_ is a medieval poem likely written by a now-anonymous German monk.
 ## Text
 
 Rex poscens _tabulam_[^1] iubet _opponi_ sibi[^2] sellam
+
 et me contra se iubet in _fulchro_ residere,
+
 ut secum[^3] ludam, quod[^4] ego _nimium renuebam_,
+
 dicens “Terribile[^5] miserum[^6] _conludere_ rege[^7]”;
+
 et dum me vidit sibi[^8] non audere _reniti_,			**5**
+
 ludere[^9] laudavi, cupiens ab eo superari,
+
 “Vinci de rege” dicens “quid[^10] _obest_[^11] miserum me?
+
 Sed timeo, domine, quod mox _irasceris_ _in_ me,
+
 si fortuna iuvet, mihi[^12] quod Victoria _constet_.”
+
 Rex _subridendo_[^13] dixit velut atque _iocando_[^13]:			**10**
+
 “Non opus est, care, _super_ hac re quid[^14] _vereare_[^15]:
+
 si numquam vincam, _commocior_[^16] haut ego fiam;
+
 sed, quam[^17] _districte_ noscas ludas volo cum me,
+
 nam quos _ignotos_[^18] facies[^19] volo discere _tractus_.”
+
 Statim rex et ego _studiose traximus ambo_,			**15**
+
 et, sibi[^20] gratia[^21] sit, mihi _ter_ Victoria cessit,
+
 multis principibus[^22] _nimis_ id[^23] _mirantibus_ eius[^24].
+
 
 ---------
 
