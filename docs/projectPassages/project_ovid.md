@@ -97,7 +97,7 @@ cantat et _aequoreas_ carmine _mulcet_ aquas.
 | **_subpono, -ere, -posui_** (+ DAT.) | to place under | **_tempus, -oris_**, n. | brow |
 | **_tingo, -ere, -xi, -nctum_** | to dye | **_traicio, -ere, -ieci, -iectum_** | to pierce |
 | **_Tyrius, -a, -um_** | Tyrian, from the city of Tyre | **_veho, -ere_** | _fero, ferre_ |
-| **_venia, -ae_**, f. | **_beneficium, -i_**  |    |    |
+| **_venia, -ae_**, f. | _beneficium, -i_  |    |    |
 
 
 
