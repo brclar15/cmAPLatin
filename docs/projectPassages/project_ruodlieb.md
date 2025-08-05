@@ -87,4 +87,3 @@ miserum: supply virum; here “wretched” has the sense of “lower-class” (a
       17 	principibus: refers to the nobles watching the chess match
  	id: refers to the whole situation
  	eius: refers to the king
-<img width="540" height="719" alt="image" src="https://github.com/user-attachments/assets/904cccda-269c-479d-b28c-6ec980ee4678" />
