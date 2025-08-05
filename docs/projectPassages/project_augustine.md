@@ -35,7 +35,7 @@ _aspergebat_[^11] omnes _suavitates_ Graecas _fabulosarum_
 
 _narrationum_. Nulla enim verba illa noveram, et saevis
 
-_terroribus_ ac poenis ut nossem[^12] _instabatur_[^13 ] mihi vehementer.
+_terroribus_ ac poenis ut nossem[^12] instabatur[^13] mihi vehementer.
 
 Nam et[^14] _Latina[^15] aliquando_ infans[^16] _utique_ nulla noveram, et			**10**
 
