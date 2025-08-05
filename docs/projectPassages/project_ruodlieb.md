@@ -9,7 +9,7 @@ parent: Project Passages
 
 ## Introduction
 
-The Ruodlieb is a medieval poem likely written by a now-anonymous German monk. It is written in a meter common to the time, Leonine hexameter, in which the last syllable of each line rhymes—sometimes quite loosely—with the last syllable of a word near the middle of the line. The Ruodlieb tells the tale of a noble young man, Ruodlieb, as he travels abroad to seek his fortune. The poem is considered to be one of the earliest examples of a court romance (which tells of the heroic exploits of medieval knights). However, it exhibits a higher degree of realism than standard court romances. In particular, although Ruodlieb is the hero, he is not all-powerful. Rather than focusing solely on his military prowess, the work focuses more on his sense of duty, self-control, humility, and ability to keep the peace in believable situations. In his travels, Ruodlieb interacts frequently with two (unnamed) kings; the event in the following passage occurs during one of these interactions.
+The _Ruodlieb_ is a medieval poem likely written by a now-anonymous German monk. It is written in a meter common to the time, Leonine hexameter, in which the last syllable of each line rhymes—sometimes quite loosely—with the last syllable of a word near the middle of the line. The _Ruodlieb_ tells the tale of a noble young man, Ruodlieb, as he travels abroad to seek his fortune. The poem is considered to be one of the earliest examples of a court romance (which tells of the heroic exploits of medieval knights). However, it exhibits a higher degree of realism than standard court romances. In particular, although Ruodlieb is the hero, he is not all-powerful. Rather than focusing solely on his military prowess, the work focuses more on his sense of duty, self-control, humility, and ability to keep the peace in believable situations. In his travels, Ruodlieb interacts frequently with two (unnamed) kings; the event in the following passage occurs during one of these interactions.
 
 ---------
 
@@ -34,7 +34,28 @@ et, sibi gratia sit, mihi ter Victoria cessit,
 multis principibus nimis id mirantibus eius.
 
 ---------
- 
+
+| Vocab | Definition | Vocab | Definition |
+| -------- | ------- | -------- | ------- |
+| vocab1 | def1 | vocab2 | def2 |
+| vocab1 | def1 | vocab2 | def2 |
+| vocab1 | def1 | vocab2 | def2 |
+| vocab1 | def1 | vocab2 | def2 |
+| vocab1 | def1 | vocab2 | def2 |
+| vocab1 | def1 | vocab2 | def2 |
+| vocab1 | def1 | vocab2 | def2 |
+| vocab1 | def1 | vocab2 | def2 |
+| vocab1 | def1 | vocab2 | def2 |
+| vocab1 | def1 | vocab2 | def2 |
+| vocab1 | def1 | vocab2 | def2 |
+| vocab1 | def1 | vocab2 | def2 |
+| vocab1 | def1 | vocab2 | def2 |
+| vocab1 | def1 | vocab2 | def2 |
+| vocab1 | def1 | vocab2 | def2 |
+| vocab1 | def1 | vocab2 | def2 |
+
+
+
 ambo, -ae, -o: both
 commocior, -ius = iratior, -ius
 conludo, -ere: to play with/against
@@ -63,6 +84,9 @@ traho, -ere, traxi, tractum: to make a move
 vereor, -eri = timeo, -ere 
 
  ---------
+ 
+## Commentary
+
 
 line 1 	tabulam: refers to a chess board. This is one of the earliest references to chess in European literature. The game had recently been introduced via Islamic influence at the time this poem was written. While the rules had not yet been developed and formalized into their current form, the game was already very popular among European nobility.
  	sibi: dative with the compound verb opponi
