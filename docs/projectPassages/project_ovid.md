@@ -70,34 +70,34 @@ cantat et aequoreas carmine mulcet aquas.
 
 | Vocab | Definition | Vocab | Definition |
 | -------- | ------- | -------- | ------- |
-| aequoreus, -a, -um | of the ocean | agna, -ae, f. | lamb |
-| Arion, -onis, m. | Arion (a child of Poseidon) | armo, -are, -avi, -atus | to arm |
-| avidus, -a, -um | intentus, -a, -um | bis | twice |
-| caerulus, -a, -um | sky-blue | canens, -ntis | albus, -a, -um |
-| canto, -are | cano, -ere | chorda, -ae, f. | string (of an instrument) |
-| cithara, -ae, f. | lyre | conscendo, -ere, -i | to board (a ship) |
-| conscius, -a, -um | conspiring | consto, -are, -stiti | sto, -are |
-| corona, -ae, f. | crown | crinis, -is, m. | coma, -ae |
-| deceo, -ere | to be suitable (for) | delphinus, -i, m. | dolphin |
-| deprecor, -ari | to beg to avoid | desilio, -ire | to jump down |
-| destringo, -ere, -inxi, -ictum | to unsheathe, draw | ensis, -is, m. | gladius, -i |
-| flebilis, -e | tearful | forsitan | fortasse |
-| gubernator, -oris, m. | helmsman | icio, -ere, ici, ictum | to pluck |
-| lyra, -ae, f. | lyre | maius | greater |
-| memoro, -are | to recount | mulceo, -ere | to calm |
-| murex, -icis, f. | purple | olor, -is, m. | swan |
-| onus, -eris, n. | weight | orno, -are, -avi, -atus | to decorate |
-| palla, -ae, f. | robe | pavidus, -a, -um | trembling |
-| penna, -ae, f. | arrow | Phoebus, -i, m. | Apollo |
-| pollex, -icis, m. | thumb | pretium, -i, n. | price |
-| protinus | statim | puppis, -is, f. | navis, -is, f. |
-| quaero, -ere, quaesivi, quaesitum | to obtain | recurvus, -a, -um | curved |
-| repeto, -ere | redeo, -ire | resto, -are, -stiti | to stop |
-| retineo, -ere, -tinui, -tentum | to hold back | spargo, -ere | to splash |
-| subpono, -ere, -posui (+ dat.) | to place under | tempus, -oris, n. | brow |
-| tingo, -ere, -xi, -nctum | to dye | traicio, -ere, -ieci, -iectum | to pierce |
-| Tyrius, -a, -um | Tyrian, from the city of Tyre | veho, -ere | fero, ferre |
-| venia, -ae, f. | beneficium, -i  |    |    |
+| _aequoreus, -a, -um_ | of the ocean | _agna, -ae_, f. | lamb |
+| _Arion, -onis_, m. | Arion (a child of Poseidon) | _armo, -are, -avi, -atus_ | to arm |
+| _avidus, -a, -um_ | _intentus, -a, -um_ | _bis_ | twice |
+| _caerulus, -a, -um_ | sky-blue | _canens, -ntis_ | _albus, -a, -um_ |
+| _canto, -are_ | _cano, -ere_ | _chorda, -ae_, f. | string (of an instrument) |
+| _cithara, -ae_, f. | lyre | c_onscendo, -ere, -i_ | to board (a ship) |
+| _conscius, -a, -um_ | conspiring | _consto, -are, -stiti_ | _sto, -are_ |
+| _corona, -ae_, f. | crown | _crinis, -is_, m. | _coma, -ae_ |
+| _deceo, -ere_ | to be suitable (for) | _delphinus, -i_, m. | dolphin |
+| _deprecor, -ari_ | to beg to avoid | _desilio, -ire_ | to jump down |
+| _destringo, -ere, -inxi, -ictum_ | to unsheathe, draw | _ensis, -is_, m. | _gladius, -i_ |
+| _flebilis, -e_ | tearful | _forsitan_ | _fortasse_ |
+| _gubernator, -oris_, m. | helmsman | _icio, -ere, ici, ictum_ | to pluck |
+| _lyra, -ae_, f. | lyre | _maius_ | greater |
+| _memoro, -are_ | to recount | _mulceo, -ere_ | to calm |
+| _murex, -icis_, f. | purple | _olor, -is_, m. | swan |
+| _onus, -eris_, n. | weight | _orno, -are, -avi, -atus_ | to decorate |
+| _palla, -ae_, f. | robe | _pavidus, -a, -um_ | trembling |
+| _penna, -ae_, f. | arrow | _Phoebus, -i_, m. | Apollo |
+| _pollex, -icis_, m. | thumb | _pretium, -i_, n. | price |
+| _protinus_ | _statim_ | _puppis, -is_, f. | _navis, -is_, f. |
+| _quaero, -ere, quaesivi, quaesitum_ | to obtain | _recurvus, -a, -um_ | curved |
+| _repeto, -ere_ | _redeo, -ire_ | _resto, -are, -stiti_ | to stop |
+| _retineo, -ere, -tinui, -tentum_ | to hold back | _spargo, -ere_ | to splash |
+| _subpono, -ere, -posui_ (+ DAT.) | to place under | _tempus, -oris_, n. | brow |
+| _tingo, -ere, -xi, -nctum_ | to dye | _traicio, -ere, -ieci, -iectum_ | to pierce |
+| _Tyrius, -a, -um_ | Tyrian, from the city of Tyre | _veho, -ere_ | _fero, ferre_ |
+| _venia, -ae_, f. | _beneficium, -i_  |    |    |
 
 
 
