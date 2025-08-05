@@ -67,62 +67,40 @@ cantat et aequoreas carmine mulcet aquas.
 
 
 ----------
- 
-aequoreus, -a, -um: of the ocean
-agna, -ae, f.: lamb
-Arion, -onis, m.: Arion (a child of Poseidon)
-armo, -are, -avi, -atus: to arm
-avidus, -a, -um = intentus, -a, -um
-bis: twice
-caerulus, -a, -um: sky-blue
-canens, -ntis = albus, -a, -um
-canto, -are = cano, -ere
-chorda, -ae, f.: string (of an instrument)
-cithara, -ae, f.: lyre
-conscendo, -ere, -i: to board (a ship)
-conscius, -a, -um: conspiring
-consto, -are, -stiti = sto, -are
-corona, -ae, f.: crown
-crinis, -is, m. = coma, -ae
-deceo, -ere: to be suitable (for)
-delphinus, -i, m.: dolphin
-deprecor, -ari: to beg to avoid
-desilio, -ire: to jump down
-destringo, -ere, -inxi, -ictum: to unsheathe, draw
-ensis, -is, m. = gladius, -i
-flebilis, -e: tearful
-forsitan = fortasse
-gubernator, -oris, m.: helmsman
-icio, -ere, ici, ictum: to pluck
-lyra, -ae, f.: lyre
-maius.: greater
-memoro, -are: to recount
-mulceo, -ere: to calm
-murex, -icis, f.: purple
-olor, -is, m.: swan
-onus, -eris, n.: weight
-orno, -are, -avi, -atus: to decorate
-palla, -ae, f.: robe
-pavidus, -a, -um: trembling
-penna, -ae, f.: arrow
-Phoebus, -i, m.: Apollo
-pollex, -icis, m.: thumb
-pretium, -i, n.: price
-protinus = statim
-puppis, -is, f. = navis, -is
-quaero, -ere, quaesivi, quaesitum: to obtain
-recurvus, -a, -um: curved
-repeto, -ere = redeo, -ire
-resto, -are, -stiti: to stop
-retineo, -ere, -tinui, -tentum: to hold back
-spargo, -ere: to splash
-subpono, -ere, -posui (+ dat.): to place under
-tempus, -oris, n.: brow
-tingo, -ere, -xi, -nctum: to dye
-traicio, -ere, -ieci, -iectum: to pierce
-Tyrius, -a, -um: Tyrian, from the city of Tyre
-veho, -ere = fero, ferre
-venia, -ae, f. = beneficium, -i 
+
+| Vocab | Definition | Vocab | Definition |
+| -------- | ------- | -------- | ------- |
+| aequoreus, -a, -um | of the ocean | agna, -ae, f. | lamb |
+| Arion, -onis, m. | Arion (a child of Poseidon) | armo, -are, -avi, -atus | to arm |
+| avidus, -a, -um | intentus, -a, -um | bis | twice |
+| caerulus, -a, -um | sky-blue | canens, -ntis | albus, -a, -um |
+| canto, -are | cano, -ere | chorda, -ae, f. | string (of an instrument) |
+| cithara, -ae, f. | lyre | conscendo, -ere, -i | to board (a ship) |
+| conscius, -a, -um | conspiring | consto, -are, -stiti | sto, -are |
+| corona, -ae, f. | crown | crinis, -is, m. | coma, -ae |
+| deceo, -ere | to be suitable (for) | delphinus, -i, m. | dolphin |
+| deprecor, -ari | to beg to avoid | desilio, -ire | to jump down |
+| destringo, -ere, -inxi, -ictum | to unsheathe, draw | ensis, -is, m. | gladius, -i |
+| flebilis, -e | tearful | forsitan | fortasse |
+| gubernator, -oris, m. | helmsman | icio, -ere, ici, ictum | to pluck |
+| lyra, -ae, f. | lyre | maius | greater |
+| memoro, -are | to recount | mulceo, -ere | to calm |
+| murex, -icis, f. | purple | olor, -is, m. | swan |
+| onus, -eris, n. | weight | orno, -are, -avi, -atus | to decorate |
+| palla, -ae, f. | robe | pavidus, -a, -um | trembling |
+| penna, -ae, f. | arrow | Phoebus, -i, m. | Apollo |
+| pollex, -icis, m. | thumb | pretium, -i, n. | price |
+| protinus | statim | puppis, -is, f. | navis, -is, f. |
+| quaero, -ere, quaesivi, quaesitum | to obtain | recurvus, -a, -um | curved |
+| repeto, -ere | redeo, -ire | resto, -are, -stiti | to stop |
+| retineo, -ere, -tinui, -tentum | to hold back | spargo, -ere | to splash |
+| subpono, -ere, -posui (+ dat.) | to place under | tempus, -oris, n. | brow |
+| tingo, -ere, -xi, -nctum | to dye | traicio, -ere, -ieci, -iectum | to pierce |
+| Tyrius, -a, -um | Tyrian, from the city of Tyre | veho, -ere | fero, ferre |
+| venia, -ae, f. | beneficium, -i  |    |    |
+
+
+
 
 
 ----------
