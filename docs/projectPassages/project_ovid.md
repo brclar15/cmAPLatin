@@ -17,53 +17,53 @@ comprised of mythological stories that explain the origin of all the holidays on
 ## Text
 
 
-Quod mare non novit, quae nescit Ariona tellus?
+Quod mare non novit, quae nescit _Ariona_ tellus?
 
 Carmine currentes ille tenebat aquas.
 
-Saepe sequens agnam lupus est a voce retentus,
+Saepe sequens _agnam_ lupus est a voce _retentus_,
 
-saepe avidum fugiens restitit agna lupum.
+saepe _avidum_ fugiens _restitit_ agna lupum.
 
-Inde domum repetens puppem conscendit Arion,			**5**
+Inde domum _repetens_ _puppem_ conscendit Arion,			**5**
 
 atque ita quaesitas arte ferebat opes.
 
-Forsitan, infelix, ventos undasque timebas:
+_Forsitan_, infelix, ventos undasque timebas:
 
 at tibi nave tua tutius aequor erat.
 
-Namque gubernator destricto constitit ense
+Namque _gubernator_ _destricto_ _constitit_ _ense_
 
-ceteraque armata conscia turba manu.				**10**
+ceteraque _armata_ _conscia_ turba manu.				**10**
 
-Ille, metu pavidus, “Mortem non deprecor” inquit,
+Ille, metu _pavidus_, “Mortem non _deprecor_” inquit,
 
 “sed liceat sumpta pauca referre lyra.”
 
-Dant veniam ridentque moram: capit ille coronam,
+Dant _veniam_ ridentque moram: capit ille _coronam_,
 
-quae possit crines, Phoebe, decere tuos;
+quae possit _crines_, _Phoebe_, _decere_ tuos;
 
-induerat Tyrio bis tinctam murice pallam:				**15**
+induerat Tyrio _bis_ _tinctam_ _murice_ _pallam_:				**15**
 
-reddidit icta suos pollice chorda sonos,
+reddidit _icta_ suos _pollice_ _chorda_ sonos,
 
-flebilibus numeris veluti canentia dura
+_flebilibus_ numeris veluti _canentia_ dura
 
-traiectus penna tempora cantat olor.
+_traiectus_ _penna_ _tempora_ _cantat_ _olor_.
 
-Protinus in medias ornatus desilit undas;
+_Protinus_ in medias _ornatus_ _desilit_ undas;
 
-spargitur impulsa caerula puppis aqua.				**20**
+_spargitur_ impulsa _caerula_ puppis aqua.				**20**
 
-Inde (fide maius) tergo delphina recurvo
+Inde (fide _maius_) tergo _delphina_ _recurvo_
 
-se memorant oneri subposuisse novo.
+_se memorant oneri subposuisse_ novo.
 
-Ille, sedens citharamque tenens, pretiumque vehendi
+Ille, sedens _citharamque_ tenens, _pretiumque_ _vehendi_
 
-cantat et aequoreas carmine mulcet aquas.
+cantat et _aequoreas_ carmine _mulcet_ aquas.
 
 
 ----------
