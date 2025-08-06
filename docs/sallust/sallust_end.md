@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Intro
+title: End of War
 nav_order: 4
 parent: Sallust
 ---
