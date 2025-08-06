@@ -79,7 +79,7 @@ multis principibus[^22] _nimis_ id[^23] _mirantibus_ eius[^24].
 [^1]: _tabulam_: refers to a chess board. This is one of the earliest references to chess in European literature. The game had recently been introduced via Islamic influence at the time this poem was written. While the rules had not yet been developed and formalized into their current form, the game was already very popular among European nobility.
 [^2]: _sibi_: dative with the compound verb _opponi_
 [^3]: _secum_ = _cum se_
-[^4]: _quod_: refers to_ ut secum ludam_; “(_something_) _which_”
+[^4]: _quod_: refers to _ut secum ludam_; “(_something_) _which_”
 [^5]: _terribile_: supply _est_ with the whole phrase _miserum conludere rege_ as the subject
 [^6]: _miserum_: supply _virum_; here “_wretched_” has the sense of “_lower-class_” (at least relative to the king)
 [^7]: _rege_: ablative direct object of _conludere_ as a result of the _con_- (i.e., _cum_-) prefix
