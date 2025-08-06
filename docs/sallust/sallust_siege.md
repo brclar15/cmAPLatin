@@ -1,13 +1,13 @@
 ---
 layout: page
-title: Intro
+title: Siege at Muluccha
 nav_order: 3
 parent: Sallust
 ---
 
 # Sallust - *Bellum Iugurthinum* 92 - 96
 
-## Siege of the Fortress at Muluccha
+## Siege(!) of the Fortress at Muluccha
 
 ---------------
 
