@@ -10,7 +10,11 @@ has_children: true
 ## AP LATIN: 2025-2026
 
 
-This webiste will house resources for our readings this year
+This webiste will house resources for our readings this year.
+
+### Helpful Links
+
+- [Steadman Commentaries for Pliny/Vergil]({{[site.baseurl](https://geoffreysteadman.com/ap-pliny-and-vergil/)}}/).
 
 ### Required Readings
 
