@@ -15,6 +15,7 @@ This webiste will house resources for our readings this year.
 ### Helpful Links
 
 - [Steadman Commentaries for Pliny/Vergil](https://geoffreysteadman.com/ap-pliny-and-vergil).
+     - click on the link under 1.
 
 ### Required Readings
 
