@@ -11,3 +11,14 @@ has_children: true
 
 
 This webiste will house resources for our readings this year
+
+### Required Readings
+
+- Selections from Vergil's *Aeneid*
+- Selections from Pliny the Younger's *Epistulae*
+
+
+### Teacher Choice Passages
+
+- Selections from Sallust's *Bellum Jugurthinum*
+- Selections from Ovid's *Metamorphoses*
