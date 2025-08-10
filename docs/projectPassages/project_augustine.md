@@ -9,7 +9,7 @@ parent: Project Passages
 
 ## Introduction
 
-Aurelius Augustinus Hipponensis, better known as **Augustine of Hippo**, was a highly influential north African Christian theologian who lived and wrote in late Roman antiquity. His family were Berbers (an ethnic group indigenous to north Africa), highly Romanized, and members of the Roman aristocracy.  _The Confessions_, from which the following passage is drawn, is among his most famous works and is widely considered to be the first Western autobiography. The work focuses heavily on Augustine’s inner experiences, primarily through his reflections on his education and other life events and, at the same time, his gradual conversion from paganism to Christianity.  Through these personal anecdotes, Augustine frequently proposes broad philosophical and religious insights.
+Aurelius Augustinus Hipponensis, better known as [**Augustine of Hippo**](https://en.wikipedia.org/wiki/Augustine_of_Hippo), was a highly influential north African Christian theologian who lived and wrote in late Roman antiquity. His family were Berbers (an ethnic group indigenous to north Africa), highly Romanized, and members of the Roman aristocracy.  _The Confessions_, from which the following passage is drawn, is among his most famous works and is widely considered to be the first Western autobiography. The work focuses heavily on Augustine’s inner experiences, primarily through his reflections on his education and other life events and, at the same time, his gradual conversion from paganism to Christianity.  Through these personal anecdotes, Augustine frequently proposes broad philosophical and religious insights.
 
 -----------
 
