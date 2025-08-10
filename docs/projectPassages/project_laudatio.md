@@ -9,7 +9,7 @@ parent: Project Passages
 
 ## Introduction
 
-The _Laudatio Turiae_ is an inscription that records the life events of an outstanding Roman woman, **Turia**, whose full identity is lost to us. Her husband set up this remarkable funerary inscription to record his love for his wife and her daring acts to hide and protect him during the civil wars of the first century BCE. Traditionally, scholars have identified the husband as Quintus Lucretius Vespillo, who was consul in 19 BCE. However, the portion of the inscription that records their names is missing, and scholars generally are uncertain of the pair’s actual identities. While the full inscription is 180 lines long, this portion recounts Turia’s efforts to help her husband hide from political persecution in 49 BCE, during the civil war between Julius Caesar and Pompey the Great.
+The [_Laudatio Turiae_](https://en.wikipedia.org/wiki/Laudatio_Turiae) is an inscription that records the life events of an outstanding Roman woman, **Turia**, whose full identity is lost to us. Her husband set up this remarkable funerary inscription to record his love for his wife and her daring acts to hide and protect him during the civil wars of the first century BCE. Traditionally, scholars have identified the husband as [Quintus Lucretius Vespillo](https://en.wikipedia.org/wiki/Quintus_Lucretius_Vespillo), who was consul in 19 BCE. However, the portion of the inscription that records their names is missing, and scholars generally are uncertain of the pair’s actual identities. While the full inscription is 180 lines long, this portion recounts Turia’s efforts to help her husband hide from political persecution in 49 BCE, during the civil war between Julius Caesar and Pompey the Great.
 
 ---------------
 
