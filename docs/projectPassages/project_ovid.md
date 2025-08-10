@@ -9,7 +9,9 @@ parent: Project Passages
 
 ## Introduction
 
-Arion was a famous Greek musician about whom we know little for certain. According to the mythology that developed around him, he was the son of Poseidon and a nymph named Oncaea. Historically speaking, he was known as a friend of Periander, a tyrant of the Greek city of Corinth. As such, Arion spent a long time at Periander’s court. Arion is also credited with inventing a kind of poetry called the dithyramb, which was a type of hymn that was sung and danced in honor of Dionysus. According to the Greek writer Herodotus, Arion attended and won a musical competition in Sicily. On his way back home, Arion was kidnapped by pirates, who intended to steal the prize that he had just won. Ovid recounts this story in his _Fasti_, a poem of six books 
+[Arion](https://en.wikipedia.org/wiki/Arion) was a famous Greek musician about whom we know little for certain. According to the mythology that developed around him, he was the son of Poseidon and a nymph named Oncaea. Historically speaking, he was known as a friend of Periander, a tyrant of the Greek city of Corinth. As such, Arion spent a long time at Periander’s court. Arion is also credited with inventing a kind of poetry called the dithyramb, which was a type of hymn that was sung and danced in honor of Dionysus. According to the Greek writer [Herodotus](https://en.wikipedia.org/wiki/Herodotus), Arion attended and won a musical competition in Sicily. On his way back home, Arion was kidnapped by pirates, who intended to steal the prize that he had just won. 
+
+[Ovid](https://en.wikipedia.org/wiki/Ovid) recounts this story in his [_Fasti_](https://en.wikipedia.org/wiki/Fasti_(poem)), a poem of six books 
 comprised of mythological stories that explain the origin of all the holidays on the Roman calendar. The story of Arion and the dolphin he summoned to escape is recorded in the entry for February 3.
 
 ----------
