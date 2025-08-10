@@ -19,7 +19,7 @@ This webiste will house resources for our readings this year.
 - [Logeion dictionaries](https://logeion.uchicago.edu/%CE%BB%CF%8C%CE%B3%CE%BF%CF%82).
      - an incredibly helpful and easy to work with digital dictionary
 
-### Colleboard Required Readings
+### Collegeboard Required Readings
 
 - Selections from Vergil's *Aeneid*
 - Selections from Pliny the Younger's *Epistulae*
