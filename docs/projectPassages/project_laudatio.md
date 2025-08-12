@@ -76,9 +76,6 @@ defendisti domum nostram.
 [^5]: _familia_ = _servis_. The term here refers not to the father, mother, child, etc., but to those that make up the extended Roman family (i.e., those who are enslaved).
 [^6]: _locupletasti_ = _locupletavisti_
 [^7]: _Pro vita rogabas absentis_ = “_you begged for my life while (I was) absent_.”  To whom she pleaded is not clear, but _absentis_ probably indicates that her husband was abroad.
-
------------
-
 [^8]: _ut conarere_: a command indirectly stated after _hortabatur_
 [^9]: _conarere_ = _conareris_
 [^10]: _victa_ = _victorum_. Despite its neuter plural form, this participle describes the same men to whom _eorum_ and _quos_ refer (i.e., those who had the means to intercede on Vespillo’s behalf). The feminine singular form is due possibly to the author’s artful intent that the word agree with _clementia_.
