@@ -18,6 +18,8 @@ This webiste will house resources for our readings this year.
      - click on the link under 1.
 - [Logeion dictionaries](https://logeion.uchicago.edu/%CE%BB%CF%8C%CE%B3%CE%BF%CF%82).
      - an incredibly helpful and easy to work with digital dictionary
+- [The Latin Library](https://www.thelatinlibrary.com/)
+     - helpful for printing out the text as needed
 
 ### Collegeboard Required Readings
 
@@ -29,3 +31,6 @@ This webiste will house resources for our readings this year.
 
 - Selections from Sallust's *Bellum Jugurthinum*
 - Selections from Ovid's *Metamorphoses*
+
+
+### Goals of the Course 
