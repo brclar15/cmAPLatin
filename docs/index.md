@@ -35,4 +35,4 @@ This webiste will house resources for our readings this year.
 
 ### Goals of the Course 
 
-The goal of this course is to allow students to engage closely with a range of Latin authors over several centuries. Students will grow in their ability to read and grapple with extended Latin passages, hone their literary analysis skills, and make complex connections across literature, history, and mythology. The course also tests the student’s ability to read Latin at sight, place works in the context of their genre, and craft arguments based on their readings. 
+The goal of this course is to allow students to engage closely with an array of Latin authors over a range of centuries. Students will grow in their ability to read and grapple with extended Latin passages, hone their literary analysis skills, and make complex connections across literature, history, and mythology. The course also tests the student’s ability to read Latin at sight, place works in the context of their genre, and cultural context, and craft arguments based on their readings. 
