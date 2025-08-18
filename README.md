@@ -1,5 +1,7 @@
 # CM AP Latin
 
+[Site can be reached here](https://brclar15.github.io/cmAPLatin/home)
+
 The goal of this website is for students to have easy access to the range of texts that we will work with this year, as well as links to commentaries and other resources
 
 
