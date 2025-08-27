@@ -10,6 +10,7 @@ parent: Pliny 6
 ## 6.20 Vesuvius & Pliny the Younger
 
 20  C. PLINIUS TACITO SUO S.
+
 1 Ais te adductum litteris quas exigenti tibi de morte avunculi mei scripsi, cupere cognoscere, quos ego Miseni relictus — id enim ingressus abruperam — non solum metus verum etiam casus pertulerim.
 
 *'Quamquam animus meminisse horret, ...
