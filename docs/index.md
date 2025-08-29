@@ -42,6 +42,7 @@ This webiste will house resources for our readings this year.
 
 - Selections from Sallust's *Bellum Jugurthinum*
 - Selections from Ovid's *Metamorphoses*
+- sight reading selections from a range of authors
 
 
 ### Goals of the Course 
