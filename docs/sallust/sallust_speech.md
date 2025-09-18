@@ -15,7 +15,7 @@ parent: Sallust
 
 **"This too I understand, fellow citizens, that the eyes of all are turned towards me, that the just and upright favor me because my services are a benefit to our country, while the nobles are looking for a chance to attack me. Wherefore I must strive the more earnestly that you may not be deceived and that they may be disappointed. From childhood to my present time of life I have so lived that I am familiar with every kind of hardship and danger. As to the efforts, fellow citizens, which before your favors were conferred upon me I made without recompense, it is not my intention to relax them now that they have brought me their reward. To make a moderate use of power is difficult for those who from interested motives have pretended to be virtuous; for me, who have spent my entire life in exemplary conduct, habit has made right living a second nature.**
 
-"Bellum me gerere cum Iugurtha iussistis, quam rem nobilitas aegerrime tulit. Quaeso, reputate cum animis vestris, num id mutare melius sit, si quem ex illo globo nobilitatis ad hoc aut aliud tale negotium mittatis, hominem veteris prosapiae ac multarum imaginum et nullius stipendi: scilicet ut in tanta re ignarus omnium trepidet, festinet, sumat aliquem ex populo monitorem offici sui. Ita plerumque evenit, ut, quem vos imperare iussistis, is sibi imperatorem alium quaerat. Atque ego scio, Quirites, qui, postquam consules facti sunt, et acta maiorum et Graecorum militaria praecepta legere coeperint: praeposteri homines, nam gerere quam fieri tempore posterius, re atque usu prius est. 
+"Bellum me gerere cum Iugurtha iussistis[^1], quam rem nobilitas aegerrime tulit. Quaeso, reputate cum animis vestris, num[^2] id mutare melius sit, si quem[^3] ex illo globo nobilitatis ad hoc aut aliud tale negotium mittatis, hominem veteris prosapiae ac multarum imaginum[^4] et nullius stipendi[^5]: scilicet ut in tanta re ignarus omnium trepidet, festinet, sumat aliquem ex populo monitorem offici sui. Ita plerumque evenit, ut, quem vos imperare iussistis, is sibi imperatorem alium quaerat. Atque ego scio, Quirites[^6], qui, postquam consules facti sunt, et acta maiorum et Graecorum militaria praecepta[^1] legere coeperint: praeposteri homines, nam[^1] gerere quam fieri tempore posterius, re atque usu prius est. 
 
 "Comparate nunc, Quirites, cum illorum superbia me hominem novum. Quae illi audire aut legere solent, eorum partem vidi, alia egomet gessi; quae illi litteris, ea ego militando didici. Nunc vos existimate, facta an dicta pluris sint. Contemnunt novitatem meam, ego illorum ignaviam; mihi fortuna, illis probra obiectantur. Quamquam ego naturam unam et communem omnium existimo, sed fortissimum quemque generosissimum. Ac si iam ex patribus Albini aut Bestiae quaeri posset, mene an illos ex se gigni maluerint, quid responsuros creditis nisi sese liberos quam optimos voluisse? 
 
@@ -30,3 +30,30 @@ Huiusce rei ego inopiam fateor, Quirites, verum, id quod multo praeclarius est, 
 "Quin ergo, quod iuvat, quod carum aestimant, id semper faciant: ament, potent; ubi adulescentiam habuere, ibi senectutem agant, in conviviis, dediti ventri et turpissimae parti corporis; sudorem, pulverem et alia talia relinquant nobis, quibus illa epulis iucundiora sunt. Verum non ita est. Nam ubi se flagitiis dedecoravere turpissimi viri, bonorum praemia ereptum eunt. Ita iniustissime luxuria et ignavia, pessimae artes, illis, qui coluere eas, nihil officiunt, rei publicae innoxiae cladi sunt. 
 
 **"Now that I have replied to them to the extent that my character — but not their crimes — demanded I shall say a few words about our country. First of all, be of good cheer as to Numidia, citizens; for you have put away everything which up to this time has protected Jugurtha — avarice, incompetence, and arrogance. Furthermore, there is an army in Africa familiar with the country, but by heaven! more valiant than fortunate; for a great part of it has perished through the greed or rashness of its leaders. Therefore do you, who are of military age, join your efforts with mine and serve your country, and let no one feel fear because of disasters to others or the arrogance of generals. I, Marius, shall be with you on the march and in battle, at once your counsellor and the companion of your dangers, and I shall treat myself and you alike in all respects. And surely with the help of the gods everything is ripe for us — victory, spoils, glory; but even though these were uncertain or remote, yet all good men ought to fly to the aid of their fatherland. Truly, no one ever became immortal through cowardice, and no parent would wish for his children that they might live forever, but rather that their lives might be noble and honored. I would say more, citizens, if words could make cowards brave. For the resolute I think I have spoken abundantly."**
+
+
+
+--------------
+
+## Commentary
+
+
+[^1]: _iussistis_: 2nd plural verb, we don't see a lot of those!
+
+[^2]: _num_ : whether 
+
+[^3]: _quem_ : remember that after _si, nisi, num and ne_, all the _ali-s_ fly away! Meaning that you won't get _aliquis_ (or other forms of it), just _quis_
+
+[^4]: _imaginum_ : _imago, -inis_ (f) are statues or busts of ancestors that the Romans displayed in their houses
+
+[^5]: _stipendi_ : _stipendium, -i_ (n) here means "military service"
+
+[^6]: Quirites : this is a name for the Roman citizens as a collective, and comes from [Quirinus](https://en.wikipedia.org/wiki/Quirinus), the deified Romulus 
+
+[^1]: _praecepta_ : _praeceptum, -i_ (n) - here go with "lessons" or "teachings", referring to military treatises 
+
+[^1]: nam : 
+
+[^1]: 
+
+[^1]: 
