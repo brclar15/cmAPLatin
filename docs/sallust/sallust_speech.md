@@ -15,9 +15,9 @@ parent: Sallust
 
 **"This too I understand, fellow citizens, that the eyes of all are turned towards me, that the just and upright favor me because my services are a benefit to our country, while the nobles are looking for a chance to attack me. Wherefore I must strive the more earnestly that you may not be deceived and that they may be disappointed. From childhood to my present time of life I have so lived that I am familiar with every kind of hardship and danger. As to the efforts, fellow citizens, which before your favors were conferred upon me I made without recompense, it is not my intention to relax them now that they have brought me their reward. To make a moderate use of power is difficult for those who from interested motives have pretended to be virtuous; for me, who have spent my entire life in exemplary conduct, habit has made right living a second nature.**
 
-"Bellum me gerere cum Iugurtha iussistis[^1], quam rem nobilitas aegerrime tulit. Quaeso, reputate cum animis vestris, num[^2] id mutare melius sit, si quem[^3] ex illo globo nobilitatis ad hoc aut aliud tale negotium mittatis, hominem veteris prosapiae ac multarum imaginum[^4] et nullius stipendi[^5]: scilicet ut in tanta re ignarus omnium trepidet, festinet, sumat aliquem ex populo monitorem offici sui. Ita plerumque evenit, ut, quem vos imperare iussistis, is sibi imperatorem alium quaerat. Atque ego scio, Quirites[^6], qui, postquam consules facti sunt, et acta maiorum et Graecorum militaria praecepta[^1] legere coeperint: praeposteri homines, nam[^1] gerere quam fieri tempore posterius, re atque usu prius est. 
+"Bellum me gerere cum Iugurtha iussistis[^1], quam rem nobilitas aegerrime tulit. Quaeso, reputate cum animis vestris, num[^2] id mutare melius sit, si quem[^3] ex illo globo nobilitatis ad hoc aut aliud tale negotium mittatis, hominem veteris prosapiae ac multarum imaginum[^4] et nullius stipendi[^5]: scilicet ut in tanta re ignarus omnium trepidet, festinet, sumat aliquem ex populo monitorem offici sui. Ita plerumque evenit, ut, quem vos imperare iussistis, is sibi imperatorem alium quaerat. Atque ego scio, Quirites[^6], qui, postquam consules facti sunt, et acta maiorum et Graecorum militaria praecepta[^7] legere coeperint: praeposteri homines....! 
 
-"Comparate nunc, Quirites, cum illorum superbia me hominem novum. Quae illi audire aut legere solent, eorum partem vidi, alia egomet gessi; quae illi litteris, ea ego militando didici. Nunc vos existimate, facta an dicta pluris sint. Contemnunt novitatem meam, ego illorum ignaviam; mihi fortuna, illis probra obiectantur. Quamquam ego naturam unam et communem omnium existimo, sed fortissimum quemque generosissimum. Ac si iam ex patribus Albini aut Bestiae quaeri posset, mene an illos ex se gigni maluerint, quid responsuros creditis nisi sese liberos quam optimos voluisse? 
+"Comparate nunc, Quirites, cum illorum[^8] superbia me hominem novum. Quae illi audire aut legere solent, eorum partem vidi, alia egomet[^9] gessi; quae illi litteris, ea ego militando didici. Nunc vos existimate, facta an[^10] dicta pluris sint. Contemnunt novitatem meam, ego illorum ignaviam; mihi fortuna, illis probra obiectantur. Quamquam ego naturam unam et communem omnium existimo, sed fortissimum quemque generosissimum. Ac si iam ex patribus Albini[^11] aut Bestiae[^11] quaeri posset, mene an[^10] illos ex se gigni maluerint, quid responsuros creditis nisi sese liberos quam optimos voluisse? 
 
 **"But if they rightly look down on me, let them also look down on their own forefathers, whose nobility began, as did my own, in manly deeds. They begrudge me my office; then let them begrudge my toil, my honesty, even my dangers, since it was through those that I won the office. In fact, these men, spoiled by pride, live as if they scorned your honors, but seek them as if their own lives were honorable. Surely they are deceived when they look forward with equal confidence to things which are worlds apart, the joys of idleness and the rewards of merit. Even when they speak to you or address the senate, their theme is commonly a eulogy of their ancestors; by recounting the exploits of their forefathers they imagine themselves more glory. The very reverse is true. The more glorious was the life of their ancestors, the more shameful is their own baseness. Assuredly the matter stands thus: the glory of ancestors is, as it were, a light shining upon their posterity, suffering neither their virtues nor their faults to be hidden.** 
 
@@ -50,10 +50,12 @@ Huiusce rei ego inopiam fateor, Quirites, verum, id quod multo praeclarius est, 
 
 [^6]: Quirites : this is a name for the Roman citizens as a collective, and comes from [Quirinus](https://en.wikipedia.org/wiki/Quirinus), the deified Romulus 
 
-[^1]: _praecepta_ : _praeceptum, -i_ (n) - here go with "lessons" or "teachings", referring to military treatises 
+[^7]: _praecepta_ : _praeceptum, -i_ (n) - here go with "lessons" or "teachings", referring to military treatises 
 
-[^1]: nam : 
+[^8]:  illorum : refers to the nobility 
 
-[^1]: 
+[^9]: egomet: the -met ending is just an intensifier. _I for my part_ (or something similar)
 
-[^1]: 
+[^10]: an : or 
+
+[^11]: Albini et Bestiae : [Albinus](https://en.wikipedia.org/wiki/Spurius_Postumius_Albinus_(consul_110_BC)) and [Bestia](https://en.wikipedia.org/wiki/Lucius_Calpurnius_Bestia_(consul)) were recent consuls, and those members of the nobility 
