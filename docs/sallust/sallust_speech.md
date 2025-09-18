@@ -23,7 +23,7 @@ parent: Sallust
 
 Huiusce[^12] rei[^13] ego inopiam fateor, Quirites, verum[^14], id[^15] quod multo praeclarius est, meamet[^9] facta mihi dicere licet. Nunc videte, quam[^16] iniqui sint. Quod[^17] ex aliena virtute sibi arrogant, id mihi ex mea non concedunt, scilicet quia imagines non habeo et quia mihi nova nobilitas est, quam[^18] certe peperisse melius est quam acceptam corrupisse.
 
-"Equidem ego non ignoro, si iam mihi respondere velint, abunde illis facundam et compositam[^19] orationem fore. Sed in maximo vestro beneficio cum omnibus locis meque vosque maledictis lacerent, non placuit reticere, ne quis[^20] modestiam in conscientiam duceret[^21]. Nam me quidem ex animi mei sententia nulla oratio[^22] laedere potest: quippe vera necesse est bene praedicent, falsa vita moresque mei superant. Sed quoniam vestra consilia accusantur, qui mihi summum honorem et maximum negotium imposuistis, etiam atque etiam reputate, num eorum paenitendum sit. Non possum fidei causa imagines neque triumphos aut consulatus maiorum meorum ostentare, at, si res postulet, hastas, vexillum, phaleras, alia militaria dona, praeterea cicatrices adverso corpore. Hae sunt meae imagines, haec nobilitas, non hereditate relicta, ut illa illis, sed quae ego meis plurimis laboribus et periculis quaesivi. 
+"Equidem ego non ignoro, si iam mihi respondere velint, abunde illis facundam et compositam[^19] orationem fore. Sed in maximo vestro beneficio cum omnibus locis meque vosque maledictis lacerent, non placuit reticere, ne quis[^20] modestiam in conscientiam duceret[^21]. Nam me quidem ex animi mei sententia nulla oratio[^22] laedere potest: quippe[^23] vera necesse est bene praedicent, falsa[^24] vita moresque mei superant. Sed quoniam vestra consilia accusantur, qui mihi summum honorem et maximum negotium imposuistis, etiam atque etiam reputate, num[^25] eorum paenitendum sit. Non possum fidei causa[^26] imagines neque triumphos aut consulatus maiorum meorum ostentare, at, si res postulet, hastas, vexillum, phaleras, alia militaria dona, praeterea cicatrices adverso corpore. Hae sunt meae imagines, haec nobilitas, non hereditate relicta, ut illa[^27] illis, sed quae ego meis plurimis laboribus et periculis quaesivi. 
 
 "Non sunt composita verba mea: parvi id facio. Ipsa se virtus satis ostendit; illis artificio opus est, ut turpia facta oratione tegant. Neque litteras Graecas didici: parum placebat eas discere, quippe quae ad virtutem doctoribus nihil profuerant. At illa multo optima rei publicae doctus sum: hostem ferire, praesidia agitare, nihil metuere nisi turpem famam, hiemem et aestatem iuxta pati, humi requiescere, eodem tempore inopiam et laborem tolerare. His ego praeceptis milites hortabor, neque illos arte colam, me opulenter, neque gloriam meam, laborem illorum faciam. Hoc est utile, hoc civile imperium. Namque cum tute per mollitiem agas, exercitum supplicio cogere, id est dominum, non imperatorem esse. Haec atque alia talia maiores vestri faciendo seque remque publicam celebravere. Quis nobilitas freta, ipsa dissimilis moribus, nos illorum aemulos contemnit et omnes honores non ex merito, sed quasi debitos a vobis repetit. Ceterum homines superbissimi procul errant. Maiores eorum omnia quae licebat illis reliquere: divitias, imagines, memoriam sui praeclaram; virtutem non reliquere, neque poterant: ea sola neque datur dono neque accipitur. Sordidum me et incultis moribus aiunt, quia parum scite convivium exorno neque histrionem ullum neque pluris preti coquum quam vilicum habeo. Quae mihi libet confiteri, Quirites. Nam ex parente meo et ex aliis sanctis viris ita accepi, munditias mulieribus, viris laborem convenire, omnibusque bonis oportere plus gloriae quam divitiarum esse; arma, non supellectilem decori esse. 
 
@@ -82,4 +82,13 @@ Huiusce[^12] rei[^13] ego inopiam fateor, Quirites, verum[^14], id[^15] quod mul
 
 [^22]: _oratio_ : remember that there are 3rd declension nouns where your nominative ends in -o, so take this as your subject 
 
+[^23]: _quippe....praedicent_ : "they speak true things, it's necessary that they speak well."
+
+[^24]: _falsa_ : add in another _praedicent_, with _falsa_ as your direct object
+
+[^25]: _num_ : _whether_ 
+
+[^26]: _fidei causa_ : genitive + _causa_ (in the ablative) = "for the cause of...."
+
+[^27]: _ut illa illis_ : add a "relicta" or something similar in here. _as these things_ (the _imagines_ and _nobilitas_) _have been left behind for them_ (the nobles)
 
