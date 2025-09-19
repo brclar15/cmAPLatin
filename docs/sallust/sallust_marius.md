@@ -26,7 +26,7 @@ Postquam haec atque alia talia dixit neque animus Mari flectitur, respondit, ubi
 ## Commentary
 
 
-[^1]: _Uticae_ _ [Utica](https://en.wikipedia.org/wiki/Utica,_Tunisia) is a major city in North Africa. Think carefully about the case of this city!
+[^1]: _Uticae_ : [Utica](https://en.wikipedia.org/wiki/Utica,_Tunisia) is a major city in North Africa. Think carefully about the case of this city!
 
 [^2]: _forte_ : _by chance_, **NOT** _strong_, unless it's describing another ablative singular noun
 
