@@ -16,9 +16,9 @@ parent: Sallust
 Sed is natus et omnem pueritiam Arpini altus, ubi primum aetas militiae patiens fuit, stipendiis[^6] faciendis, non Graeca facundia neque urbanis munditiis sese exercuit: ita inter artes bonas integrum ingenium brevi adolevit. Ergo, ubi primum tribunatum militarem a populo petit, plerisque[^7] faciem eius ignorantibus facile factis notus per omnes tribus declaratur[^8]. Deinde ab eo magistratu alium, post alium sibi peperit, semperque in potestatibus eo modo agitabat, ut ampliore quam gerebat dignus haberetur[^9]. Tamen is ad[^10] id locorum talis vir — nam postea ambitione praeceps datus est — consulatum appetere non audebat. Etiam tum alios magistratus plebs, consulatum nobilitas inter se per manus tradebat. Novus nemo tam clarus neque tam egregiis[^11] factis erat, quin[^12] indignus illo honore et is quasi pollutus haberetur. 
 
 
-[64] Igitur ubi Marius haruspicis dicta eodem[^13] intendere videt, quo cupido animi hortabatur, ab Metello petendi gratia[^14] missionem rogat. Cui quamquam virtus, gloria atque alia optanda bonis superabant, tamen inerat contemptor animus et superbia, commune nobilitatis malum. Itaque primum commotus insolita re mirari[^15] eius consilium et quasi per amicitiam monere[^16], ne tam prava[^17] inciperet neu super fortunam animum gereret: non omnia omnibus cupienda esse, debere illi res suas satis placere; postremo caveret id[^18] petere a populo Romano, quod illi iure negaretur. 
+[64] Igitur ubi Marius haruspicis dicta eodem[^13] intendere videt, quo cupido animi hortabatur, ab Metello petendi gratia[^14] missionem rogat. Cui quamquam virtus, gloria atque alia optanda bonis superabant, tamen inerat contemptor animus et superbia, commune nobilitatis malum. Itaque primum commotus insolita re mirari[^15] eius consilium et quasi per amicitiam monere[^15], ne tam prava[^16] inciperet neu super fortunam animum gereret: non omnia omnibus cupienda esse, debere illi res suas satis placere; postremo caveret id[^17] petere a populo Romano, quod illi iure negaretur. 
 
-Postquam haec atque alia talia dixit neque animus Mari flectitur, respondit, ubi primum potuisset per negotia[^19] publica, facturum[^20] sese quae peteret. Ac postea saepius eadem postulanti[^21] fertur[^22] dixisse, ne festinaret abire: satis[^23] mature illum cum filio suo consulatum petiturum. Is eo tempore contubernio[^24] patris ibidem militabat. Annos natus[^25] circiter viginti. Quae res Marium cum pro honore, quem affectabat, tum contra Metellum vehementer accenderat. Ita cupidine atque ira, pessimis consultoribus, grassari[^26]; neque facto ullo neque dicto abstinere, quod modo ambitiosum foret; milites, quibus in hibernis praeerat, laxiore[^27] imperio quam antea habere; apud negotiatores, quorum magna multitudo Uticae erat, criminose[^28] simul et magnifice de bello loqui: dimidia pars exercitus si sibi permitteretur, paucis diebus Iugurtham in catenis habiturum; ab imperatore consulto trahi[^29], quod homo inanis et regiae[^30] superbiae imperio nimis gauderet. Quae omnia illis eo firmiora videbantur, quia diuturnitate belli res familiares corruperant et animo cupienti nihil satis festinatur[^31]. 
+Postquam haec atque alia talia dixit neque animus Mari flectitur, respondit, ubi primum potuisset per negotia[^18] publica, facturum[^19] sese quae peteret. Ac postea saepius eadem postulanti[^20] fertur[^21] dixisse, ne festinaret abire: satis[^22] mature illum cum filio suo consulatum petiturum. Is eo tempore contubernio[^23] patris ibidem militabat. Annos natus[^24] circiter viginti. Quae res Marium cum pro honore, quem affectabat, tum contra Metellum vehementer accenderat. Ita cupidine atque ira, pessimis consultoribus, grassari[^25]; neque facto ullo neque dicto abstinere, quod modo ambitiosum foret; milites, quibus in hibernis praeerat, laxiore[^26] imperio quam antea habere; apud negotiatores, quorum magna multitudo Uticae erat, criminose[^27] simul et magnifice de bello loqui: dimidia pars exercitus si sibi permitteretur, paucis diebus Iugurtham in catenis habiturum; ab imperatore consulto trahi[^28], quod homo inanis et regiae[^29] superbiae imperio nimis gauderet. Quae omnia illis eo firmiora videbantur, quia diuturnitate belli res familiares corruperant et animo cupienti nihil satis festinatur[^30]. 
 
 
 --------------
@@ -26,65 +26,65 @@ Postquam haec atque alia talia dixit neque animus Mari flectitur, respondit, ubi
 ## Commentary
 
 
-[^1]: _
+[^1]: _Uticae_ _ [Utica](https://en.wikipedia.org/wiki/Utica,_Tunisia) is a major city in North Africa. Think carefully about the case of this city!
 
-[^1]: _
+[^1]: _forte_ : _by chance_, **NOT** _strong_, unless it's describing another ablative singular noun
 
-[^1]: _
+[^1]: _portendi_ : this is a **passive infinitive** from _portendere_, **NOT** an FPP
 
-[^1]: _
+[^1]: _quae animo agitabat_ : take this relative clause as the object of the _ageret_ later on
 
-[^1]: _
+[^1]: _animus belli ingens domi modicus_ : you want to double up the _animus_. _animus belli ingens, [et] animus domi modicus_
 
-[^1]: _
+[^1]: _stipendiis_ : stipendium, -i (n) is _military service_ here
 
-[^1]: _
+[^1]: _plerisque ..... factis_ : you **absolutely know what this phrase is**
 
-[^1]: _
+[^1]: _declaratur_ : the _tribunatum militarem_ mentioned above becomes the subject of this verb
 
-[^1]: _
+[^1]: _haberetur_ : _habeo_ in the passive can act like _considered_
 
-[^1]: _
+[^1]: _ad id locorum_ : likely meaning to the different levels of governmental offices
 
-[^1]: _
+[^1]: _egregiis factis_ : **ablative of description**, a man _with outstanding deeds_
 
-[^1]: _
+[^1]: _quin_ : _that_
 
-[^1]: _
+[^1]: _eodem_ : connect this to the _quo_ later on. _to the same place_ (eodem) _where_ (quo). **ablative of location**
 
-[^1]: _
+[^1]: _petendi gratia_ : genitive FPP + _gratia_ is _for the sake of....._
 
-[^1]: _
+[^1]: _mirari, monere_ : both **historical infinitives**
 
-[^1]: _
+[^1]: _prava_ : _mishappen things_, meaning things he should not desire
 
-[^1]: _
+[^1]: _id_ : connect this to the _quod_ later on. _a thing which....._
 
-[^1]: _
+[^1]: _per negotia publica_ : meaning that Marius cannot just up and leave whenever he wants, but has to wait for military things to be in order and to receive permission before he can return to Rome to run for consul
 
-[^1]: _
+[^1]: _facturum_ : **indirect statement** after the _respondit_ above
 
-[^1]: _
+[^1]: _postulanti_ : this refers to Marius, _the one asking_
 
-[^1]: _
+[^1]: _fertur_ : _fero_ in the 3rd singular can mean _s/he says_ (fert) or _he/she/it is said_ (fertur). Metellus is the subject here
 
-[^1]: _
+[^1]: _satis mature_ : _soon enough_
 
-[^1]: _
+[^1]: __ : 
 
-[^1]: _
+[^1]: __ : 
 
-[^1]: _
+[^1]: __ : 
 
-[^1]: _
+[^1]: __ : 
 
-[^1]: _
+[^1]: __ : 
 
-[^1]: _
+[^1]: __ : 
 
-[^1]: _
+[^1]: __ : 
 
-[^1]: _
+[^1]: __ : 
 
 [^1]: _
 
