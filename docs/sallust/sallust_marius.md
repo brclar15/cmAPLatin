@@ -28,63 +28,61 @@ Postquam haec atque alia talia dixit neque animus Mari flectitur, respondit, ubi
 
 [^1]: _Uticae_ _ [Utica](https://en.wikipedia.org/wiki/Utica,_Tunisia) is a major city in North Africa. Think carefully about the case of this city!
 
-[^1]: _forte_ : _by chance_, **NOT** _strong_, unless it's describing another ablative singular noun
+[^2]: _forte_ : _by chance_, **NOT** _strong_, unless it's describing another ablative singular noun
 
-[^1]: _portendi_ : this is a **passive infinitive** from _portendere_, **NOT** an FPP
+[^3]: _portendi_ : this is a **passive infinitive** from _portendere_, **NOT** an FPP
 
-[^1]: _quae animo agitabat_ : take this relative clause as the object of the _ageret_ later on
+[^4]: _quae animo agitabat_ : take this relative clause as the object of the _ageret_ later on
 
-[^1]: _animus belli ingens domi modicus_ : you want to double up the _animus_. _animus belli ingens, [et] animus domi modicus_
+[^5]: _animus belli ingens domi modicus_ : you want to double up the _animus_. _animus belli ingens, [et] animus domi modicus_
 
-[^1]: _stipendiis_ : stipendium, -i (n) is _military service_ here
+[^6]: _stipendiis_ : stipendium, -i (n) is _military service_ here
 
-[^1]: _plerisque ..... factis_ : you **absolutely know what this phrase is**
+[^7]: _plerisque ..... factis_ : you **absolutely know what this phrase is**
 
-[^1]: _declaratur_ : the _tribunatum militarem_ mentioned above becomes the subject of this verb
+[^8]: _declaratur_ : the _tribunatum militarem_ mentioned above becomes the subject of this verb
 
-[^1]: _haberetur_ : _habeo_ in the passive can act like _considered_
+[^9]: _haberetur_ : _habeo_ in the passive can act like _considered_
 
-[^1]: _ad id locorum_ : likely meaning to the different levels of governmental offices
+[^10]: _ad id locorum_ : likely meaning to the different levels of governmental offices
 
-[^1]: _egregiis factis_ : **ablative of description**, a man _with outstanding deeds_
+[^11]: _egregiis factis_ : **ablative of description**, a man _with outstanding deeds_
 
-[^1]: _quin_ : _that_
+[^12]: _quin_ : _that_
 
-[^1]: _eodem_ : connect this to the _quo_ later on. _to the same place_ (eodem) _where_ (quo). **ablative of location**
+[^13]: _eodem_ : connect this to the _quo_ later on. _to the same place_ (eodem) _where_ (quo). **ablative of location**
 
-[^1]: _petendi gratia_ : genitive FPP + _gratia_ is _for the sake of....._
+[^14]: _petendi gratia_ : genitive FPP + _gratia_ is _for the sake of....._
 
-[^1]: _mirari, monere_ : both **historical infinitives**
+[^15]: _mirari, monere_ : both **historical infinitives**
 
-[^1]: _prava_ : _mishappen things_, meaning things he should not desire
+[^16]: _prava_ : _mishappen things_, meaning things he should not desire
 
-[^1]: _id_ : connect this to the _quod_ later on. _a thing which....._
+[^17]: _id_ : connect this to the _quod_ later on. _a thing which....._
 
-[^1]: _per negotia publica_ : meaning that Marius cannot just up and leave whenever he wants, but has to wait for military things to be in order and to receive permission before he can return to Rome to run for consul
+[^18]: _per negotia publica_ : meaning that Marius cannot just up and leave whenever he wants, but has to wait for military things to be in order and to receive permission before he can return to Rome to run for consul
 
-[^1]: _facturum_ : **indirect statement** after the _respondit_ above
+[^19]: _facturum_ : **indirect statement** after the _respondit_ above
 
-[^1]: _postulanti_ : this refers to Marius, _the one asking_
+[^20]: _postulanti_ : this refers to Marius, _the one asking_
 
-[^1]: _fertur_ : _fero_ in the 3rd singular can mean _s/he says_ (fert) or _he/she/it is said_ (fertur). Metellus is the subject here
+[^21]: _fertur_ : _fero_ in the 3rd singular can mean _s/he says_ (fert) or _he/she/it is said_ (fertur). Metellus is the subject here
 
-[^1]: _satis mature_ : _soon enough_
+[^22]: _satis mature_ : _soon enough_
 
-[^1]: __ : 
+[^23]: _contubernio_ : contubernium, -i (n) - personal military staff
 
-[^1]: __ : 
+[^24]: _natus_ : sigh, sometimes if you really need to, you can add a form of _sum_ to make a PPP into your main verb
 
-[^1]: __ : 
+[^25]: _grassari_ : **historical infinitive**, like the other three infinitives that follow
 
-[^1]: __ : 
+[^26]: _laxiore_ : note the **comparison** in _lax**ior**e_
 
-[^1]: __ : 
+[^27]: _criminose_ : reproachfully, meaning with critique and disapproval 
 
-[^1]: __ : 
+[^28]: _trahi_ : add a _bellum_ in as your subject
 
-[^1]: __ : 
+[^29]: _regiae superbiae_ : **genitive of desctiption** (works just like an **ablative of description**
 
-[^1]: __ : 
-
-[^1]: _
+[^30]: _festinatur_ : 
 
