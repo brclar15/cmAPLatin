@@ -84,5 +84,5 @@ Postquam haec atque alia talia dixit neque animus Mari flectitur, respondit, ubi
 
 [^29]: _regiae superbiae_ : **genitive of desctiption** (works just like an **ablative of description**
 
-[^30]: _festinatur_ : 
+[^30]: _festinatur_ : this would be weird in the passive in English, just make it active
 
