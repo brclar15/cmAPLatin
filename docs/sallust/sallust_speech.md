@@ -25,7 +25,7 @@ Huiusce[^13] rei[^14] ego inopiam fateor, Quirites, verum[^15], id[^16] quod mul
 
 "Equidem ego non ignoro, si iam mihi respondere velint, abunde illis facundam et compositam[^20] orationem fore. Sed in maximo vestro beneficio cum omnibus locis meque vosque maledictis lacerent, non placuit reticere, ne quis[^21] modestiam in conscientiam duceret[^22]. Nam me quidem ex animi mei sententia nulla oratio[^23] laedere potest: quippe[^24] vera necesse est bene praedicent, falsa[^25] vita moresque mei superant. Sed quoniam vestra consilia accusantur, qui mihi summum honorem et maximum negotium imposuistis, etiam atque etiam reputate, num[^26] eorum paenitendum sit. Non possum fidei causa[^27] imagines neque triumphos aut consulatus maiorum meorum ostentare, at, si res postulet, hastas, vexillum, phaleras, alia militaria dona, praeterea cicatrices adverso corpore. Hae sunt meae imagines, haec nobilitas, non hereditate relicta, ut illa[^28] illis, sed quae ego meis plurimis laboribus et periculis quaesivi. 
 
-"Non sunt composita[^29] verba mea: parvi[^30] id facio. Ipsa se virtus satis ostendit; illis artificio opus[^31] est, ut turpia facta oratione tegant. Neque litteras Graecas didici: parum[^32] placebat eas discere, quippe quae ad virtutem doctoribus nihil profuerant. At illa multo[^33] optima rei publicae doctus sum: hostem ferire, praesidia agitare, nihil metuere nisi turpem famam, hiemem et aestatem iuxta[^34] pati, humi requiescere, eodem tempore inopiam et laborem tolerare. His ego praeceptis milites hortabor, neque illos arte colam, me opulenter, neque gloriam meam, laborem illorum faciam. Hoc est utile, hoc civile imperium. Namque cum tute per mollitiem agas, exercitum supplicio cogere, id est dominum, non imperatorem esse. Haec atque alia talia maiores vestri faciendo seque remque publicam celebravere. Quis[^35] nobilitas freta, ipsa dissimilis moribus, nos illorum aemulos[^36] contemnit et omnes honores non ex merito, sed quasi debitos a vobis repetit. Ceterum[^3] homines superbissimi procul errant. Maiores eorum omnia quae licebat illis reliquere: divitias, imagines, memoriam sui praeclaram; virtutem non reliquere, neque poterant: ea sola neque datur dono neque accipitur. Sordidum me et incultis[^37] moribus aiunt, quia parum[^38] scite[^39] convivium exorno neque histrionem ullum neque pluris[^40] preti coquum quam vilicum habeo. Quae mihi libet confiteri, Quirites. Nam ex parente meo et ex aliis sanctis viris ita accepi, munditias mulieribus, viris laborem convenire, omnibusque bonis oportere plus gloriae quam divitiarum esse; arma, non supellectilem decori esse. 
+"Non sunt composita[^20] verba mea: parvi[^29] id facio. Ipsa se virtus satis ostendit; illis artificio opus[^30] est, ut turpia facta oratione tegant. Neque litteras Graecas didici: parum[^31] placebat eas discere, quippe quae ad virtutem doctoribus nihil profuerant. At illa multo[^32] optima rei publicae doctus sum: hostem ferire, praesidia agitare, nihil metuere nisi turpem famam, hiemem et aestatem iuxta[^33] pati, humi requiescere, eodem tempore inopiam et laborem tolerare. His ego praeceptis milites hortabor, neque illos arte colam, me opulenter, neque gloriam meam, laborem illorum faciam. Hoc est utile, hoc civile imperium. Namque cum tute per mollitiem agas, exercitum supplicio cogere, id est dominum, non imperatorem esse. Haec atque alia talia maiores vestri faciendo seque remque publicam celebravere. Quis[^34] nobilitas freta, ipsa dissimilis moribus, nos illorum aemulos[^35] contemnit et omnes honores non ex merito, sed quasi debitos a vobis repetit. Ceterum[^36] homines superbissimi procul errant. Maiores eorum omnia quae licebat illis reliquere: divitias, imagines, memoriam sui praeclaram; virtutem non reliquere, neque poterant: ea sola neque datur dono neque accipitur. Sordidum me et incultis[^37] moribus aiunt, quia parum[^31] scite[^38] convivium exorno neque histrionem ullum neque pluris[^40] preti coquum quam vilicum habeo. Quae mihi libet confiteri, Quirites. Nam ex parente meo et ex aliis sanctis viris ita accepi, munditias mulieribus, viris laborem convenire, omnibusque bonis oportere plus gloriae quam divitiarum esse; arma, non supellectilem decori esse. 
 
 "Quin ergo, quod iuvat, quod carum aestimant, id semper faciant: ament, potent; ubi adulescentiam habuere, ibi senectutem agant, in conviviis, dediti ventri et turpissimae parti corporis; sudorem, pulverem et alia talia relinquant nobis, quibus illa epulis iucundiora sunt. Verum non ita est. Nam ubi se flagitiis dedecoravere turpissimi viri, bonorum praemia ereptum eunt. Ita iniustissime luxuria et ignavia, pessimae artes, illis, qui coluere eas, nihil officiunt, rei publicae innoxiae cladi sunt. 
 
@@ -94,27 +94,25 @@ Huiusce[^13] rei[^14] ego inopiam fateor, Quirites, verum[^15], id[^16] quod mul
 
 [^28]: _ut illa illis_ : add a "relicta" or something similar in here. _as these things_ (the _imagines_ and _nobilitas_) _have been left behind for them_ (the nobles)
 
-[^29]: __ :  
+[^29]: _parvi id facio_ :  **genitive of value**, _I consider (make) it **of little (importance)**_
 
-[^30]: __ :  
+[^30]: _opus est_ :  opus est = "it is helpful"
 
-[^31]: __ :  
+[^31]: _parum_ :  _too little, not at all_
 
-[^32]: __ :  
+[^32]: _multo_ :  **ablative degree of difference**, _by much_
 
-[^33]: __ :  
+[^33]: _iuxta_ :  _equally_, here
 
-[^34]: __ :  
+[^34]: _Quis_ :  = _quibus_, meaning _on them_, referring to the nobles' ancestors
 
-[^35]: __ :  
+[^35]: _illorum aemulos_ : _emulators/rival of them_, them referring to the nobles' ancestors
 
-[^36]: __ :  
+[^36]: _Ceterum_ :  _moreover_
 
-[^37]: __ :  
+[^37]: _incultis moribus_ :  **ablative of description**, _with unrefined customs_
 
-[^38]: __ :  
+[^38]: _scite_ :  
 
-[^39]: __ :  
-
-[^40]: __ :  
+[^40]: _pluris preti_ :  **genitive of value**, _of a greater price_
 
