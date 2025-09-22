@@ -96,7 +96,7 @@ Huiusce[^13] rei[^14] ego inopiam fateor, Quirites, verum[^15], id[^16] quod mul
 
 [^29]: _parvi id facio_ :  **genitive of value**, _I consider (make) it **of little (importance)**_
 
-[^30]: _opus est_ :  opus est = "it is helpful"
+[^30]: _opus est_ :  this is an idiom (stock phrase) meaning "there is a need" or "it is useful"
 
 [^31]: _parum_ :  _too little, not at all_
 
