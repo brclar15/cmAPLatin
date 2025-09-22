@@ -17,13 +17,13 @@ parent: Sallust
 
 "Bellum me gerere cum Iugurtha iussistis[^1], quam rem nobilitas aegerrime tulit. Quaeso, reputate cum animis vestris, num[^2] id mutare melius sit, si quem[^3] ex illo globo nobilitatis ad hoc aut aliud tale negotium mittatis, hominem veteris prosapiae ac multarum imaginum[^4] et nullius stipendi[^5]: scilicet ut in tanta re ignarus omnium trepidet, festinet, sumat aliquem ex populo monitorem offici sui. Ita plerumque evenit, ut, quem vos imperare iussistis, is sibi imperatorem alium quaerat. Atque ego scio, Quirites[^6], qui, postquam consules facti sunt, et acta maiorum et Graecorum militaria praecepta[^7] legere coeperint: praeposteri homines....! 
 
-"Comparate nunc, Quirites, cum illorum[^8] superbia me hominem novum. Quae illi audire aut legere solent, eorum partem vidi, alia egomet[^9] gessi; quae illi litteris, ea ego militando didici. Nunc vos existimate, facta an[^10] dicta pluris sint. Contemnunt novitatem meam, ego illorum ignaviam; mihi fortuna, illis probra obiectantur. Quamquam ego naturam unam et communem omnium existimo, sed fortissimum quemque generosissimum. Ac si iam ex patribus Albini[^11] aut Bestiae[^11] quaeri posset, mene an[^10] illos ex se gigni maluerint, quid responsuros creditis nisi sese liberos quam optimos voluisse? 
+"Comparate nunc, Quirites, cum illorum[^8] superbia me hominem novum. Quae illi audire aut legere solent, eorum partem vidi, alia egomet[^9] gessi; quae illi litteris, ea ego militando didici. Nunc vos existimate, facta an[^10] dicta pluris[^11] sint. Contemnunt novitatem meam, ego illorum ignaviam; mihi fortuna, illis probra obiectantur. Quamquam ego naturam unam et communem omnium existimo, sed fortissimum quemque generosissimum. Ac si iam ex patribus Albini[^12] aut Bestiae[^12] quaeri posset, mene an[^10] illos ex se gigni maluerint, quid responsuros creditis nisi sese liberos quam optimos voluisse? 
 
 **"But if they rightly look down on me, let them also look down on their own forefathers, whose nobility began, as did my own, in manly deeds. They begrudge me my office; then let them begrudge my toil, my honesty, even my dangers, since it was through those that I won the office. In fact, these men, spoiled by pride, live as if they scorned your honors, but seek them as if their own lives were honorable. Surely they are deceived when they look forward with equal confidence to things which are worlds apart, the joys of idleness and the rewards of merit. Even when they speak to you or address the senate, their theme is commonly a eulogy of their ancestors; by recounting the exploits of their forefathers they imagine themselves more glory. The very reverse is true. The more glorious was the life of their ancestors, the more shameful is their own baseness. Assuredly the matter stands thus: the glory of ancestors is, as it were, a light shining upon their posterity, suffering neither their virtues nor their faults to be hidden.** 
 
-Huiusce[^12] rei[^13] ego inopiam fateor, Quirites, verum[^14], id[^15] quod multo praeclarius est, meamet[^9] facta mihi dicere licet. Nunc videte, quam[^16] iniqui sint. Quod[^17] ex aliena virtute sibi arrogant, id mihi ex mea non concedunt, scilicet quia imagines non habeo et quia mihi nova nobilitas est, quam[^18] certe peperisse melius est quam acceptam corrupisse.
+Huiusce[^13] rei[^14] ego inopiam fateor, Quirites, verum[^15], id[^16] quod multo praeclarius est, meamet[^9] facta mihi dicere licet. Nunc videte, quam[^17] iniqui sint. Quod[^18] ex aliena virtute sibi arrogant, id mihi ex mea non concedunt, scilicet quia imagines non habeo et quia mihi nova nobilitas est, quam[^19] certe peperisse melius est quam acceptam corrupisse.
 
-"Equidem ego non ignoro, si iam mihi respondere velint, abunde illis facundam et compositam[^19] orationem fore. Sed in maximo vestro beneficio cum omnibus locis meque vosque maledictis lacerent, non placuit reticere, ne quis[^20] modestiam in conscientiam duceret[^21]. Nam me quidem ex animi mei sententia nulla oratio[^22] laedere potest: quippe[^23] vera necesse est bene praedicent, falsa[^24] vita moresque mei superant. Sed quoniam vestra consilia accusantur, qui mihi summum honorem et maximum negotium imposuistis, etiam atque etiam reputate, num[^25] eorum paenitendum sit. Non possum fidei causa[^26] imagines neque triumphos aut consulatus maiorum meorum ostentare, at, si res postulet, hastas, vexillum, phaleras, alia militaria dona, praeterea cicatrices adverso corpore. Hae sunt meae imagines, haec nobilitas, non hereditate relicta, ut illa[^27] illis, sed quae ego meis plurimis laboribus et periculis quaesivi. 
+"Equidem ego non ignoro, si iam mihi respondere velint, abunde illis facundam et compositam[^20] orationem fore. Sed in maximo vestro beneficio cum omnibus locis meque vosque maledictis lacerent, non placuit reticere, ne quis[^21] modestiam in conscientiam duceret[^22]. Nam me quidem ex animi mei sententia nulla oratio[^23] laedere potest: quippe[^24] vera necesse est bene praedicent, falsa[^25] vita moresque mei superant. Sed quoniam vestra consilia accusantur, qui mihi summum honorem et maximum negotium imposuistis, etiam atque etiam reputate, num[^26] eorum paenitendum sit. Non possum fidei causa[^27] imagines neque triumphos aut consulatus maiorum meorum ostentare, at, si res postulet, hastas, vexillum, phaleras, alia militaria dona, praeterea cicatrices adverso corpore. Hae sunt meae imagines, haec nobilitas, non hereditate relicta, ut illa[^28] illis, sed quae ego meis plurimis laboribus et periculis quaesivi. 
 
 "Non sunt composita verba mea: parvi id facio. Ipsa se virtus satis ostendit; illis artificio opus est, ut turpia facta oratione tegant. Neque litteras Graecas didici: parum placebat eas discere, quippe quae ad virtutem doctoribus nihil profuerant. At illa multo optima rei publicae doctus sum: hostem ferire, praesidia agitare, nihil metuere nisi turpem famam, hiemem et aestatem iuxta pati, humi requiescere, eodem tempore inopiam et laborem tolerare. His ego praeceptis milites hortabor, neque illos arte colam, me opulenter, neque gloriam meam, laborem illorum faciam. Hoc est utile, hoc civile imperium. Namque cum tute per mollitiem agas, exercitum supplicio cogere, id est dominum, non imperatorem esse. Haec atque alia talia maiores vestri faciendo seque remque publicam celebravere. Quis nobilitas freta, ipsa dissimilis moribus, nos illorum aemulos contemnit et omnes honores non ex merito, sed quasi debitos a vobis repetit. Ceterum homines superbissimi procul errant. Maiores eorum omnia quae licebat illis reliquere: divitias, imagines, memoriam sui praeclaram; virtutem non reliquere, neque poterant: ea sola neque datur dono neque accipitur. Sordidum me et incultis moribus aiunt, quia parum scite convivium exorno neque histrionem ullum neque pluris preti coquum quam vilicum habeo. Quae mihi libet confiteri, Quirites. Nam ex parente meo et ex aliis sanctis viris ita accepi, munditias mulieribus, viris laborem convenire, omnibusque bonis oportere plus gloriae quam divitiarum esse; arma, non supellectilem decori esse. 
 
@@ -58,37 +58,39 @@ Huiusce[^12] rei[^13] ego inopiam fateor, Quirites, verum[^14], id[^15] quod mul
 
 [^10]: _an_ : or 
 
-[^11]: _Albini et Bestiae_ : [Albinus](https://en.wikipedia.org/wiki/Spurius_Postumius_Albinus_(consul_110_BC)) and [Bestia](https://en.wikipedia.org/wiki/Lucius_Calpurnius_Bestia_(consul)) were recent consuls, and those members of the nobility 
+[^11]: _pluris_ : **genitive of value**, _worth more_ (literally _of more_)
 
-[^12]: _Huiusce_ : the -ce is just emphatic, more like a _of THIS! one..._
+[^12]: _Albini et Bestiae_ : [Albinus](https://en.wikipedia.org/wiki/Spurius_Postumius_Albinus_(consul_110_BC)) and [Bestia](https://en.wikipedia.org/wiki/Lucius_Calpurnius_Bestia_(consul)) were recent consuls, and those members of the nobility 
 
-[^13]: _rei_ : the rei refers to the glory that was discussed at the end of the section right above 
+[^13]: _Huiusce_ : the -ce is just emphatic, more like a _of THIS! one..._
 
-[^14]: _verum_ : _but_ 
+[^14]: _rei_ : the rei refers to the glory that was discussed at the end of the section right above 
 
-[^15]: _id quod_: _that which_ 
+[^15]: _verum_ : _but_ 
 
-[^16]: _quam_ : _how_ 
+[^16]: _id quod_: _that which_ 
 
-[^17]: _quod_ : _what_, connected to the _id_ later on
+[^17]: _quam_ : _how_ 
 
-[^18]: _quam....acceptam_ : the first _quam_ is _which_ referring to the _nobilitas_. The second _quam_ is _rather than_. _acceptam_ describes the first _quam_, so by extension the _nobilitas_
+[^18]: _quod_ : _what_, connected to the _id_ later on
 
-[^19]: _compositam_ : this has the meaing of _well structured, well put together, well designed_ 
+[^19]: _quam....acceptam_ : the first _quam_ is _which_ referring to the _nobilitas_. The second _quam_ is _rather than_. _acceptam_ describes the first _quam_, so by extension the _nobilitas_
 
-[^20]: _quis_ : after _si, nisi, num, and ne....._ 
+[^20]: _compositam_ : this has the meaing of _well structured, well put together, well designed_ 
 
-[^21]: _duceret_ : sigh, _duco_ can also mean _consider_, as it does here 
+[^21]: _quis_ : after _si, nisi, num, and ne....._ 
 
-[^22]: _oratio_ : remember that there are 3rd declension nouns where your nominative ends in -o, so take this as your subject 
+[^22]: _duceret_ : sigh, _duco_ can also mean _consider_, as it does here 
 
-[^23]: _quippe....praedicent_ : "they speak true things, it's necessary that they speak well."
+[^23]: _oratio_ : remember that there are 3rd declension nouns where your nominative ends in -o, so take this as your subject 
 
-[^24]: _falsa_ : add in another _praedicent_, with _falsa_ as your direct object
+[^24]: _quippe....praedicent_ : "they speak true things, it's necessary that they speak well."
 
-[^25]: _num_ : _whether_ 
+[^25]: _falsa_ : add in another _praedicent_, with _falsa_ as your direct object
 
-[^26]: _fidei causa_ : genitive + _causa_ (in the ablative) = "for the cause of...."
+[^26]: _num_ : _whether_ 
 
-[^27]: _ut illa illis_ : add a "relicta" or something similar in here. _as these things_ (the _imagines_ and _nobilitas_) _have been left behind for them_ (the nobles)
+[^27]: _fidei causa_ : genitive + _causa_ (in the ablative) = "for the cause of...."
+
+[^28]: _ut illa illis_ : add a "relicta" or something similar in here. _as these things_ (the _imagines_ and _nobilitas_) _have been left behind for them_ (the nobles)
 
