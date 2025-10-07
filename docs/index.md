@@ -25,7 +25,7 @@ This webiste will house resources for our readings this year.
 
 | Author      | Passages |
 | ----------- | ----------- |
-| Pliny Book 6      | 6.4, 6.7 6.16, 6.20       |
+| Pliny Book 6      | 6.4, 6.7, 6.16, 6.20       |
 | Pliny Book 7   | 7.27        |
 | Pliny Book 10   | 10.5, 10.6, 10.7, 10.37, 10.90        |
 | Veril Book 1 | 1.1-1.33, 1.88-1.107, 1.496-1.508        |
