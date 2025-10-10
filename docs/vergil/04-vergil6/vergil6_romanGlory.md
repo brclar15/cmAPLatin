@@ -7,7 +7,10 @@ parent: Vergil 6
 
 # Vergil 6 - Roman Glory
 
-## Romany Glory
+## Roman Glory
+
+- [Steadman Commentaries for Pliny/Vergil](https://geoffreysteadman.com/ap-pliny-and-vergil).
+     - click on the link under 1
 
 huc geminas nunc flecte acies, hanc aspice gentem
 
