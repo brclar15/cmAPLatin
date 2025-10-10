@@ -9,6 +9,9 @@ parent: Vergil 1
 
 ## Opening of the Epic
 
+- [Steadman Commentaries for Pliny/Vergil](https://geoffreysteadman.com/ap-pliny-and-vergil).
+     - click on the link under 1.
+
 
 Arma virumque cano, Troiae qui primus ab oris
 
