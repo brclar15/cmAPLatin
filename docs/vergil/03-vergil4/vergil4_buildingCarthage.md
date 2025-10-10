@@ -9,6 +9,9 @@ parent: Vergil 4
 
 ## Building Carthage
 
+- [Steadman Commentaries for Pliny/Vergil](https://geoffreysteadman.com/ap-pliny-and-vergil).
+     - click on the link under 1.
+
 nunc media Aenean secum per moenia ducit
 
 Sidoniasque ostentat opes urbemque paratam,               **75**
