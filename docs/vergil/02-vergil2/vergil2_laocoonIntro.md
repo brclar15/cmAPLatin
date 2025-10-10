@@ -9,6 +9,9 @@ parent: Vergil 2
 
 ## Laocoon Intro
 
+- [Steadman Commentaries for Pliny/Vergil](https://geoffreysteadman.com/ap-pliny-and-vergil).
+     - click on the link under 1.
+
 Primus ibi ante omnis magna comitante caterva               **40**
 
 Laocoon ardens summa decurrit ab arce,
