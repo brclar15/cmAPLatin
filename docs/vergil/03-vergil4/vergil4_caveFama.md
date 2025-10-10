@@ -9,6 +9,10 @@ parent: Vergil 4
 
 ## The Cave & Fama
 
+- [Steadman Commentaries for Pliny/Vergil](https://geoffreysteadman.com/ap-pliny-and-vergil).
+     - click on the link under 1.
+
+
 speluncam Dido dux et Troianus eandem               **165**
 
 deveniunt. prima et Tellus et pronuba Iuno
