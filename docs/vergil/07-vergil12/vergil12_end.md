@@ -9,6 +9,8 @@ parent: Vergil 12
 
 ## End of the *Aeneid*
 
+- [Steadman Commentaries for Pliny/Vergil](https://geoffreysteadman.com/ap-pliny-and-vergil).
+     - click on the link under 1
 
 Cunctanti telum Aeneas fatale coruscat,
 
