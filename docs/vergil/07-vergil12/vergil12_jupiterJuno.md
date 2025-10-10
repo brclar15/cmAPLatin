@@ -9,6 +9,9 @@ parent: Vergil 12
 
 ## Jupiter Addresses Juno
 
+- [Steadman Commentaries for Pliny/Vergil](https://geoffreysteadman.com/ap-pliny-and-vergil).
+     - click on the link under 1
+
 Iunonem interea rex omnipotentis Olympi
 
 adloquitur fulva pugnas de nube tuentem:
