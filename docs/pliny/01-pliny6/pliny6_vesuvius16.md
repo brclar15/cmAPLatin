@@ -9,6 +9,8 @@ parent: Pliny 6
 
 ## 6.16 Vesuvius & Pliny the Elder
 
+- [Steadman Commentaries for Pliny/Vergil](https://geoffreysteadman.com/ap-pliny-and-vergil).
+     - click on the link under 1.
 
 16  C. PLINIUS TACITO SUO S.
 
