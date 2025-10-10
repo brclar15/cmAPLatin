@@ -9,6 +9,9 @@ parent: Vergil 1
 
 ## Aeneas Caught in the Storm
 
+- [Steadman Commentaries for Pliny/Vergil](https://geoffreysteadman.com/ap-pliny-and-vergil).
+     - click on the link under 1.
+
 Eripiunt subito nubes caelumque diemque
 
 Teucrorum ex oculis; ponto nox incubat atra.
