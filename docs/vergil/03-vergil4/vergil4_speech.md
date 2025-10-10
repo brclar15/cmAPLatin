@@ -9,6 +9,8 @@ parent: Vergil 4
 
 ## Dido & Aeneas' Speech
 
+- [Steadman Commentaries for Pliny/Vergil](https://geoffreysteadman.com/ap-pliny-and-vergil).
+     - click on the link under 1.
 
 'dissimulare etiam sperasti, perfide, tantum               **305**
 
