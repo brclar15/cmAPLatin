@@ -9,6 +9,8 @@ parent: Vergil 7
 
 ## Camilla Intro
 
+- [Steadman Commentaries for Pliny/Vergil](https://geoffreysteadman.com/ap-pliny-and-vergil).
+     - click on the link under 1
 
 Hos super advenit Volsca de gente Camilla
 
