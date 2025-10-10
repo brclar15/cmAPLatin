@@ -10,6 +10,9 @@ parent: Vergil 1
 ## Seeing Dido
 
 
+- [Steadman Commentaries for Pliny/Vergil](https://geoffreysteadman.com/ap-pliny-and-vergil).
+     - click on the link under 1.
+
 Haec dum Dardanio Aeneae miranda videntur,
 
 dum stupet, obtutuque haeret defixus in uno,               **495**
