@@ -10,7 +10,7 @@ parent: Vergil 6
 ## Anchises' Speech
 
 - [Steadman Commentaries for Pliny/Vergil](https://geoffreysteadman.com/ap-pliny-and-vergil).
-     - click on the link under 1.
+     - click on the link under 1
 
 excudent alii spirantia mollius aera
 
