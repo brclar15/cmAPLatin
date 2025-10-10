@@ -9,7 +9,8 @@ parent: Vergil 7
 
 ## King Latinus
 
-
+- [Steadman Commentaries for Pliny/Vergil](https://geoffreysteadman.com/ap-pliny-and-vergil).
+     - click on the link under 1
 
 Rex arva Latinus et urbes
 
