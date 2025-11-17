@@ -27,7 +27,7 @@ exercet Diana choros, quam mille secutae
 
 hinc atque hinc glomerantur oreades; illa pharetram               **500**
 
-fert umero, gradiensque deas supereminet omnis:
+fert umero, gradiensque deas supereminet omnes:
 
 Latonae tacitum pertemptant gaudia pectus:
 
