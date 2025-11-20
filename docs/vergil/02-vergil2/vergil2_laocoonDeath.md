@@ -12,11 +12,8 @@ parent: Vergil 2
 - [Steadman Commentaries for Pliny/Vergil](https://geoffreysteadman.com/ap-pliny-and-vergil).
      - click on the link under 1.
 
-Hic aliud maius miseris multoque tremendum
 
-obicitur magis atque improvida pectora turbat.               **200**
-
-Laocoon, ductus Neptuno sorte sacerdos,
+Laocoon, ductus Neptuno sorte sacerdos,               **201**
 
 sollemnis taurum ingentem mactabat ad aras.
 
@@ -24,7 +21,7 @@ ecce autem gemini a Tenedo tranquilla per alta
 
 (horresco referens) immensis orbibus angues
 
-incumbunt pelago pariterque ad litora tendunt;               205
+incumbunt pelago pariterque ad litora tendunt;               **205**
 
 pectora quorum inter fluctus arrecta iubaeque
 
