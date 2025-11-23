@@ -6,8 +6,9 @@ parent: Daphne & Apollo
 ---
 
 # Ovid's _Metamorphoses_ Book 1: Daphne & Apollo
+# 1.438 - 1.473 (Beginning)
 
-## 1.438 - 1.473 (Beginning)
+## Apollo & the Python
 
 Illa quidem nollet, sed te quoque, maxime Python,
 
@@ -37,7 +38,9 @@ nondum laurus erat, longoque decentia crine               **450**
 
 tempora cingebat de qualibet arbore Phoebus.
 
-     Primus amor Phoebi Daphne Peneia, quem non
+## Cupid & Apollo
+
+Primus amor Phoebi Daphne Peneia, quem non
 
 fors ignara dedit, sed saeva Cupidinis ira,
 
