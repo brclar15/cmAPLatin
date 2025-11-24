@@ -7,10 +7,14 @@ parent: Vergil 4
 
 # Vergil 4 - The Cave & Fama
 
-## The Cave & Fama
+## Context
+Just before this passage, Juno talks to Venus and convinces her that, rather than stopping this growing love, they should conspire for Aeneas and Dido to be married and join together. Venus is suspicious, since she knows this goes against Jupiter and fate, but agrees, saying that Juno could only do this with Jupiter's consent. Juno then decides that they will create a storm while Dido and Aeneas are out hunting, forcing them into a nearby cave, alone and together, which is where this reading picks up
+
 
 - [Steadman Commentaries for Pliny/Vergil](https://geoffreysteadman.com/ap-pliny-and-vergil).
      - click on the link under 1.
+
+## The Cave & Fama
 
 
 speluncam Dido dux et Troianus eandem               **165**
