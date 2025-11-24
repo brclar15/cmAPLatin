@@ -22,7 +22,7 @@ In between this and our last Laocoon passage, Aeneas relates how the Greek Sinon
 
 Laocoon, ductus Neptuno sorte sacerdos,               **201**
 
-sollemnis taurum ingentem mactabat ad aras.
+sollemnes taurum ingentem mactabat ad aras.
 
 ecce autem gemini a Tenedo tranquilla per alta
 
@@ -38,7 +38,7 @@ pone legit sinuatque immensa volumine terga.
 
 fit sonitus spumante salo; iamque arva tenebant
 
-ardentisque oculos suffecti sanguine et igni               **210**
+ardentesque oculos suffecti sanguine et igni               **210**
 
 sibila lambebant linguis vibrantibus ora.
 
