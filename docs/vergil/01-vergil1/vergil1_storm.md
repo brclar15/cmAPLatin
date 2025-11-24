@@ -7,10 +7,16 @@ parent: Vergil 1
 
 # Vergil 1 - Storm
 
-## Aeneas Caught in the Storm
+## Context
+
+This passage starts just after Juno has convinced Aeolus, god of the winds, to whip up a fierce storm to break up Aeneas' ships as they depart Sicily and are trying to head to Italy. We see Aeneas speaking for the first time, crying out to himself as the storm separates many of his ships.  
 
 - [Steadman Commentaries for Pliny/Vergil](https://geoffreysteadman.com/ap-pliny-and-vergil).
      - click on the link under 1.
+
+## Aeneas Caught in the Storm
+
+
 
 Eripiunt subito nubes caelumque diemque
 
