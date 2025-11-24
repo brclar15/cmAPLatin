@@ -7,11 +7,15 @@ parent: Vergil 1
 
 # Vergil 1 - Dido
 
-## Seeing Dido
+## Context
 
+Just before this passage, after hunting some deer to feed the crew from the handful of ships that washed ashore with him, Aeneas and his trusty companion Achactes go in search of the rest of the fleet that washed ashore elsewhere. They marvel at a temple of Juno, whose metopes tell the story of the Trojan War. Both Aeneas and Achates are shrouded in mist, sent from Venus to protect them, so when they enter this scene, they are unseen. Right after this scene, Aeneas sees that the rest of his crew are safe and sound, and are seeking refuge from Queen Dido 
 
 - [Steadman Commentaries for Pliny/Vergil](https://geoffreysteadman.com/ap-pliny-and-vergil).
      - click on the link under 1.
+
+## Seeing Dido
+
 
 Haec dum Dardanio Aeneae miranda videntur,
 
