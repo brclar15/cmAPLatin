@@ -7,10 +7,16 @@ parent: Vergil 4
 
 # Vergil 4 - Building Carthage
 
-## Building Carthage
+## Context
+At the start of this passage, Dido has fallen deeply in love with Aeneas, and is doting on him attentively. As they explore Carthage, we don't get much of a view into how Aeneas is feeling. He has his fate to settle in Italy, yes, but it must be quite tempting to stay in Carthage, a city already founded and growing under Dido's good leadership. 
+
 
 - [Steadman Commentaries for Pliny/Vergil](https://geoffreysteadman.com/ap-pliny-and-vergil).
      - click on the link under 1.
+
+## Building Carthage
+
+
 
 nunc media Aenean secum per moenia ducit
 
