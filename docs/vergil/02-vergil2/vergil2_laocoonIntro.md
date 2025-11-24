@@ -5,7 +5,7 @@ nav_order: 1
 parent: Vergil 2
 ---
 
-# Vergil 2 - Proem
+# Vergil 2 - Laocoon
 
 ## Context
 
