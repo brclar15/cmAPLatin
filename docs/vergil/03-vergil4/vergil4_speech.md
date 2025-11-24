@@ -8,7 +8,7 @@ parent: Vergil 4
 # Vergil 4 - Dido & Aeneas' Speech
 
 ## Context
-Previous to this passage, Jupiter sent Mercury down to Aeneas to remind him of his fate and duty, and get him into gear. Aeneas then has his men secretly prepare his fleet for departure, planning to sneak away under the cover of night without telling Dido. 
+Previous to this passage, Jupiter sent Mercury down to Aeneas to remind him of his fate and duty, and get him into gear. Aeneas then has his men secretly prepare his fleet for departure, planning to sneak away under the cover of night without telling Dido. Naturally, Dido finds out about this and is outraged. She unleashed an impassioned tirade against him first, and then we get his reply 
 
 
 - [Steadman Commentaries for Pliny/Vergil](https://geoffreysteadman.com/ap-pliny-and-vergil).
