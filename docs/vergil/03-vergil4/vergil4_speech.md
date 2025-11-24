@@ -7,10 +7,17 @@ parent: Vergil 4
 
 # Vergil 4 - Dido & Aeneas' Speech
 
-## Dido & Aeneas' Speech
+## Context
+Previous to this passage, Jupiter sent Mercury down to Aeneas to remind him of his fate and duty, and get him into gear. Aeneas then has his men secretly prepare his fleet for departure, planning to sneak away under the cover of night without telling Dido. 
+
 
 - [Steadman Commentaries for Pliny/Vergil](https://geoffreysteadman.com/ap-pliny-and-vergil).
      - click on the link under 1.
+
+
+## Dido's Speech
+
+
 
 'dissimulare etiam sperasti, perfide, tantum               **305**
 
@@ -63,6 +70,9 @@ ante fugam suboles, si quis mihi parvulus aula
 luderet Aeneas, qui te tamen ore referret,
 
 non equidem omnino capta ac deserta viderer.'               **330**
+
+## Aeneas' Reply
+
 
 Dixerat. ille Iovis monitis immota tenebat
 
