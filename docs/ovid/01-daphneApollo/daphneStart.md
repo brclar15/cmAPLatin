@@ -10,79 +10,79 @@ parent: Daphne & Apollo
 
 ## Apollo & the Python
 
-Illa quidem nollet, sed te quoque, maxime Python,
+Illa[^1] quidem nollet[^2], sed te quoque, maxime Python[^3],
 
 tum genuit, populisque novis, incognita serpens,
 
-terror eras: tantum spatii de monte tenebas.               **440**
+terror eras: tantum[^4] spatii de monte tenebas.               **440**
 
-hunc deus arcitenens, numquam letalibus armis
+hunc deus[^5] arcitenens, numquam[^6] letalibus armis
 
-ante nisi in dammis capreisque fugacibus usus,
+ante nisi in dammis[^7] capreisque[^7] fugacibus usus,
 
 mille gravem telis exhausta paene pharetra
 
 perdidit effuso per vulnera nigra veneno.
 
-neve operis famam posset delere vetustas,               **445**
+neve[^8] operis famam posset delere vetustas[^9],               **445**
 
-instituit sacros celebri certamine ludos,
+instituit sacros celebri[^10] certamine ludos,
 
-Pythia de domitae serpentis nomine dictos.
+Pythia[^11] de domitae serpentis nomine dictos.
 
-hic iuvenum quicumque manu pedibusve rotave
+hic[^12] iuvenum quicumque[^13] manu pedibusve[^14] rotave[^14]
 
-vicerat, aesculeae capiebat frondis honorem.
+vicerat, aesculeae[^15] capiebat frondis honorem.
 
-nondum laurus erat, longoque decentia crine               **450**
+nondum[^16] laurus erat, longoque decentia crine               **450**
 
-tempora cingebat de qualibet arbore Phoebus.
+tempora[^17] cingebat de qualibet[^18] arbore Phoebus[^19].
 
 ## Cupid & Apollo
 
-Primus amor Phoebi Daphne Peneia, quem non
+Primus amor Phoebi Daphne[^20] Peneia[^21], quem non
 
-fors ignara dedit, sed saeva Cupidinis ira,
+fors ignara dedit, sed saeva[^22] Cupidinis ira,
 
-Delius hunc nuper, victa serpente superbus,
+Delius[^23] hunc[^24] nuper, victa serpente superbus,
 
-viderat adducto flectentem cornua nervo               **455**
+viderat adducto flectentem cornua[^25] nervo[^26]               **455**
 
-'quid' que 'tibi, lascive puer, cum fortibus armis?'
+'quid[^27]' que[^28] 'tibi, lascive puer, cum fortibus armis?'
 
-dixerat: 'ista decent umeros gestamina nostros,
+dixerat: 'ista decent umeros gestamina[^29] nostros[^30],
 
-qui dare certa ferae, dare vulnera possumus hosti,
+qui[^31] dare certa ferae, dare vulnera possumus hosti,
 
-qui modo pestifero tot iugera ventre prementem
+qui modo[^32] pestifero tot iugera[^33] ventre prementem
 
-stravimus innumeris tumidum Pythona sagittis.               **460**
+stravimus innumeris tumidum Pythona[^34] sagittis.               **460**
 
-tu face nescio quos esto contentus amores
+tu face[^35] nescio[^36] quos esto[^37] contentus amores
 
 inritare tua, nec laudes adsere nostras!'
 
-filius huic Veneris 'figat tuus omnia, Phoebe,
+filius huic Veneris 'figat[^38] tuus omnia, Phoebe,
 
-te meus arcus' ait; 'quantoque animalia cedunt
+te meus arcus' ait; 'quantoque[^39] animalia cedunt
 
-cuncta deo, tanto minor est tua gloria nostra.'               **465**
+cuncta deo, tanto[^39] minor[^40] est tua gloria nostra.'               **465**
 
-dixit et eliso percussis aere pennis
+dixit et eliso[^41] percussis aere pennis
 
-inpiger umbrosa Parnasi constitit arce
+inpiger umbrosa Parnasi[^42] constitit arce
 
 eque sagittifera prompsit duo tela pharetra
 
-diversorum operum: fugat hoc, facit illud amorem;
+diversorum[^43] operum: fugat[^44] hoc, facit illud amorem;
 
-quod facit, auratum est et cuspide fulget acuta,               **470**
+quod[^45] facit, auratum est et cuspide fulget acuta,               **470**
 
-quod fugat, obtusum est et habet sub harundine plumbum.
+quod[^46] fugat, obtusum est et habet sub harundine plumbum.
 
 hoc deus in nympha Peneide fixit, at illo
 
-laesit Apollineas traiecta per ossa medullas;
+laesit Apollineas[^47] traiecta per ossa medullas;
 
 
 
@@ -92,4 +92,99 @@ laesit Apollineas traiecta per ossa medullas;
 ## Commentary
 
 
-[^1]: 
+[^1]: _Illa_ : this refers to [Tellus](https://en.wikipedia.org/wiki/Terra_(mythology)), the Roman mother earth goddess. Gaia is her Greek counterpart. In the section before, Tellus brings forth the creatures of the land after the world has been destroyed in a suspiciously biblical flood. 
+
+[^2]: _nollet_ : **potential subjunctive**, *she would not have wanted....*
+
+[^3]: _Python_ : the [Python](https://en.wikipedia.org/wiki/Python_(mythology)) is a huge snake that plagued the area around Delphi. In some versions of this myth, it was also the monster sent to terrorize [Latona (Leto)](https://en.wikipedia.org/wiki/Leto), the mother of Diana and Apollo, sent by Juno to chase her all over the earth to prevent her from giving birth to the sacred twins from Latona's affair with Jupiter. 
+
+[^4]: _tantum spatii_ : literally "so much of space," but *so much space* sounds a lot better
+
+[^5]: _deus arcitenens_ : this lofty epithet establishes Apollo as the main character here, and also gives this passage some epic flair
+
+[^6]: _numquam ...ante..._ : because the world and its creatures are so new (newly created by Tellus), Apollo hasn't needed to use his weapons much before
+
+[^7]: _dammis capreisque_ : red deer and roe deer. This emphasizes the fact that Apollo has only hunted ease prey up to this point
+
+[^8]: _neve_ : *and so that .....not*, *ne-* + *-ve*
+
+[^9]: _vetustas_ : remember that there are a class of **3rd declension nouns** in the *-tas, -tatis* pattern, making this your nominative subject
+
+[^10]: _celebri certamine_ : **ablative of description**, *with a celebrated contest*
+
+[^11]: _Pythia_ : the [Pythian Games](https://en.wikipedia.org/wiki/Pythian_Games) take their name from Apollo conquering the Python (in some versions of the myth). These games are held every four years at Delphi to honor Apollo, and the winners recieve a laurel crown (important to remember!) for their victory
+
+[^12]: _hic_ : remember that *hic* can either from *hic, haec, hoc* or *hic* the adverb meaning *here*. If you don't need *hic* as a singular, masculine, subject, and there's nothing singular, masculine, and nominative for it to describe, then it's likely *hic* as in *here*
+
+[^13]: _quicumque_ : *whoever*
+
+[^14]: _-ve.....-ve_ : *either...or*
+
+[^15]: _aesculeae...frondis_ : *aesculeus, -a, -um* refers to any of a variety of oak trees
+
+[^16]: _nondum laurus erat_ : As often in Ovid, he's teasing the ending of the story he's about to tell, giving us the origin story of the laurel tree
+
+[^17]: _tempora_ : *tempus, -oris* (n) can also mean *temple* as in the part of your forehead
+
+[^18]: _de qualibet arbore_ : *from whatever tree you please*, the *qualibet* refers to any unspecified tree, doesn't matter which one. 
+
+[^19]: _Phoebus_ : Phoebus is another name for or sometimes an epithet of Apollo
+
+[^20]: _Daphne_ : Daphne is a nymph, or sometimes a mortal woman. Her name is in the Greek Declension, so this is her nominative. She would decline as such : **Nom.** *Daphn**e***, **Gen.** *Daphn**es***, **Dat.** *Daphn**ae***, **Acc.** *Daphn**en***, **Abl.** *Daphn**e***
+
+[^21]: _Peneia_ : Daphne is the daughter of [Peneus](https://en.wikipedia.org/wiki/Peneus), a river god. *Peneia* is a [patroynmic](https://en.wikipedia.org/wiki/Patronymic) adjective, describing Daphne. Translate as *daughter of Peneus* or as *Peneian*, continuing the epic tone of this passage
+
+[^22]: _saeva Cupidinis ira_ : hopefully this phrase makes you think of another [epic moment echoed in this line](https://brclar15.github.io/cmAPLatin/docs/vergil/01-vergil1/vergil1_proem.html), including the **transferred epithet**
+
+[^23]: _Delius_ : *Delian (Apollo)*, an epithet tying him to the island of [Delos](https://en.wikipedia.org/wiki/Delos), where he was born. Another moment of epic flair
+
+[^24]: _hunc_ : this refers to Cupid
+
+[^25]: _cornua_ : *conru, -us* (n) is 4th declension neuter, so this is your direct object here
+
+[^26]: _nervo_ : *nervus, -i* (m) here is a *bowstring*, which were originally made out of the sinew of animal muscle
+
+[^27]: _quid tibi .....cum fortibus armis?_ : you want something like "*what are strong arms to you?* or "*what are you doing with strong arms?*", a bit of a conversational expression
+
+[^28]: __ : 
+
+[^29]: __ : 
+
+[^30]: __ : 
+
+[^31]: __ : 
+
+[^32]: __ : 
+
+[^33]: __ : 
+
+[^34]: __ : 
+
+[^35]: __ : 
+
+[^36]: __ : 
+
+[^37]: __ : 
+
+[^38]: __ : 
+
+[^39]: __ : 
+
+[^40]: __ : 
+
+[^41]: __ : 
+
+[^42]: __ : 
+
+[^43]: __ : 
+
+[^44]: __ : 
+
+[^45]: __ : 
+
+[^46]: __ : 
+
+[^47]: __ : 
+
+
+
