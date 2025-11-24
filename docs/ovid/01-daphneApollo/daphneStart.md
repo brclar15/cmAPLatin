@@ -146,45 +146,45 @@ laesit Apollineas[^47] traiecta per ossa medullas;
 
 [^27]: _quid tibi .....cum fortibus armis?_ : you want something like "*what are strong arms to you?* or "*what are you doing with strong arms?*", a bit of a conversational expression
 
-[^28]: __ : 
+[^28]: _que_ : this -*que* is OUTSIDE of the quotes, but connects the *viderat* and the *dixerat*
 
-[^29]: __ : 
+[^29]: _gestamina_ : a *gestamen, -minis* (n) is an "implement or tool," a lofty, warlike war
 
-[^30]: __ : 
+[^30]: _nostros_ : Apollo is using the "royal we," referring to himself in the plural in an arrogant way
 
-[^31]: __ : 
+[^31]: _qui dare....hosti_ : take it like this : *qui dare certa [vulnera] ferae [possumus], dare [certa] vulnera possumus hosti*
 
-[^32]: __ : 
+[^32]: _modo_ : *just now*, emphasizing the coninuity in the story. Apollo has just killed the Python right before this conversation
 
-[^33]: __ : 
+[^33]: _tot iugera_ : take this as your direct object of *prementem*. A *iuger, -eris* (n) is a measure of land, let's just call it an *acre*
 
-[^34]: __ : 
+[^34]: _Pythona_ : Python is in a Greek declension, take this as accusative, masculine, singular
 
-[^35]: __ : 
+[^35]: _face_ : *fax, facis* (f) is a *torch*, which are commonly associated with the Roman marriage rite. Take this as ablative of means with *inritare*
 
-[^36]: __ : 
+[^36]: _nescio quos_ : "*I know not which*," meaning *"I don't care which, whichever ones"*
 
-[^37]: __ : 
+[^37]: _esto_ : this is an **imperative** of *sum*. Translate it as "*be....*"
 
-[^38]: __ : 
+[^38]: _figat_ : notice this as **potential subjunctive**, since your principal parts are *figo, fig**ere***. "*you might/may pierce*"
 
-[^39]: __ : 
+[^39]: _quanto....tanto_ : these are **correlatives**, "*as much as....*". To the degree that *cuncta animalia deo cedunt*, to that same degree is *minorest tua gloria nostra*
 
-[^40]: __ : 
+[^40]: _minor est tua gloria nostra_ : Use context (or scansion!) to see which one which adjective is your subject, and which is your **ablative of comparison**
 
-[^41]: __ : 
+[^41]: _eliso percussis aere pennis_ : a truly beautiful **ablative absolute** with an **ablative of means** embedded with breathtaking **synchisis**. What a delight. Take a moment to stand in awe of this line
 
-[^42]: __ : 
+[^42]: _Parnasi_ : [Mt. Parnasus](https://en.wikipedia.org/wiki/Mount_Parnassus) is a major mountain in Greece on which Delphi sits. It is also the home of the muses, famed for inspiring poets
 
-[^43]: __ : 
+[^43]: _diversorum operum_: : **genitive of description**
 
-[^44]: __ : 
+[^44]: _fugat_ : remember that while *fugio, fug**ere*** means "to flee," *fugo, fug**are*** means "to MAKE someone else flee"
 
-[^45]: __ : 
+[^45]: _quod facit_ : "*the one that makes [love]*"
 
-[^46]: __ : 
+[^46]: _quod fugat_ : "*the one that repels [love]*"
 
-[^47]: __ : 
+[^47]: _Apollineas_ : translate as *Apollonian*, another epic sound adjective
 
 
 
