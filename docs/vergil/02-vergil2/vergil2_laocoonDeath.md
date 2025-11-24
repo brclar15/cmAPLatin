@@ -5,12 +5,19 @@ nav_order: 2
 parent: Vergil 2
 ---
 
-# Vergil 2 - Proem
+# Vergil 2 - Laocoon and the Snakes
 
-## The Death of Laocoon
+## Context
+
+In between this and our last Laocoon passage, Aeneas relates how the Greek Sinon claimed to have been left behind by the Greeks at Troy. He is really a decoy, left to encourage the Trojans to take the horse and him into the city, so that he can set the men inside the horse free, open the gates for the other Greeks who have sailed back to Troy, and take the city. Now we cut scene back to Laocoon within Troy offering a sacrifice.
 
 - [Steadman Commentaries for Pliny/Vergil](https://geoffreysteadman.com/ap-pliny-and-vergil).
      - click on the link under 1.
+
+
+## The Death of Laocoon
+
+
 
 
 Laocoon, ductus Neptuno sorte sacerdos,               **201**
