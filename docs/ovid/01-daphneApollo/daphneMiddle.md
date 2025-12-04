@@ -178,7 +178,7 @@ nec prosunt domino, quae prosunt omnibus, artes!'
 
 [^29]: _notent_ : this means *to scratch* here, from its usual meaning *to mark*
 
-[^30]: _sim_ : subjunctive of *sum*, after the *ne*
+[^30]: _sim_ : **subjunctive** of *sum*, after the *ne*
 
 [^31]: _qua_ : *where*, **albative of location**
 
