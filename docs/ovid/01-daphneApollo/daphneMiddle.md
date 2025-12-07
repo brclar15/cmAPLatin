@@ -194,7 +194,7 @@ nec prosunt domino, quae prosunt omnibus, artes!'
 
 [^37]: _concordant carmina nervis_ : *nervus, -i* (m) is *string*, here as in the string of a lyre. This line is a reference to Apollo's role as god of music
 
-[^38]: _ nostra tamen una sagitta_ : scan this line to make sure you have the cases right!
+[^38]: _nostra tamen una sagitta_ : scan this line to make sure you have the cases right!
 
 [^39]: _inventum_ : take this as a noun, not *inventum est* as a PPP + *sum*
 
