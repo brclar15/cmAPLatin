@@ -80,9 +80,9 @@ quod[^45] facit, auratum est et cuspide fulget acuta,               **470**
 
 quod[^46] fugat, obtusum est et habet sub harundine plumbum.
 
-hoc deus in nympha Peneide fixit, at illo
+hoc[^47] deus in nympha Peneide fixit, at illo[^47]
 
-laesit Apollineas[^47] traiecta per ossa medullas;
+laesit Apollineas[^48] traiecta per ossa medullas;
 
 
 
@@ -184,7 +184,9 @@ laesit Apollineas[^47] traiecta per ossa medullas;
 
 [^46]: _quod fugat_ : "*the one that repels [love]*"
 
-[^47]: _Apollineas_ : translate as *Apollonian*, another epic sound adjective
+[^47]: _hoc, illo_ : often when you get forms of _hic, haec, hoc_ and _ille, illa, illud_ together in one sentence, they mean "this one....and that one...." _Hoc_ is the arrow that repels love, and _illo_ is the arrow that causes love
+
+[^48]: _Apollineas_ : translate as *Apollonian*, another epic sound adjective
 
 
 
