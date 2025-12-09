@@ -182,7 +182,7 @@ nec prosunt domino, quae prosunt omnibus, artes!'
 
 [^31]: _qua_ : *where*, **albative of location**
 
-[^32]: _insequar_ : 
+[^32]: _insequar_ : remember that even deponent verbs take _-am, -es, -et_ in the future when they're 3rd and 4th conjugation. _insequor_ is the present tense, _insequ**ar**_ is future tense
 
 [^33]: _cui placeas, inquire tamen_ : start with the *inquire tamen* and then go to the *cui placeas*, as an **indirect question**
 
