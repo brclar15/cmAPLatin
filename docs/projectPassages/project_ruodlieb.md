@@ -29,7 +29,7 @@ ludere[^9] laudavi, cupiens ab eo superari,
 
 “Vinci de rege” dicens “quid[^10] _obest_[^11] miserum me?
 
-Sed timeo, domine, quod mox _irasceris_ _in_ me,
+Sed timeo, domine, quod mox _irasceris_ in me,
 
 si fortuna iuvet, mihi[^12] quod Victoria _constet_.”
 
