@@ -91,7 +91,7 @@ liberam[^21] _curiositatem_ quam _meticulosam necessitatem_.			**15**
 
 [^4]: _cantantem_: modifies a personified Graecam grammaticam, “the Greek language, that sings...” 
 
-[^5]: _texere_: the infinitive completes the idea of peritus, “skillful at...”
+[^5]: _texere_: the infinitive completes the idea of _peritus_, “skillful at...”
 
 [^6]: _vanus_: This description of Homer here alludes back to the larger context of Augustine’s discussion in sections 12 and 13 of the _Confessions_, in which he contrasts his own misguided, youthful love of epic poetry (in particular, the _Aeneid_) to, in his opinion, the upright love for Christian scripture. According to his account, epic poetry is empty, deceptive, and a distraction from becoming a better Christian.
 
