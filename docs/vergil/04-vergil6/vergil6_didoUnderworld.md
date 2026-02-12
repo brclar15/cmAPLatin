@@ -32,7 +32,7 @@ funeris heu tibi causa fui? per sidera iuro,
 
 per superos et si qua fides tellure sub ima est,
 
-inuitus, regina, tuo de litore cessi.               **460**
+invitus, regina, tuo de litore cessi.               **460**
 
 sed me iussa deum, quae nunc has ire per umbras,
 
