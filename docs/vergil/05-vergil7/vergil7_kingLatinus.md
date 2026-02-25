@@ -32,7 +32,7 @@ iam matura viro, iam plenis nubilis annis.
 
 multi illam magno e Latio totaque petebant
 
-Ausonia; petit ante alios pulcherrimus omnis                **55**
+Ausonia; petit ante alios pulcherrimus omnes                **55**
 
 Turnus, avis atavisque potens, quem regia coniunx
 
