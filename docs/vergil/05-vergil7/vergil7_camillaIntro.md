@@ -14,7 +14,7 @@ parent: Vergil 7
 
 Hos super advenit Volsca de gente Camilla
 
-agmen agens equitum et florentis aere catervas,
+agmen agens equitum et florentes aere catervas,
 
 bellatrix, non illa colo calathisve Minervae               **805**
 
