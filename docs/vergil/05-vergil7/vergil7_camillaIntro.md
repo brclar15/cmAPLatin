@@ -36,7 +36,7 @@ turbaque miratur matrum et prospectat euntem,
 
 attonitis inhians animis ut regius ostro
 
-velet honos levis umeros, ut fibula crinem               **815**
+velet honos leves umeros, ut fibula crinem               **815**
 
 auro internectat, Lyciam ut gerat ipsa pharetram
 
