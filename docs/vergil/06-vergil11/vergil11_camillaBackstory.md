@@ -124,7 +124,7 @@ cara mihi comitumque foret nunc una mearum.
 
 verum age, quandoquidem fatis urgetur acerbis,
 
-labere, nympha, polo finisque invise Latinos,
+labere, nympha, polo finesque invise Latinos,
 
 tristis ubi infausto committitur omine pugna.
 
