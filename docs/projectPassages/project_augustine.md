@@ -89,7 +89,7 @@ liberam[^21] _curiositatem_ quam _meticulosam necessitatem_.			**15**
 
 [^3]: _talia_: supply _carmina_
 
-[^4]: _cantantem_: modifies a personified Graecam grammaticam, “the Greek language, that sings...” 
+[^4]: _cantantem_: modifies a personified _Graecam grammaticam_, “the Greek language, that sings...” 
 
 [^5]: _texere_: the infinitive completes the idea of _peritus_, “skillful at...”
 
