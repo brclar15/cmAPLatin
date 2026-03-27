@@ -55,7 +55,7 @@ defendisti domum nostram.
 | **_firmitas, -atis_**, f. | strength | **_fructus, -us_**, m. | provisions |
 | **_hortor, -ari_** | to urge | **_instruo, -ere, instruxi_** | to provide |
 | **_irrumpo, -ere, -rupi, ruptum_** | to break in | **_locupleto, -are, -avi_** | to enrich |
-| **_margaritum, -i_**, n. | jewelry | **_Milo, -nis_**, m. | Titus Annius Milo, a local politician |
+| **_margaritum, -i_**, n. | jewelry | **_Milo, -nis_**, m. | [Titus Annius Milo](https://en.wikipedia.org/wiki/Titus_Annius_Milo), a local politician |
 | **_munio, -ire_** | to strengthen | **_nummus, -i_**, m. | _pecunia, -ae_ |
 | **_occasio, -onis_**, f. | opportunity | **_potior, -iri, -itus sum_** | _emo, -ere_ |
 | **_prosper, -a, -um_** | _felix, -icis_ | **_reicio, -ere, -ieci, -iectum_** | to drive back |
@@ -69,7 +69,7 @@ defendisti domum nostram.
 
 ## Commentary
 
-[^1]: _fugae meae_: Turia’s husband, an ally of Pompey, was forced to flee after Julius Caesar defeated Pompey’s forces at the Battle of Pharsalus in 49 BCE.
+[^1]: _fugae meae_: Turia’s husband, an ally of Pompey, was forced to flee after Julius Caesar defeated Pompey’s forces at the [Battle of Pharsalus](https://en.wikipedia.org/wiki/Battle_of_Pharsalus) in 49 BCE.
 [^2]: _ornamentis_ = “_with the things I needed_”
 [^3]: _corpori_ = _corpore_
 [^4]: _detracta_: refers to _omne aurum margaritaque_
