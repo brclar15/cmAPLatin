@@ -8,7 +8,7 @@ parent: Actaeon & Diana
 # Ovid - Metamorphoses Book 3
 
 ## Actaeon & Diana
-### Met. 3.138 - 3.252
+### Met. 3.138 - 3.172
 
 ---------------
 
