@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Actaeon & Diana
+title: Actaeon & Diana End
 nav_order: 3
-parent: Ovid
+parent: Actaeon & Diana
 ---
 
 # Ovid - Metamorphoses Book 3
