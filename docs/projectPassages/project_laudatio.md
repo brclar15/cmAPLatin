@@ -81,6 +81,6 @@ defendisti domum nostram.
 [^10]: _victa_ = _victorum_. Despite its neuter plural form, this participle describes the same men to whom _eorum_ and _quos_ refer (i.e., those who had the means to intercede on Vespillo’s behalf). The feminine singular form is due possibly to the author’s artful intent that the word agree with _clementia_.
 [^11]: _munibat_ = _muniebat_
 [^12]: _ea_: refers to _verbis tuis_
-[^13]: _agmen_: “_posse (of armed men)_” is perhaps the best translation, as it refers to the men Milo commonly used to intimidate and harass political opponents.
-[^14]: _exsul_: Milo was exiled from Rome in 52 BC, after being convicted of election bribery and violence in the murder of one of his political opponents, Publius Clodius Pulcher.
+[^13]: _agmen_: “_posse (of armed men)_” is perhaps the best translation, as it refers to the men [Milo](https://en.wikipedia.org/wiki/Titus_Annius_Milo) commonly used to intimidate and harass political opponents.
+[^14]: _exsul_: [Milo](https://en.wikipedia.org/wiki/Titus_Annius_Milo) was exiled from Rome in 52 BC, after being convicted of election bribery and violence in the murder of one of his political opponents, [Publius Clodius Pulcher](https://en.wikipedia.org/wiki/Publius_Clodius_Pulcher).
 [^15]: _belli civilis_: The civil war between Julius Caesar and Pompey the Great, which lasted from 49 BCE to 45 BCE.
