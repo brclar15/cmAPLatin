@@ -60,7 +60,7 @@ defendisti domum nostram.
 | **_occasio, -onis_**, f. | opportunity | **_potior, -iri, -itus sum_** | _emo, -ere_ |
 | **_prosper, -a, -um_** | _felix, -icis_ | **_reicio, -ere, -ieci, -iectum_** | to drive back |
 | **_reperio, -ire, repperi, repertus_** | _lego, -ere_ | **_subinde_** | repeatedly |
-| **_subsidium, -_i**, n. | _auxilium, -i_  |    |    |
+| **_subsidium, -i_**, n. | _auxilium, -i_  |    |    |
 
 
 
