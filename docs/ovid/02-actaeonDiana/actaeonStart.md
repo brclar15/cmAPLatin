@@ -163,7 +163,7 @@ et Psecas[^42] et Phiale[^42] funduntque[^45] capacibus urnis.
 
 [^38]: _arcusque retentos_ : *her bow having been loosened*, showing that she is done with hunting for the moment. Bows were unstrung to release the tension, ensuring that the bow did not crack. A singular bow is often plural in Latin, since it has two major ends
 
-[^39]: _altera_ : another nymph attendant
+[^39]: _altera_ : _altera nympha, _another nymph attendant
 
 [^40]: _duae_ : *duae nymphae*, more attendants to care for Diana
 
