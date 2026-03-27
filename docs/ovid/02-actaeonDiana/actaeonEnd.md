@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Actaeon & Diana End
+title: Actaeon End
 nav_order: 3
 parent: Actaeon & Diana
 ---
