@@ -59,7 +59,7 @@ defendisti domum nostram.
 | **_munio, -ire_** | to strengthen | **_nummus, -i_**, m. | _pecunia, -ae_ |
 | **_occasio, -onis_**, f. | opportunity | **_potior, -iri, -itus sum_** | _emo, -ere_ |
 | **_prosper, -a, -um_** | _felix, -icis_ | **_reicio, -ere, -ieci, -iectum_** | to drive back |
-| **_reperio, -ire, repperi, repertus_** | _lego, -ere_ | **_subinde_** | repeatedly |
+| **_reperio, -ire, repperi, repertus_** | _lego, -ere_ (choose, select)| **_subinde_** | repeatedly |
 | **_subsidium, -i_**, n. | _auxilium, -i_  |    |    |
 
 
