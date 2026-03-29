@@ -159,7 +159,7 @@ et Psecas[^42] et Phiale[^42] funduntque[^45] capacibus urnis.
 
 [^36]: _quo_ : *there*, **ablative of location**
 
-[^37]: _uni armigerae_ : always good to remember that the UNUS NAUTA adjectives have -*ius* in the genitive singular and -*i* in the dative singular
+[^37]: _uni armigerae_ : always good to remember that the **UNUS NAUTA adjectives** have -*ius* in the genitive singular and -*i* in the dative singular
 
 [^38]: _arcusque retentos_ : *her bow having been loosened*, showing that she is done with hunting for the moment. Bows were unstrung to release the tension, ensuring that the bow did not crack. A singular bow is often plural in Latin, since it has two major ends
 
