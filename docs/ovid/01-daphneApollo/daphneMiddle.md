@@ -8,7 +8,7 @@ parent: Daphne & Apollo
 # Ovid's _Metamorphoses_ Book 1: Daphne & Apollo
 # 1.474 - 1.524 (Middle)
 
-## Apollo & the Python
+## Daphne & Apollo
 
 protinus alter[^1] amat, fugit altera[^1] nomen[^2] amantis
 
