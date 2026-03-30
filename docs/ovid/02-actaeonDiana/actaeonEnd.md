@@ -26,7 +26,7 @@ an lateat silvis? pudor[^7] hoc, timor inpedit illud.               **205**
 
 Dum dubitat, videre canes[^8].......
 
-………… [catalog of dogs](https://www.poetryintranslation.com/PITBR/Latin/Metamorph3.php#anchor_Toc64106185)
+………… [[catalog of dogs](https://www.poetryintranslation.com/PITBR/Latin/Metamorph3.php#anchor_Toc64106185)]
 
 quosque[^9] referre mora est: ea turba cupidine praedae               **225**
 
