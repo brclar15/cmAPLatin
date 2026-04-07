@@ -113,7 +113,7 @@ ira[^37] pharetratae[^38] fertur satiata Dianae.
 
 [^12]: _famulos_ : these "attendants" are the hunting dogs, though they have stopped obeying their *dominus*
 
-[^13]: _clamare libebat_ : **impersonal verb**, *it was pleaning [for the dogs] to.....*
+[^13]: _clamare libebat_ : **impersonal verb**, *it was pleasing [for the dogs] to.....*
 
 [^14]: _Actaeon ego sum_ : note how the first time the reader sees Actaeon's name is in this desperate attempt to save himself, one the reader knows is in vain
 
