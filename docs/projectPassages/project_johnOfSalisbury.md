@@ -1,4 +1,4 @@
-<img width="468" height="11" alt="image" src="https://github.com/user-attachments/assets/db495b0d-e72a-4bd2-856d-96a404a33662" /><img width="468" height="11" alt="image" src="https://github.com/user-attachments/assets/f5591248-e1f8-4c29-82de-3223bfbcde2c" />---
+---
 layout: page
 title: John of Salisbury
 nav_order: 1
