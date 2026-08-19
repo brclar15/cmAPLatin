@@ -2,7 +2,7 @@
 layout: page
 title: Ruodlieb
 nav_order: 4
-parent: older
+parent: Older Project Passages
 ---
 
 # Anonymous (11th century AD), *Ruodlieb* 4.194–210
