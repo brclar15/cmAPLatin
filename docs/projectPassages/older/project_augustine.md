@@ -2,7 +2,7 @@
 layout: page
 title: St. Augustine
 nav_order: 1
-parent: Project Passages
+parent: older
 ---
 
 # Augustine's *Confessions* 1.14.23
