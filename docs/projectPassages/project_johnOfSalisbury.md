@@ -22,33 +22,33 @@ The passage’s text is drawn from [J.P. Migne’s](https://en.wikipedia.org/wik
 
      note2: footnotes will lead you to the commentary
 
-Tantae _fortitudinis_ et _civilitatis_ fuit, ut Romani imperii fines,
+Tantae[^1] _fortitudinis_ et _civilitatis_ fuit[^2], ut Romani imperii fines,
 
-quod post _Augustum_ defensum magis fuerat, quam nobiliter
+quod post _Augustum_[^3] defensum magis fuerat, quam nobiliter
 
-_ampliatum_, longe _late_que _diffunderet_. Gloriam tamen _militarem_
+_ampliatum_, longe _late_que _diffunderet_[^4]. Gloriam tamen _militarem_
 
-_moderatione_ superavit, Romae et per provincias omnibus se
+_moderatione_[^5] superavit[^6], Romae et per provincias omnibus se[^7]
 
 _aequalem exhibens_, amicos salutandi causa _frequentans_, vel          **5**
 
-_aegrotantes_ vel _festis diebus_, cum eisdem _indiscreta vicissim_ 
+_aegrotantes_[^8] vel _festis diebus_, cum eisdem _indiscreta vicissim_ 
 
-habens _convivia_, _vehiculis_ eorum et vestibus _indifferenter_ utens,
+habens _convivia_, _vehiculis_[^9] eorum[^10] et vestibus _indifferenter_ utens,
 
-_publice_ et _privatim ditans_ omnes, _immunitates_ civitatibus _largiens_,
+_publice_ et _privatim ditans_ omnes, _immunitates_[^11] civitatibus _largiens_,
 
-_relaxans tributa_ provinciis, nulli gravis, carus omnibus, _adeo_ ut
+_relaxans tributa_ provinciis, nulli gravis[^12], carus omnibus, _adeo_ ut
 
-_usque_ ad nostram aetatem in senatu non _aliter_ principibus          **10**
+_usque_[^13] ad nostram aetatem in senatu non _aliter_ principibus[^14]          **10**
 
-_acclametur_: “Felicior _Augusto_, melior sis Traiano!” Sic itaque
+_acclametur_[^15]: “Felicior _Augusto_, melior sis[^16] Traiano!” Sic itaque
 
-memoriae eius _delatum est_, et _opinio bonitatis_ eius in tantum
+memoriae[^17] eius _delatum[^18] est_, et _opinio bonitatis_ eius in[^19] tantum
 
-_praevaluit_, ut amicis laudantibus vel _assentantibus occasionem_ 
+_praevaluit_, ut amicis[^20] laudantibus vel _assentantibus occasionem_ 
 
-_magnificentissimi_ praestet exempli.
+_magnificentissimi_ praestet[^21] exempli.
 
 
 --------
