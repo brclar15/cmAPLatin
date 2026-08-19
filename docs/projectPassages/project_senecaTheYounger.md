@@ -23,35 +23,21 @@ The passage’s text is drawn from the [L.D. Reynolds](https://en.wikipedia.org/
 
      note2: footnotes will lead you to the commentary
 
-Cur ergo Graecam etiam[^1] _grammaticam_[^2] _oderam_ talia[^3]
+Sed si aliquem amicum existimas cui non tantundem credis 
+quantum tibi, vehementer erras et non satis nosti vim verae 
+amicitiae. Tu vero omnia cum amico delibera, sed de ipso prius:
+post amicitiam credendum est, ante amicitiam iudicandum. Isti
+vero praepostero officia permiscent qui, contra praecepta    **5**
+Theophrasti, cum amaverunt iudicant, et non amant cum 
+iudicaverunt. Diu cogita an tibi in amicitiam aliquis recipiendus
+sit. Cum placuerit fieri, toto illum pectore admitte; tam audaciter
+cum illo loquere quam tecum. Tu quidem ita vive ut nihil tibi
+committas nisi quod committere etiam inimico tuo possis; sed quia     **10**
+interveniunt quaedam quae consuetudo fecit arcana, cum amico 
+omnes curas, omnes cogitationes tuas misce. Fidelem si
+putaveris, facies.
 
-_cantantem_[^4]? Nam et _Homerus_ _peritus_ _texere_[^5] tales _fabellas_
 
-et dulcissime _vanus_[^6] est, mihi tamen _amarus_ erat puero[^7].
-
-Credo etiam Graecis pueris _Vergilius_ ita sit[^8], cum eum sic
-
-discere coguntur ut ego illum[^9]. _Videlicet difficultas, difficultas_		**5**
-
-_omnino ediscendae_[^10] linguae _peregrinae_, quasi _felle_
-
-_aspergebat_[^11] omnes _suavitates_ Graecas _fabulosarum_
-
-_narrationum_. Nulla enim verba illa noveram, et saevis
-
-_terroribus_ ac poenis ut nossem[^12] _instabatur_[^13] mihi vehementer.
-
-Nam et[^14] _Latina[^15] aliquando_ infans[^16] _utique_ nulla noveram, et			**10**
-
-tamen _advertendo_ didici sine ullo metu atque _cruciatu_, inter
-
-etiam _blandimenta nutricum_ et _ioca adridentium[^17]_ et laetitias
-
-_adludentium_[^17]. Didici vero illa[^18] sine _poenali onere urgentium[^17]_.
-
-Hinc satis _elucet[^19] maiorem_ habere vim ad discenda ista[^20]
-
-liberam[^21] _curiositatem_ quam _meticulosam necessitatem_.			**15**
 
 --------
 
