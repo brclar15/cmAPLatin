@@ -1,4 +1,4 @@
----
+<img width="468" height="11" alt="image" src="https://github.com/user-attachments/assets/db495b0d-e72a-4bd2-856d-96a404a33662" /><img width="468" height="11" alt="image" src="https://github.com/user-attachments/assets/f5591248-e1f8-4c29-82de-3223bfbcde2c" />---
 layout: page
 title: John of Salisbury
 nav_order: 1
@@ -57,27 +57,24 @@ magnificentissimi praestet exempli.
 
 | Vocab | Definition | Vocab | Definition |
 | -------- | ------- | -------- | ------- |
-| **_adludo, -ere, -lusi, -lusum_**        | to joke         | **_adrideo, -ere_** |     to smile      |
-| **_adverto, -ere_**       | to pay attention          | **_aliquando_** |     at one time      |
-| **_amarus, -a, -um_**        | bitter, disagreeable          | **_aspergo, -ere_** |     to sprinkle      |
-| **_blandimentum, -i, n._**        | flattery          | **_canto, -are_** |     _cano, -ere_      |
-| **_cruciatus, -us, m._**        | torment          | **_curiositas, -tatis, f._** |     curiosity      |
-| **_difficultas, -tatis, f._**        | difficulty          | **_edisco, -ere_** |     _disco, -ere_      |
-| **_eluceo, -ere_**        | to be clear          | **_fabella, -ae, f._** |     _fabula, -ae_      |
-| **_fabulosus, -a, -um_**        | fabulous          | **_fel, fellis, n._** |     bile, bitterness      |
-| **_Graecus, -a, -um_**       | Greek, of Greek          | **_grammatica, -ae, f._** |     grammar      |
-| **_Homerus, -i, m._**       | Homer (Greek poet)          | **_insto, -are_** |     to demand, threaten      |
-| **_ioca, -orum, n._**       | jokes          | **_Latinus,-a, -um_** |     Latin      |
-| **_maior, -is_**        | greater          | **_meticulosus, -a, -um_** |     _timidus, -a, -um_      |
-| **_narratio, -onis, f._**       | _fabula, -ae_          | **_necessitas, -tatis, f._** |     compulsion      |
-| **_nutrix, -icis, f._**       | nurse          | **_odi, -isse, osum_** |     to hate      |
-| **_omnino_**        | at all          | **_onus, -eris, n._** |     burden      |
-| **_peregrinus, -a, -um_**         | **_alienus, -a, -um_**          | **peritus, -a, -um** |     skillful      |
-| **_poenalis, -e_**        |  of punishment          | **_suavitas, -tatis, f._** |     sweetness      |
-| **_terror, -is, m._**        | _formido, -inis, f._          | **_texo, -ere, -ui, textum_** |     _scribo, -ere_      |
-| **_urgeo, -ere_**        | to force          | **_utique_** |     certainly      |
-| **_vanus, -a, -um_**        | deceptive          | **_Vergilius, -i, m._** |     Vergil (Roman poet)      |
-| **_videlicet_**        |    certainly       |  |           |
+| **_acclamo, -are_**        | _clamo, -are_      | **_immunitas, -atis, f._** |     tax exemption      |
+| **_adeo_** (adv)       | _tantum_          | **_indifferenter_** (adv) |     no differently      |
+| **_aegroto, -are_**        | to be sick          | **_indiscretus, -a, -um_** |     indistinguishable      |
+| **_aequalis, -e_** (adj)        | _aequus, -a, -um_        | **_largior, -i_** |     _do, dare_      |
+| **_aliter_** (adv)       | otherwise          | **_late_** (adv) |     widely      |
+| **_amplio, -are, -avi, -atus_**    | to expand     | **_magnificentissimus, -a, -um, superl. adj._** |    _most magnificent_   |
+| **_assento, -are_**        | to flatter          | **_militaris, -e_** (adj) |     _military_      |
+| **_Augustus, -i, m._**        | Augustus (duh)          | **_moderatio, -onis, f._** |     moderation      |
+| **_bonitas, -atis, f_**       | kindness          | **_occasio, -onis, f._** |     opportunity      |
+| **_civilitas, -atis, f._**       | civility          | **_opinio, -onis, f._** |     reputation      |
+| **_convivium, -i, n._**       | banquet          | **_praevaleo, -ere_** |     to endure      |
+| **_defero, -ferre, -tuli, -latus_**        | to bring down          | **_privatim_** (adv) |     privately     |
+| **_diffundo, -ere_**       | _tendo, -ere_          | **_publice_** (adv) |     publicly      |
+| **_dito, -are_**       | _demonstro, -are_          | **_relaxo, -are_** |     to decrease      |
+| **_festus dies, festi diei, m._**        | holiday          | **_tributum, -i, n._** |     tax      |
+| **_fortitudo, -inis, f._**         | **_virtus, -utis_** f.         | **usque** (adv) |     all the way      |
+| **_frequento, -are_**        |  _visito, -are_          | **_vicissim_** (adv) |     in turn      |
+
 
 
 --------------
