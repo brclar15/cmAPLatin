@@ -83,44 +83,44 @@ _magnificentissimi_ praestet exempli.
 ## Commentary
 
 
-[^1]: _etiam...talia_ : (“also...such...”) establishes a contrast between the Greek epic poetry of Homer and the Latin epic poetry of the Aeneid. Just before this passage, Augustine had been discussing his love of the Aeneid.
+[^1]: _Tantae.....civilitatis_ : genitives used to describe Trajan
 
-[^2]: _grammaticam_: literally “(a system of) grammar,” but here it means the “(Greek) language and literature” or, specifically, “(Greek) poetry”
+[^2]: _fuit_: Trajan is the implied subject
 
-[^3]: _talia_: supply _carmina_
+[^3]: _Augustum_: [Caesar Augustus](https://en.wikipedia.org/wiki/Augustus) (ruling 27 BCE–14 CE) was the first Roman emperor, and during his reign he greatly expanded the borders of the Roman Empire  (imagine actually needing that note from AP....smh - Mr. Clark)
 
-[^4]: _cantantem_: modifies a personified _Graecam grammaticam_, “the Greek language, that sings...” 
+[^4]: _diffunderet_: Trajan is again the subject
 
-[^5]: _texere_: the infinitive completes the idea of _peritus_, “skillful at...”
+[^5]: _moderatione_: In ancient Roman political thought, the virtue “moderation” was more complicated than the English translation suggests. _Moderatio_ was the self-restraint and measured conduct that good leaders were expected to demonstrate. It illustrated a leader’s respect for the limits that justice and fairness placed on their authority.
 
-[^6]: _vanus_: This description of Homer here alludes back to the larger context of Augustine’s discussion in sections 12 and 13 of the _Confessions_, in which he contrasts his own misguided, youthful love of epic poetry (in particular, the _Aeneid_) to, in his opinion, the upright love for Christian scripture. According to his account, epic poetry is empty, deceptive, and a distraction from becoming a better Christian.
+[^6]: _superavit_: “he surpassed”
 
-[^7]: _puero_: taken together with _mihi_, “as a boy”
+[^7]: _se aequalem exhibens_: supply _esse_
 
-[^8]: _sit_: Classical Latin would use an infinitive as the main verb of the indirect statement introduced by _credo_, but Latin after the second century CE began to substitute this with the subjunctive (usually introduced with _quod_).
+[^8]: _aegrotantes_: modifies _amicos_
 
-[^9]: _illum_: refers to Homer
+[^9]: _vehiculis.....utens_: i.e., Trajan utilized vehicles and wore clothing similar to that of his friends so that he would not appear to be flaunting his power and wealth while in their presence
 
-[^10]: _ediscendae_: gerundive with _linguae_
+[^10]: _eorum_: refers to _amicos_
 
-[^11]: _aspergebat_: the subject is _difficultas_
+[^11]: _immunitates_: Provinces in the Roman Empire were compelled to pay taxes, which had become quite burdensome under Trajan’s predecessors. Among his many generosities, Trajan lowered taxes throughout the empire and in many cases, he exempted provinces from paying those taxes altogether (for certain periods of time)
 
-[^12]: _nossem_ = _novissem_; perfect forms of _nosco_, _noscere_ have a present meaning, pluperfect forms have a perfect meaning 
+[^12]: _gravis_ = describes Trajan, “_being a burden_”
 
-[^13]: _instabatur_: used impersonally, “_it was demanded_”
+[^13]: _usque ad nostram aetatem in senatu_: The western Roman Senate did not exist in the twelfth century CE, so it is important to note that John is quoting Eutropius nearly verbatim here, who says, “_ut usque ad nostram aetatem non aliter in senatu principibus acclametur, nisi ‘Felicior Augusto, melior Traiano_’” [(8.5.3)](https://www.thelatinlibrary.com/eutropius/eutropius8.shtml#5). The saying apparently fell out of use at some point in the fourth century CE
 
-[^14]: _et_ =“_even_”
+[^14]: _principibus_ : refers to the _principes_, or emperors, who ascended the throne after Trajan
 
-[^15]: _Latina nulla_: supply _verba_
+[^15]: _acclametur_: The subject is impersonal (meaning take "it" as your subject - Mr. Clark)
 
-[^16]: _infans_: taken together with the subject of _noveram_, “_as an infant_”
+[^16]: _sis_: “_may you be_”
 
-[^17]: _adridentium...adludentium...urgentium_: adjectives being used substantively
+[^17]: _memoriae eius_: “_on behalf of his memory_” (i.e., to honor Trajan)
 
-[^18]: _illa_: refers to _Latina (verba)_
+[^18]: _delatum est_: The verb is impersonal, but the implied subject is the saying exclaimed in the senate
 
-[^19]: _elucet_: used impersonally, “_it is clear_”
+[^19]: _in tantum_: “_so greatly_”
 
-[^20]: _ista_: refers to _Latina (verba)_
+[^20]: _amicis_: This is John’s addition to Eutropius’s words: “_Adeo in eo gloria bonitatis obtinuit, ut vel assentantibus vel vere laudantibus occasionem magnificentissimi praestet exempli_.” John replaces _vere_ with _amicis_ to emphasize the difference between the leaders’ subjects described as _laudantibus_ and those described as _assentantibus_ in the negative sense
 
-[^21]: _liberam curiositatem_: accusative subjective of _habere_
+[^21]: _praestet_: “_it offers_”
