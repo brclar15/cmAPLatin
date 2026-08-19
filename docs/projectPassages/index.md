@@ -7,7 +7,7 @@ has_children: true
 ---
 
 # AP Latin Project Passages
-## 2025 - 2026
+## 2026 - 2027
 
 This page will house the four AP project passages for this year
 
