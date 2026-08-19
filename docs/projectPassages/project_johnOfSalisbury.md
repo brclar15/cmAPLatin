@@ -5,11 +5,14 @@ nav_order: 1
 parent: Project Passages
 ---
 
-# Augustine's *Confessions* 1.14.23
+# John of Salisbury's *Policraticus* 5.8.1-2
 
 ## Introduction
 
-Aurelius Augustinus Hipponensis, better known as [**Augustine of Hippo**](https://en.wikipedia.org/wiki/Augustine_of_Hippo), was a highly influential north African Christian theologian who lived and wrote in late Roman antiquity. His family were Berbers (an ethnic group indigenous to north Africa), highly Romanized, and members of the Roman aristocracy.  [_The Confessions_](https://en.wikipedia.org/wiki/Confessions_(Augustine)), from which the following passage is drawn, is among his most famous works and is widely considered to be the first Western autobiography. The work focuses heavily on Augustine’s inner experiences, primarily through his reflections on his education and other life events and, at the same time, his gradual conversion from paganism to Christianity.  Through these personal anecdotes, Augustine frequently proposes broad philosophical and religious insights.
+[John of Salisbury](https://en.wikipedia.org/wiki/John_of_Salisbury), who called himself _Johannes Parvus_ (Little John), was an important philosopher and authority in educational theory in the twelfth century CE. Heavily involved in both politics and the Church (including his appointment as the bishop of [Chartres](https://en.wikipedia.org/wiki/Chartres) in 1176 CE), he argued that philosophical thought and argumentation could happen without questioning the existence of God. He also felt that medical science at the time had fallen into moral decay, and he urged doctors to focus equally on investigative inquiry and medicinal practice. In his _[Policraticus](https://en.wikipedia.org/wiki/Policraticus)_ and _Metalogicon_, John argued that “[princes](https://en.wikipedia.org/wiki/Mirrors_for_princes)” (i.e., political leaders within the monarchy) should consider themselves as both representations of God and adherents to divine authority, exercising mercy and compassion to their subjects. In the following passage, John draws heavily on [Eutropius'](https://en.wikipedia.org/wiki/Eutropius_(historian)) _Breviarium Historiae Romanae_ ([Book 8.2-5](https://www.thelatinlibrary.com/eutropius/eutropius8.shtml)) and praises [Trajan](https://en.wikipedia.org/wiki/Trajan) (who ruled from 98 to 117 CE, the second of the “[Five Good Emperors](https://en.wikipedia.org/wiki/Nerva%E2%80%93Antonine_dynasty#The_Five_Good_Emperors)”) as a model for all these qualities and as a leader whose military glory was surpassed only by his kindness for all whom he ruled.
+
+The passage’s text is drawn from J.P. Migne’s Patrologia Latina (1855) on the University of Zurich’s _Corpus Corporum_ ([mlat.uzh.ch](mlat.uzh.ch)) and edited for classroom use.
+
 
 -----------
 
