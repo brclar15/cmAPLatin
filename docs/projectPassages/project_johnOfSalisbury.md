@@ -26,7 +26,7 @@ Tantae[^1] _fortitudinis_ et _civilitatis_ fuit[^2], ut Romani imperii fines,
 
 quod post _Augustum_[^3] defensum magis fuerat, quam nobiliter
 
-_ampliatum_, longe _late_que _diffunderet_[^4]. Gloriam tamen _militarem_
+_ampliatum_, longe _lateque diffunderet_[^4]. Gloriam tamen _militarem_
 
 _moderatione_[^5] superavit[^6], Romae et per provincias omnibus se[^7]
 
