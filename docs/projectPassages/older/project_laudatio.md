@@ -2,7 +2,7 @@
 layout: page
 title: Laudatio Turiae
 nav_order: 2
-parent: older
+parent: Older Project Passages
 ---
 
 # *Laudatio Turiae* 2a–9a
