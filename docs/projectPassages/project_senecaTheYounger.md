@@ -5,11 +5,18 @@ nav_order: 2
 parent: Project Passages
 ---
 
-# Augustine's *Confessions* 1.14.23
+# Seneca the Younger's *Epistulae Morales* 3.2-3
+# Date - circa 65 CE
 
 ## Introduction
 
-Aurelius Augustinus Hipponensis, better known as [**Augustine of Hippo**](https://en.wikipedia.org/wiki/Augustine_of_Hippo), was a highly influential north African Christian theologian who lived and wrote in late Roman antiquity. His family were Berbers (an ethnic group indigenous to north Africa), highly Romanized, and members of the Roman aristocracy.  [_The Confessions_](https://en.wikipedia.org/wiki/Confessions_(Augustine)), from which the following passage is drawn, is among his most famous works and is widely considered to be the first Western autobiography. The work focuses heavily on Augustine’s inner experiences, primarily through his reflections on his education and other life events and, at the same time, his gradual conversion from paganism to Christianity.  Through these personal anecdotes, Augustine frequently proposes broad philosophical and religious insights.
+The Epistulae Morales (Letters on Ethics) were written by the Roman Stoic philosopher Lucius Annaeus Seneca, known today as Seneca the Younger, to Lucilius Iunior, who was Seneca’s similarly aged good friend. It is a collection of 124 letters in which Seneca mentors Lucilius about Stoicism—a popular philosophy of their time. Like Pliny the Younger’s
+Epistulae, Seneca’s Epistulae are excellent examples of the Roman epistolary genre: they are highly polished and clearly intended for a wider audience but were probably, in some version at least, actual letters to Lucilius as well. The letters utilize discussions of everyday things (e.g., bathing and traveling) as starting points to examine the principles of Stoicism and how to be a better Stoic. Among other things, Stoics argued that virtue (in essence, knowing and choosing to do what is right) is the only true good and vice (not knowing the right thing to do) is the only evil. All other things, such as health and wealth, are at most merely preferable, with the result that living virtuously is sufficient for a good life. The following passage comes from Letter 3,
+in which Seneca considers the nature of friendship. Seneca begins the letter by noting that Lucilius calls the man that delivered a letter to Seneca “a friend.” At the same time, Lucilius tells Seneca to watch what he says
+to this man. How then can he truly be a friend, Seneca wonders. And thus begins the following deeper discussion on friendship.
+
+The passage’s text is drawn from the L.D. Reynolds’s 2011 Oxford Classical Texts and edited for classroom use.
+
 
 -----------
 
