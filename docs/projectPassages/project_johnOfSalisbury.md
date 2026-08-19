@@ -34,7 +34,7 @@ _aequalem exhibens_, amicos salutandi causa _frequentans_, vel          **5**
 
 _aegrotantes_ vel _festis diebus_, cum eisdem _indiscreta vicissim_ 
 
-habens _convivia_, vehiculis eorum et vestibus _indifferenter_ utens,
+habens _convivia_, _vehiculis_ eorum et vestibus _indifferenter_ utens,
 
 _publice_ et _privatim ditans_ omnes, _immunitates_ civitatibus _largiens_,
 
