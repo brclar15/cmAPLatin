@@ -22,33 +22,33 @@ The passage’s text is drawn from [J.P. Migne’s](https://en.wikipedia.org/wik
 
      note2: footnotes will lead you to the commentary
 
-Tantae fortitudinis et civilitatis fuit, ut Romani imperii fines,
+Tantae _fortitudinis_ et _civilitatis_ fuit, ut Romani imperii fines,
 
-quod post Augustum defensum magis fuerat, quam nobiliter
+quod post _Augustum_ defensum magis fuerat, quam nobiliter
 
-ampliatum, longe lateque diffunderet. Gloriam tamen militarem
+_ampliatum_, longe _late_que _diffunderet_. Gloriam tamen _militarem_
 
-moderatione superavit, Romae et per provincias omnibus se
+_moderatione_ superavit, Romae et per provincias omnibus se
 
-aequalem exhibens, amicos salutandi causa frequentans, vel          **5**
+_aequalem exhibens_, amicos salutandi causa _frequentans_, vel          **5**
 
-aegrotantes vel festis diebus, cum eisdem indiscreta vicissim 
+_aegrotantes_ vel _festis diebus_, cum eisdem _indiscreta vicissim_ 
 
-habens convivia, vehiculis eorum et vestibus indifferenter utens,
+habens _convivia_, vehiculis eorum et vestibus _indifferenter_ utens,
 
-publice et privatim ditans omnes, immunitates civitatibus largiens,
+_publice_ et _privatim ditans_ omnes, _immunitates_ civitatibus _largiens_,
 
-relaxans tributa provinciis, nulli gravis, carus omnibus, adeo ut
+_relaxans tributa_ provinciis, nulli gravis, carus omnibus, _adeo_ ut
 
-usque ad nostram aetatem in senatu non aliter principibus          **10**
+_usque_ ad nostram aetatem in senatu non _aliter_ principibus          **10**
 
-acclametur: “Felicior Augusto, melior sis Traiano!” Sic itaque
+_acclametur_: “Felicior _Augusto_, melior sis Traiano!” Sic itaque
 
-memoriae eius delatum est, et opinio bonitatis eius in tantum
+memoriae eius _delatum est_, et _opinio bonitatis_ eius in tantum
 
-praevaluit, ut amicis laudantibus vel assentantibus occasionem 
+_praevaluit_, ut amicis laudantibus vel _assentantibus occasionem_ 
 
-magnificentissimi praestet exempli.
+_magnificentissimi_ praestet exempli.
 
 
 --------
@@ -73,7 +73,8 @@ magnificentissimi praestet exempli.
 | **_dito, -are_**       | _demonstro, -are_          | **_relaxo, -are_** |     to decrease      |
 | **_festus dies, festi diei, m._**        | holiday          | **_tributum, -i, n._** |     tax      |
 | **_fortitudo, -inis, f._**         | **_virtus, -utis_** f.         | **usque** (adv) |     all the way      |
-| **_frequento, -are_**        |  _visito, -are_          | **_vicissim_** (adv) |     in turn      |
+| **_frequento, -are_**        |  _visito, -are_          | **_vehiculum, -i, n._** (adv) |     vehicle       |
+|        |         | **_vicissim_** (adv) |     in turn      |
 
 
 
