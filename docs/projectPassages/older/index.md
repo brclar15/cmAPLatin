@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Older Project Passages
-permalink: /oldproject
 nav_order: 1
 has_children: true
 ---
