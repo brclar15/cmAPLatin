@@ -2,7 +2,7 @@
 layout: page
 title: Ovid
 nav_order: 3
-parent: older
+parent: Older Project Passages
 ---
 
 # Ovid's *Fasti* 2.83 – 2.86, 2.95 – 2.100, 2.103 – 2.116
