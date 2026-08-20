@@ -76,44 +76,44 @@ putaveris, facies.
 ## Commentary
 
 
-[^1]: _etiam...talia_ : (“also...such...”) establishes a contrast between the Greek epic poetry of Homer and the Latin epic poetry of the Aeneid. Just before this passage, Augustine had been discussing his love of the Aeneid.
+[^1]: _etiam...talia_ : 
 
-[^2]: _grammaticam_: literally “(a system of) grammar,” but here it means the “(Greek) language and literature” or, specifically, “(Greek) poetry”
+[^2]: _grammaticam_: 
 
-[^3]: _talia_: supply _carmina_
+[^3]: _talia_: 
 
-[^4]: _cantantem_: modifies a personified _Graecam grammaticam_, “the Greek language, that sings...” 
+[^4]: _cantantem_: 
 
-[^5]: _texere_: the infinitive completes the idea of _peritus_, “skillful at...”
+[^5]: _texere_: 
 
-[^6]: _vanus_: This description of Homer here alludes back to the larger context of Augustine’s discussion in sections 12 and 13 of the _Confessions_, in which he contrasts his own misguided, youthful love of epic poetry (in particular, the _Aeneid_) to, in his opinion, the upright love for Christian scripture. According to his account, epic poetry is empty, deceptive, and a distraction from becoming a better Christian.
+[^6]: _vanus_: 
 
-[^7]: _puero_: taken together with _mihi_, “as a boy”
+[^7]: _puero_: 
 
-[^8]: _sit_: Classical Latin would use an infinitive as the main verb of the indirect statement introduced by _credo_, but Latin after the second century CE began to substitute this with the subjunctive (usually introduced with _quod_).
+[^8]: _sit_: 
 
-[^9]: _illum_: refers to Homer
+[^9]: _illum_: 
 
-[^10]: _ediscendae_: gerundive with _linguae_
+[^10]: _ediscendae_: 
 
-[^11]: _aspergebat_: the subject is _difficultas_
+[^11]: _aspergebat_: 
 
-[^12]: _nossem_ = _novissem_; perfect forms of _nosco_, _noscere_ have a present meaning, pluperfect forms have a perfect meaning 
+[^12]: _nossem_ : 
 
-[^13]: _instabatur_: used impersonally, “_it was demanded_”
+[^13]: _instabatur_: 
 
-[^14]: _et_ =“_even_”
+[^14]: _et_ : 
 
-[^15]: _Latina nulla_: supply _verba_
+[^15]: _Latina nulla_: 
 
-[^16]: _infans_: taken together with the subject of _noveram_, “_as an infant_”
+[^16]: _infans_: 
 
-[^17]: _adridentium...adludentium...urgentium_: adjectives being used substantively
+[^17]: _adridentium...adludentium...urgentium_: 
 
-[^18]: _illa_: refers to _Latina (verba)_
+[^18]: _illa_: 
 
-[^19]: _elucet_: used impersonally, “_it is clear_”
+[^19]: _elucet_: 
 
-[^20]: _ista_: refers to _Latina (verba)_
+[^20]: _ista_: 
 
-[^21]: _liberam curiositatem_: accusative subjective of _habere_
+[^21]: _liberam curiositatem_: 
