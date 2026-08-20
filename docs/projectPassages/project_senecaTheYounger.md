@@ -23,29 +23,29 @@ The passage’s text is drawn from the [L.D. Reynolds](https://en.wikipedia.org/
 
      note2: footnotes will lead you to the commentary
 
-Sed si aliquem amicum existimas cui non tantundem credis 
+Sed si aliquem amicum _existimas_ cui non _tantundem_ credis 
 
-quantum tibi, vehementer erras et non satis nosti vim verae 
+_quantum_ tibi, _vehementer_ erras et non satis nosti vim verae 
 
-amicitiae. Tu vero omnia cum amico delibera, sed de ipso prius:
+amicitiae. Tu vero omnia cum amico _delibera_, sed de ipso _prius_:
 
-post amicitiam credendum est, ante amicitiam iudicandum. Isti
+post amicitiam credendum est, ante amicitiam _iudicandum_. Isti
 
-vero praepostero officia permiscent qui, contra praecepta    **5**
+vero _praepostero officia permiscent_ qui, contra _praecepta_    **5**
 
-Theophrasti, cum amaverunt iudicant, et non amant cum 
+_Theophrasti_, cum amaverunt _iudicant_, et non amant cum 
 
-iudicaverunt. Diu cogita an tibi in amicitiam aliquis recipiendus
+_iudicaverunt_. Diu _cogita_ an tibi in amicitiam aliquis recipiendus
 
-sit. Cum placuerit fieri, toto illum pectore admitte; tam audaciter
+sit. Cum placuerit fieri, toto illum pectore _admitte_; tam audaciter
 
 cum illo loquere quam tecum. Tu quidem ita vive ut nihil tibi
 
-committas nisi quod committere etiam inimico tuo possis; sed quia     **10**
+_committas_ nisi quod _committere_ etiam inimico tuo possis; sed quia     **10**
 
-interveniunt quaedam quae consuetudo fecit arcana, cum amico 
+_interveniunt_ quaedam quae _consuetudo_ fecit _arcana_, cum amico 
 
-omnes curas, omnes cogitationes tuas misce. Fidelem si
+omnes curas, omnes _cogitationes_ tuas _misce_. _Fidelem_ si
 
 putaveris, facies.
 
