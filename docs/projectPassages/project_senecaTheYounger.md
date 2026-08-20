@@ -23,29 +23,29 @@ The passage’s text is drawn from the [L.D. Reynolds](https://en.wikipedia.org/
 
      note2: footnotes will lead you to the commentary
 
-Sed si aliquem amicum _existimas_ cui non _tantundem_ credis 
+Sed si[^1] aliquem amicum _existimas_ cui non _tantundem_ credis 
 
-_quantum_ tibi, _vehementer_ erras et non satis nosti vim verae 
+_quantum_ tibi, _vehementer_ erras et non satis nosti[^2] vim[^3] verae[^4] 
 
-amicitiae. Tu vero omnia cum amico _delibera_, sed de ipso _prius_:
+amicitiae. Tu[^5] vero omnia cum amico _delibera_, sed de ipso[^6] _prius_[^7]:
 
-post amicitiam credendum est, ante amicitiam _iudicandum_. Isti
+post[^8] amicitiam credendum[^9] est, ante amicitiam _iudicandum_. Isti[^10]
 
-vero _praepostero officia permiscent_ qui, contra _praecepta_    **5**
+vero _praepostero[^11] officia[^12] permiscent_ qui, contra _praecepta_    **5**
 
-_Theophrasti_, cum amaverunt _iudicant_, et non amant cum 
+_Theophrasti_[^13], cum[^14] amaverunt _iudicant_, et non amant cum 
 
-_iudicaverunt_. Diu _cogita_ an tibi in amicitiam aliquis recipiendus
+_iudicaverunt_. Diu _cogita_ an tibi[^15] in amicitiam aliquis recipiendus
 
-sit. Cum placuerit fieri, toto illum pectore _admitte_; tam audaciter
+sit. Cum[^16] placuerit fieri, toto illum pectore _admitte_; tam[^17] audaciter
 
-cum illo loquere quam tecum. Tu quidem ita vive ut nihil tibi
+cum illo loquere[^18] quam tecum[^19]. Tu[^21] quidem ita[^20] vive ut nihil tibi
 
-_committas_ nisi quod _committere_ etiam inimico tuo possis; sed quia     **10**
+_committas_ nisi[^22] quod _committere_ etiam inimico tuo possis; sed quia     **10**
 
-_interveniunt_ quaedam quae _consuetudo_ fecit _arcana_, cum amico 
+_interveniunt_ quaedam[^23] quae _consuetudo_ fecit _arcana_, cum amico 
 
-omnes curas, omnes _cogitationes_ tuas _misce_. _Fidelem_ si
+omnes[^24] curas, omnes _cogitationes_ tuas _misce_. _Fidelem_[^25] si
 
 putaveris, facies.
 
@@ -118,7 +118,7 @@ putaveris, facies.
 
 [^21]: _Tu....possis: Seneca’s argument is that ideally someone is living such a blameless life that they have no need to keep any secrets. That is, they could tell their enemy (who would presumably gossip about them) everything they think and do and remain blameless in the public eye.
 
-[^22]: _nisi quod…possis_: a relative clause, “_except that which_....”
+[^22]: _nisi quod....possis_: a relative clause, “_except that which_....”
 
 [^23]: _quaedam_: the subject of _interveniunt_
 
