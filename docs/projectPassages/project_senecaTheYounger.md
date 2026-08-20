@@ -100,30 +100,28 @@ putaveris, facies.
 
 [^12]: _officia_ : Rather than “_duty_” in the sense of an official responsibility that comes with titles and offices, Seneca here employs the Stoics’ technical use of _officium_ to identify any action that ought to be done (i.e., “_the right thing to do_”).
 
-[^13]: _Theophrasti_: Theophrastus was not a Stoic but rather a Peripatetic philosopher (a member of the school founded by Aristotle) who wrote an influential, but now lost, work on friendship. Seneca commonly and unusually drew explicitly on ideas and philosophers from other philosophical schools to support his own arguments
+[^13]: _Theophrasti_: [Theophrastus](https://en.wikipedia.org/wiki/Theophrastus) was not a Stoic but rather a [Peripatetic philosopher](https://en.wikipedia.org/wiki/Peripatetic_school) (a member of the school founded by [Aristotle](https://en.wikipedia.org/wiki/Aristotle)) who wrote an influential, but now lost, work on friendship. Seneca commonly and unusually drew explicitly on ideas and philosophers from other philosophical schools to support his own arguments
 
-[^14]: _cum amaverunt…iudicaverunt_ : Supply amicum as the direct object of amaverunt, iudicant, amant, and iudicaverunt. Amaverunt amicum and amant amicum have the sense of “have made someone a friend” and “make someone a friend,” respectively
+[^14]: _cum amaverunt…iudicaverunt_ : Supply _amicum_ as the direct object of _amaverunt_, _iudicant_, _amant_, and _iudicaverunt_. _Amaverunt amicum_ and _amant amicum_ have the sense of “_have made someone a friend_” and “_make someone a friend_,” respectively
 
-[^15]: _tibi_: dative of agent with the passive periphrastic recipiendus sit
+[^15]: _tibi_: dative of agent with the passive periphrastic _recipiendus sit_
 
-[^16]: _cum…fieri_: Supply mihi as a dative with the impersonal placuerit (“whenever it is acceptable to you”), and supply amicitiam as the accusative in
-an indirect statement with fieri and introduced by placuerit (“that this friendship be made”). This extremely concise, and thus pithy, Latin style is common in Seneca
+[^16]: _cum…fieri_: Supply _mihi_ as a dative with the impersonal _placuerit_ (“_whenever it is acceptable to you_”), and supply _amicitiam_ as the accusative in an indirect statement with _fieri_ and introduced by _placuerit_ (“_that this friendship be made_”). This extremely concise, and thus pithy, Latin style is common in Seneca
 
-[^17]: _tam…quam_: used correlatively, “as…as” (with the first “as” implying a great degree)
+[^17]: _tam…quam_: used correlatively, “_as....as_” (with the first “_as_” implying a great degree)
 
-[^18]: _loquere_: the second-person present passive imperative form of the deponent loquor
+[^18]: _loquere_: the second-person present passive imperative form of the deponent _loquor_
 
-[^19]: _tecum_: cum te (wild to me that AP gives you this note....smh - Mr. Clark)
+[^19]: _tecum_: _cum te_ (wild to me that AP gives you this note....smh - Mr. Clark)
 
-[^20]: _ita…ut_: “in such a way that”
+[^20]: _ita…ut_: “_in such a way that_”
 
-[^21]: _Tu....possis: Seneca’s argument is that ideally someone is living such a blameless life that they have no need to keep any secrets. That is,
-they could tell their enemy (who would presumably gossip about them) everything they think and do and remain blameless in the public eye.
+[^21]: _Tu....possis: Seneca’s argument is that ideally someone is living such a blameless life that they have no need to keep any secrets. That is, they could tell their enemy (who would presumably gossip about them) everything they think and do and remain blameless in the public eye.
 
-[^22]: _nisi quod…possis_: a relative clause, “except that which…”
+[^22]: _nisi quod…possis_: a relative clause, “_except that which_....”
 
-[^23]: _quaedam_: the subject of interveniunt
+[^23]: _quaedam_: the subject of _interveniunt_
 
-[^24]: _omnes curas, omnes cogitationes_: Curas here is the accusative plural direct object of misce. In typical Senecan style, he omits the expected et (or -que) joining curas and cogitationes
+[^24]: _omnes curas, omnes cogitationes_: _Curas_ here is the accusative plural direct object of _misce_. In typical Senecan style, he omits the expected _et_ (or -_que_) joining _curas_ and _cogitationes_
 
-[^25]: _fidelem…putaveris_: take this as "si putaveris amicum esse fidelem"
+[^25]: _fidelem....putaveris_: take this as "_si putaveris amicum esse fidelem_"
