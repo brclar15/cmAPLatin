@@ -24,17 +24,29 @@ The passage’s text is drawn from the [L.D. Reynolds](https://en.wikipedia.org/
      note2: footnotes will lead you to the commentary
 
 Sed si aliquem amicum existimas cui non tantundem credis 
+
 quantum tibi, vehementer erras et non satis nosti vim verae 
+
 amicitiae. Tu vero omnia cum amico delibera, sed de ipso prius:
+
 post amicitiam credendum est, ante amicitiam iudicandum. Isti
+
 vero praepostero officia permiscent qui, contra praecepta    **5**
+
 Theophrasti, cum amaverunt iudicant, et non amant cum 
+
 iudicaverunt. Diu cogita an tibi in amicitiam aliquis recipiendus
+
 sit. Cum placuerit fieri, toto illum pectore admitte; tam audaciter
+
 cum illo loquere quam tecum. Tu quidem ita vive ut nihil tibi
+
 committas nisi quod committere etiam inimico tuo possis; sed quia     **10**
+
 interveniunt quaedam quae consuetudo fecit arcana, cum amico 
+
 omnes curas, omnes cogitationes tuas misce. Fidelem si
+
 putaveris, facies.
 
 
@@ -45,27 +57,18 @@ putaveris, facies.
 
 | Vocab | Definition | Vocab | Definition |
 | -------- | ------- | -------- | ------- |
-| **_adludo, -ere, -lusi, -lusum_**        | to joke         | **_adrideo, -ere_** |     to smile      |
-| **_adverto, -ere_**       | to pay attention          | **_aliquando_** |     at one time      |
-| **_amarus, -a, -um_**        | bitter, disagreeable          | **_aspergo, -ere_** |     to sprinkle      |
-| **_blandimentum, -i, n._**        | flattery          | **_canto, -are_** |     _cano, -ere_      |
-| **_cruciatus, -us, m._**        | torment          | **_curiositas, -tatis, f._** |     curiosity      |
-| **_difficultas, -tatis, f._**        | difficulty          | **_edisco, -ere_** |     _disco, -ere_      |
-| **_eluceo, -ere_**        | to be clear          | **_fabella, -ae, f._** |     _fabula, -ae_      |
-| **_fabulosus, -a, -um_**        | fabulous          | **_fel, fellis, n._** |     bile, bitterness      |
-| **_Graecus, -a, -um_**       | Greek, of Greek          | **_grammatica, -ae, f._** |     grammar      |
-| **_Homerus, -i, m._**       | Homer (Greek poet)          | **_insto, -are_** |     to demand, threaten      |
-| **_ioca, -orum, n._**       | jokes          | **_Latinus,-a, -um_** |     Latin      |
-| **_maior, -is_**        | greater          | **_meticulosus, -a, -um_** |     _timidus, -a, -um_      |
-| **_narratio, -onis, f._**       | _fabula, -ae_          | **_necessitas, -tatis, f._** |     compulsion      |
-| **_nutrix, -icis, f._**       | nurse          | **_odi, -isse, osum_** |     to hate      |
-| **_omnino_**        | at all          | **_onus, -eris, n._** |     burden      |
-| **_peregrinus, -a, -um_**         | **_alienus, -a, -um_**          | **peritus, -a, -um** |     skillful      |
-| **_poenalis, -e_**        |  of punishment          | **_suavitas, -tatis, f._** |     sweetness      |
-| **_terror, -is, m._**        | _formido, -inis, f._          | **_texo, -ere, -ui, textum_** |     _scribo, -ere_      |
-| **_urgeo, -ere_**        | to force          | **_utique_** |     certainly      |
-| **_vanus, -a, -um_**        | deceptive          | **_Vergilius, -i, m._** |     Vergil (Roman poet)      |
-| **_videlicet_**        |    certainly       |  |           |
+| **_admitto, -ere_**        | _accipio, -ere_         | **_intervenio, -ire_** |     _sum, esse_      |
+| **_arcanus, -a, um_**       | private          | **_iudico, -are_** |     to pass judgment      |
+| **_audaciter_**  (adv)      | boldly          | **_misceo, -ere_** |     to share      |
+| **_cogitatio, -onis, f._**     | _sententia, -ae_ f.     | **_officium, -i, n._** |    duty      |
+| **_cogito, -are_**        | _inspicio, -ere_          | **_permisco, -ere_** |     to mix up      |
+| **_committo, -ere_**        | to entrust          | **_praeceptum, -i, n._** |    a teaching      |
+| **_consuetudo, -dinis, f._**        | _mos, moris_ (m)          | **_praeposterus, -a, -um_** |     reversed      |
+| **_delibero, -are_**        | to discuss, consult           | **_prius_** (adv)|     first      |
+| **_existimo, -are_**       | _puto, -are_          | **_tantudem.....quantum_** |     just as much.....as      |
+| **_fidelis, -e** (adj)       | trustworthy          | **_Theophrastus, -i, m._** |     Theophrastus (a Greek name)      |
+|                    |                       | **_vehementer_** (adv) |     very much      |
+
 
 
 --------------
