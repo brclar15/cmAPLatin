@@ -25,27 +25,47 @@ The passage’s text is drawn from [E.J. Kenney](https://en.wikipedia.org/wiki/E
 
      note2: footnotes will lead you to the commentary
 
-Sisyphus in vita quoque nobis ante oculos est,
-qui petere a populo fasces saevasque secures
-imbibit et semper victus tristisque recedit.
-Nam petere imperium, quod inanest nec datur umquam,
-atque in eo semper durum sufferre laborem,    **5**
-hoc est adverso nixantem trudere monte
+_Sisyphus_ in vita quoque nobis ante oculos est,
+
+qui petere a populo _fasces_ saevasque _secures_
+
+_imbibit_ et semper victus tristisque _recedit_.
+
+Nam petere imperium, quod _inanest_ nec datur umquam,
+
+atque in eo semper durum _sufferre_ laborem,    **5**
+
+hoc est adverso _nixantem trudere_ monte
+
 saxum, quod tamen e summo iam vertice rursum
-volvitur et plani raptim petit aequora campi.
-Deinde animi ingratam naturam pascere semper
-atque explere bonis rebus satiareque numquam,    **10**
+
+volvitur et _plani raptim_ petit aequora campi.
+
+Deinde animi _ingratam_ naturam _pascere_ semper
+
+atque _explere_ bonis rebus _satiareque_ numquam,    **10**
+
 quod faciunt nobis annorum tempora,…
-hoc, ut opinor, id est, aevo florente puellas
-quod memorant laticem pertusum congerere in vas,
-quod tamen expleri nulla ratione potestur.
-Cerberus et Furiae iam vero et lucis egestas,    **15**
-qui neque sunt usquam nec possunt esse profecto.
-Sed metus in vita poenarum pro male factis
-est insignibus insignis scelerisque luela.
-Quae tamen etsi absunt, at mens sibi conscia facti
-praemetuens adhibet stimulos torretque flagellis.    **20**
-Hic Acherusia fit stultorum denique vita.
+
+hoc, ut _opinor_, id est, _aevo florente_ puellas
+
+quod _memorant laticem pertusum congerere_ in _vas_,
+
+quod tamen _expleri_ nulla _ratione potestur_.
+
+_Cerberus_ et _Furiae_ iam vero et lucis _egestas_,    **15**
+
+qui neque sunt _usquam_ nec possunt esse _profecto_.
+
+Sed metus in vita poenarum _pro_ male factis
+
+est _insignibus insignis_ scelerisque _luela_.
+
+Quae tamen _etsi_ absunt, at mens sibi _conscia_ facti
+
+_praemetuens adhibet stimulos torretque flagellis_.    **20**
+
+Hic _Acherusia_ fit stultorum denique vita.
 
 
 --------
