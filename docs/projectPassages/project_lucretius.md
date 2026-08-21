@@ -5,11 +5,17 @@ nav_order: 3
 parent: Project Passages
 ---
 
-# Augustine's *Confessions* 1.14.23
+# Lucretius's *De Rerum Natura* 3.995-1005, 1008-1011, 1013-1015, 1018-1019, 1023
+### Date - First half of the first century BCE
 
 ## Introduction
 
-Aurelius Augustinus Hipponensis, better known as [**Augustine of Hippo**](https://en.wikipedia.org/wiki/Augustine_of_Hippo), was a highly influential north African Christian theologian who lived and wrote in late Roman antiquity. His family were Berbers (an ethnic group indigenous to north Africa), highly Romanized, and members of the Roman aristocracy.  [_The Confessions_](https://en.wikipedia.org/wiki/Confessions_(Augustine)), from which the following passage is drawn, is among his most famous works and is widely considered to be the first Western autobiography. The work focuses heavily on Augustine’s inner experiences, primarily through his reflections on his education and other life events and, at the same time, his gradual conversion from paganism to Christianity.  Through these personal anecdotes, Augustine frequently proposes broad philosophical and religious insights.
+The _[De Rerum Natura](https://en.wikipedia.org/wiki/De_rerum_natura)_ (On the Nature of Things) is a [didactic poem](https://en.wikipedia.org/wiki/Didacticism) in epic style written in dactylic hexameter by the Roman [Titus Lucretius Carus](https://en.wikipedia.org/wiki/Lucretius) in the first half of the first century BCE. However, in place of heroic events, Lucretius’s epic details various aspects of a philosophy called [Epicureanism](https://en.wikipedia.org/wiki/Epicureanism), which was popular among the Romans of the time. The Epicureans’ belief was that only pleasure is fundamentally good (and pain is bad), that the quality of our lives is determined by whether or not we desire the right things, that the universe is wholly material (i.e., that there are no immaterial things) and is made up of tiny indivisible particles ([atomoi](https://en.wikipedia.org/wiki/Atomism), from which we get the term “atoms”), and that while there are gods, they neither direct events in the universe as a whole nor involve themselves at all in the doings of mankind.
+
+[Book 3](https://www.thelatinlibrary.com/lucretius/lucretius3.shtml) of the _De Rerum Natura_ concerns itself with humans’ fear of death, which Lucretius wants to teach his audience is unreasonable. In Book 3, Lucretius argues that due to the material nature of the cosmos, the human soul does not continue to exist beyond death. He then proclaims that “death is nothing to us” and that our fear of it is misplaced. As Lucretius proceeds to describe the ill effects of our fear, he introduces various myths about the underworld as allegories for the behaviors that the living engage in and that cause distress. It is from these allegories that the following passage, which focuses on the myths of [Sisyphus](https://en.wikipedia.org/wiki/Sisyphus), the [Danaids](https://en.wikipedia.org/wiki/Dana%C3%AFdes), [Cerberus](https://en.wikipedia.org/wiki/Cerberus), and the [Furies](https://en.wikipedia.org/wiki/Erinyes), is drawn.
+
+The passage’s text is drawn from [E.J. Kenney](https://en.wikipedia.org/wiki/E._J._Kenney)’s 2001 Cambridge Greek and Latin Classics text and commentary. It has been abridged and edited for classroom use.
+
 
 -----------
 
