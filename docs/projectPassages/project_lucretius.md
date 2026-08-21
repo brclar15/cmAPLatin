@@ -54,27 +54,27 @@ Hic Acherusia fit stultorum denique vita.
 
 | Vocab | Definition | Vocab | Definition |
 | -------- | ------- | -------- | ------- |
-| **_adludo, -ere, -lusi, -lusum_**        | to joke         | **_adrideo, -ere_** |     to smile      |
-| **_adverto, -ere_**       | to pay attention          | **_aliquando_** |     at one time      |
-| **_amarus, -a, -um_**        | bitter, disagreeable          | **_aspergo, -ere_** |     to sprinkle      |
-| **_blandimentum, -i, n._**        | flattery          | **_canto, -are_** |     _cano, -ere_      |
-| **_cruciatus, -us, m._**        | torment          | **_curiositas, -tatis, f._** |     curiosity      |
-| **_difficultas, -tatis, f._**        | difficulty          | **_edisco, -ere_** |     _disco, -ere_      |
-| **_eluceo, -ere_**        | to be clear          | **_fabella, -ae, f._** |     _fabula, -ae_      |
-| **_fabulosus, -a, -um_**        | fabulous          | **_fel, fellis, n._** |     bile, bitterness      |
-| **_Graecus, -a, -um_**       | Greek, of Greek          | **_grammatica, -ae, f._** |     grammar      |
-| **_Homerus, -i, m._**       | Homer (Greek poet)          | **_insto, -are_** |     to demand, threaten      |
-| **_ioca, -orum, n._**       | jokes          | **_Latinus,-a, -um_** |     Latin      |
-| **_maior, -is_**        | greater          | **_meticulosus, -a, -um_** |     _timidus, -a, -um_      |
-| **_narratio, -onis, f._**       | _fabula, -ae_          | **_necessitas, -tatis, f._** |     compulsion      |
-| **_nutrix, -icis, f._**       | nurse          | **_odi, -isse, osum_** |     to hate      |
-| **_omnino_**        | at all          | **_onus, -eris, n._** |     burden      |
-| **_peregrinus, -a, -um_**         | **_alienus, -a, -um_**          | **peritus, -a, -um** |     skillful      |
-| **_poenalis, -e_**        |  of punishment          | **_suavitas, -tatis, f._** |     sweetness      |
-| **_terror, -is, m._**        | _formido, -inis, f._          | **_texo, -ere, -ui, textum_** |     _scribo, -ere_      |
-| **_urgeo, -ere_**        | to force          | **_utique_** |     certainly      |
-| **_vanus, -a, -um_**        | deceptive          | **_Vergilius, -i, m._** |     Vergil (Roman poet)      |
-| **_videlicet_**        |    certainly       |  |           |
+| **_Acherusia, -ae, f._**        | the underworld         | **_opinor, -ari_** |      _puto, -are_       |
+| **_adhibeo, -ere_**       | to summon          |**_pasco, -ere_**  |     to feed     |
+| **_aevum, -i, n._**        | _aetas, -atis_ f.          | **_pertusus, -a, -um_**  |      with a hole     |
+| **_Cerberus, -i, m._**        | Cerberus (a mythical creature)          |   **_planus, -a, -um_**  |     flat    |
+| **_congero, -ere_**        | to collect           |   **_potestur_** |   _potest_          |
+| **_conscius, -a, -um_**        | aware of           |   **_praemetuo, -ere_**|   to fear beforehand      |
+| **_egestas, -atis, f.**        | absence          |   **_pro_** (prep)  |      in proportion to      |
+| **_etsi_** (adv)       | even if          |  **_profecto_** (adv)    |       _vero_      |
+| **_expleo, -ere_**       | to fill up          | **_raptim_** (adv) |      hastily   |
+| **_fascis, -is, m._**       | bundle of rods          | **_ratio, -onis, f._** |    modus, -i m.       |
+| **_flagellum, -i, n._**       | whip          |  **_recedo, -ere_**  |      _cedo, -ere_        |
+| **_floreo, -ere_**        | to bloom          |    **_satio, -are_**     |   to satisfy     |
+| **_Furiae, -arum, f. pl._**       | the Furies (mythical creatures)   | **_securis, -is, f._**   |   ax         |
+| **_imbibo, -ere_**       | to strongly desire          |  **_Sisyphus, -i, m._**   |       Sisyphus (a mythical person)       |
+| **_inanis, -e_** (adj)       | empty          | **_stimulus, -i, m._** |     goad   |
+| **_ingratus, -a, -um_**         | ungrateful          | **_suffero, -ferre_**  |         patior, -i       |
+| **_insignis, -e_**        |  remarkable          |  **_torreo, -ere_** |     _to scorch_     |
+| **_latex, -icis, m._**        | _aqua, -ae_ f.          | **_trudo, -ere_** |     _impello, -ere_     |
+| **_luela, -ae, f._**        | _poena, -ae_ f.          | **_usquam_** (adv)|    anywhere     |
+| **_memoro, -are_**        | _narro, -are_          | **_vas, vasis, n._** |     jug      |
+|    **_nixor, -ari_**    |    to strive       |  |           |
 
 
 --------------
