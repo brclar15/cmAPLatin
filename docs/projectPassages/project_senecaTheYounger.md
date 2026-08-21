@@ -66,7 +66,7 @@ putaveris, facies.
 | **_consuetudo, -dinis, f._**        | _mos, moris_ (m)          | **_praeposterus, -a, -um_** |     reversed      |
 | **_delibero, -are_**        | to discuss, consult           | **_prius_** (adv)|     first      |
 | **_existimo, -are_**       | _puto, -are_          | **_tantudem.....quantum_** |     just as much.....as      |
-| **_fidelis, -e** (adj)       | trustworthy          | **_Theophrastus, -i, m._** |     Theophrastus (a Greek name)      |
+| **_fidelis, -e_** (adj)       | trustworthy          | **_Theophrastus, -i, m._** |     Theophrastus (a Greek name)      |
 |                    |                       | **_vehementer_** (adv) |     very much      |
 
 
