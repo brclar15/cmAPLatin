@@ -102,27 +102,47 @@ Hic _Acherusia_ fit stultorum denique vita.
 ## Commentary
 
 
-[^1]: _etiam...talia_ : 
+[^1]: _Sisyphus_ : Sisyphus was a mythical king of Corinth, renowned for his cleverness. As a punishment for his various misdeeds (such as trapping the god of death in chains meant for Sisyphus himself), he was made to endlessly roll a boulder up a steep hill (which kept rolling back down) in the underworld
 
-[^2]: _grammaticam_: 
+[^2]: _quoque_: Immediately preceding these lines, Lucretius uses the myths of Tantalus and Tityos to represent other human failings
 
-[^3]: _talia_: 
+[^3]: _nobis_: a dative of possession with oculos
 
-[^4]: _cantantem_: 
+[^4]: _fasces…secures_: The fasces were wooden rods sometimes bundled around an axe (securis) carried by the attendants of high-ranking Roman government officials. The fasces represented the authority (imperium) of the official, particularly the official’s ability to inflict corporal and capital punishments
 
-[^5]: _texere_: 
+[^5]: _imbibit_: literally “drinks in deeply,” with the sense of forming a strong desire
 
-[^6]: _vanus_: 
+[^6]: _inanest_: inane est; a poetic elision of inane est. Here, inane, lit. “empty,” includes the sense of “worthless,” “insatiable,” and “deceptive.” As an Epicurean, Lucretius held the belief that many of our desires are “empty” because they deceive us in thinking that something is pleasurable, when in fact those desires invite pain and are never able to be satisfied
 
-[^7]: _puero_: 
+[^7]: _nec datur umquam_: According to the Epicureans, someone may gain political power, but the kind of power they actually seek—one that ensures safety and a peaceful life—can only come from wisdom and virtue
 
-[^8]: _sit_: 
+[^8]: _petere…sufferre_: in apposition with hoc (line 6), which is the subject of est (line 6)
 
-[^9]: _illum_: 
+[^9]: _eo_: refers to petere imperium
 
-[^10]: _ediscendae_: 
+[^10]: _hoc…est_: hoc refers to petere and sufferre, “this is (what it is) to…”
 
-[^11]: _aspergebat_: 
+[^11]: _adverso_: modifies monte, literally “on a facing mountain,” more naturally “up a mountain”
+
+[^12]: _plani…petit aequora campi_ : aequora here refers to a flat plain of land. This language could also describe a candidate seeking election, because peto is the technical term used for running for public office, and voting occurred in the Campus Martius (“The Field of Mars”) in Rome
+
+[^13]: _pascere…explere…satiare_: these infinitives act as nouns (e.g., “to feed an ungrateful mind”)
+
+[^14]: _numquam_ : the adverb modifies explere and satiare
+
+[^15]: _quod_: “things which” and the “things” mentioned here are the actions identified in lines 9-10 (ingratam naturam pascere, [ingratam naturam] explere, [ingratam naturam] satiare)
+
+[^16]: _faciunt_: The sense is that the seasons (i.e., nature) “can do” this for us, but we do not allow it to because of our insatiable desires
+
+[^17]: _annorum tempora_: i.e., the seasons of nature (and, taken more broadly, nature as a whole), referenced here for their capacity to produce food for humans. Epicureans argued that we should limit our desires to “simple” pleasures—namely, those that can actually be satisfied. The pleasures of simple foods that are easy to obtain and thus able to easily be enjoyed and satisfy our hunger were high on this list
+
+[^18]: _quod…tempora_: The last word of this line and the next two lines have been omitted.
+
+[^19]: _hoc_: refers to the same three actions Lucretius mentions in lines 9-10 (pascere, explere, and satiare)
+
+[^20]: _hoc…id est…quod memorant_: “this is the point when they say that…”
+
+[^21]: _liberam curiositatem_: 
 
 [^12]: _nossem_ : 
 
