@@ -25,35 +25,28 @@ The passage’s text is drawn from [E.J. Kenney](https://en.wikipedia.org/wiki/E
 
      note2: footnotes will lead you to the commentary
 
-Cur ergo Graecam etiam[^1] _grammaticam_[^2] _oderam_ talia[^3]
+Sisyphus in vita quoque nobis ante oculos est,
+qui petere a populo fasces saevasque secures
+imbibit et semper victus tristisque recedit.
+Nam petere imperium, quod inanest nec datur umquam,
+atque in eo semper durum sufferre laborem,    **5**
+hoc est adverso nixantem trudere monte
+saxum, quod tamen e summo iam vertice rursum
+volvitur et plani raptim petit aequora campi.
+Deinde animi ingratam naturam pascere semper
+atque explere bonis rebus satiareque numquam,    **10**
+quod faciunt nobis annorum tempora,…
+hoc, ut opinor, id est, aevo florente puellas
+quod memorant laticem pertusum congerere in vas,
+quod tamen expleri nulla ratione potestur.
+Cerberus et Furiae iam vero et lucis egestas,    **15**
+qui neque sunt usquam nec possunt esse profecto.
+Sed metus in vita poenarum pro male factis
+est insignibus insignis scelerisque luela.
+Quae tamen etsi absunt, at mens sibi conscia facti
+praemetuens adhibet stimulos torretque flagellis.    **20**
+Hic Acherusia fit stultorum denique vita.
 
-_cantantem_[^4]? Nam et _Homerus_ _peritus_ _texere_[^5] tales _fabellas_
-
-et dulcissime _vanus_[^6] est, mihi tamen _amarus_ erat puero[^7].
-
-Credo etiam Graecis pueris _Vergilius_ ita sit[^8], cum eum sic
-
-discere coguntur ut ego illum[^9]. _Videlicet difficultas, difficultas_		**5**
-
-_omnino ediscendae_[^10] linguae _peregrinae_, quasi _felle_
-
-_aspergebat_[^11] omnes _suavitates_ Graecas _fabulosarum_
-
-_narrationum_. Nulla enim verba illa noveram, et saevis
-
-_terroribus_ ac poenis ut nossem[^12] _instabatur_[^13] mihi vehementer.
-
-Nam et[^14] _Latina[^15] aliquando_ infans[^16] _utique_ nulla noveram, et			**10**
-
-tamen _advertendo_ didici sine ullo metu atque _cruciatu_, inter
-
-etiam _blandimenta nutricum_ et _ioca adridentium[^17]_ et laetitias
-
-_adludentium_[^17]. Didici vero illa[^18] sine _poenali onere urgentium[^17]_.
-
-Hinc satis _elucet[^19] maiorem_ habere vim ad discenda ista[^20]
-
-liberam[^21] _curiositatem_ quam _meticulosam necessitatem_.			**15**
 
 --------
 
