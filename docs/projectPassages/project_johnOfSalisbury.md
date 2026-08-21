@@ -73,7 +73,7 @@ _magnificentissimi_ praestet[^21] exempli.
 | **_diffundo, -ere_**       | _tendo, -ere_          | **_publice_** (adv) |     publicly      |
 | **_dito, -are_**       | _demonstro, -are_          | **_relaxo, -are_** |     to decrease      |
 | **_festus dies, festi diei, m._**        | holiday          | **_tributum, -i, n._** |     tax      |
-| **_fortitudo, -inis, f._**         | **_virtus, -utis_** f.         | **usque** (adv) |     all the way      |
+| **_fortitudo, -inis, f._**         | **_virtus, -utis_** f.         | **_usque_** (adv) |     all the way      |
 | **_frequento, -are_**        |  _visito, -are_          | **_vehiculum, -i, n._** (adv) |     vehicle       |
 |        |         | **_vicissim_** (adv) |     in turn      |
 
