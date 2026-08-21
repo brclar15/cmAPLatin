@@ -6,7 +6,7 @@ parent: Project Passages
 ---
 
 # Seneca the Younger's *Epistulae Morales* 3.2-3
-# Date - circa 65 CE
+### Date - circa 65 CE
 
 ## Introduction
 
