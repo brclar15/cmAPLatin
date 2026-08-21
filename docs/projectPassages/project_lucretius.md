@@ -80,7 +80,7 @@ Hic _Acherusia_ fit stultorum denique vita.
 | **_Cerberus, -i, m._**        | Cerberus (a mythical creature)          |   **_planus, -a, -um_**  |     flat    |
 | **_congero, -ere_**        | to collect           |   **_potestur_** |   _potest_          |
 | **_conscius, -a, -um_**        | aware of           |   **_praemetuo, -ere_**|   to fear beforehand      |
-| **_egestas, -atis, f.**        | absence          |   **_pro_** (prep)  |      in proportion to      |
+| **_egestas, -atis, f._**        | absence          |   **_pro_** (prep)  |      in proportion to      |
 | **_etsi_** (adv)       | even if          |  **_profecto_** (adv)    |       _vero_      |
 | **_expleo, -ere_**       | to fill up          | **_raptim_** (adv) |      hastily   |
 | **_fascis, -is, m._**       | bundle of rods          | **_ratio, -onis, f._** |    modus, -i m.       |
