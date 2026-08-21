@@ -158,56 +158,25 @@ Hic _Acherusia_ fit stultorum denique vita.
 
 [^18]: _pro male factis insignibus_: “in proportion to the remarkable misdeeds”
 
-[^19]: _elucet_: 
+[^19]: _est_: best taken impersonally, “there is”
 
-[^20]: _ista_: 
+[^20]: _insignis_: modifies metus; both the fear and the deeds are remarkable in a bad sense. The fear is remarkable because it is vivid in one’s mind. The sense of pro male factis insignibus insignis seems to be that the seriousness of the fear is proportional to the seriousness of the misdeed. Moreover, given that insignis at its most basic level means “noticeable,” the fear increases as the likelihood that the crime may be discovered increases
 
-[^21]: _liberam curiositatem_: 
+[^21]: _sceleris_: genitive singular with luela
 
-[^14]: _et_ : 
+[^14]: _Quae_ : refers to luela
 
-[^15]: _Latina nulla_: 
+[^15]: _Quae…absunt_: i.e., even if one avoids being punished
 
-[^16]: _infans_: 
+[^16]: _Cerberus…flagellis_: Lucretius’s overarching point is that we have erroneously projected our fear of punishment while alive into some invented place of torment in a supposed afterlife
 
-[^17]: _adridentium...adludentium...urgentium_: 
+[^17]: _Quae…flagellis_: Epicureans believed that a normal human mind would naturally feel guilty for its misdeeds. Equally, the Epicureans believed that the normal human mind could never fully believe it had avoided punishment, and so the fear of retribution would always remain to some degree. Lucretius’s argument is not that people should stop feeling guilty for misdeeds but rather that misdeeds inevitably cause pain, regardless of actual punishment
 
-[^18]: _illa_: 
+[^18]: _stimulos…flagellis_: While metaphorical, goads and whips were common implements of Roman punishment and torture (particularly of enslaved people)
 
-[^19]: _elucet_: 
+[^19]: _Hic_: “Here,” i.e., alive and on earth
 
-[^20]: _ista_: 
+[^20]: _Acherusia_: a specific section of the underworld, used here to stand in for the part of the underworld where punishments occur
 
-[^21]: _liberam curiositatem_: 
+[^21]: _stultorum_: namely, anyone who has not understood and put into action the (purported) truths of Epicureanism
 
-[^14]: _et_ : 
-
-[^15]: _Latina nulla_: 
-
-[^16]: _infans_: 
-
-[^17]: _adridentium...adludentium...urgentium_: 
-
-[^18]: _illa_: 
-
-[^19]: _elucet_: 
-
-[^20]: _ista_: 
-
-[^21]: _liberam curiositatem_: 
-
-[^14]: _et_ : 
-
-[^15]: _Latina nulla_: 
-
-[^16]: _infans_: 
-
-[^17]: _adridentium...adludentium...urgentium_: 
-
-[^18]: _illa_: 
-
-[^19]: _elucet_: 
-
-[^20]: _ista_: 
-
-[^21]: _liberam curiositatem_: 
