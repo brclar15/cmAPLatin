@@ -142,11 +142,59 @@ Hic _Acherusia_ fit stultorum denique vita.
 
 [^20]: _hoc…id est…quod memorant_: “this is the point when they say that…”
 
+[^21]: _aevo florente_: i.e. in their teenage years
+
+[^12]: _puellas_ : the accusative subject of congerere in an indirect statement introduced by memorant. These girls are the Danaids, the 50 mythical daughters of King Danaus, who were forced to marry at the command of their uncle. In response, Danaus ordered his daughters to kill their husbands, and all but one did. As punishment, the Danaids were forced in the underworld to carry jugs of water that leaked, ensuring that their task could never be completed
+
+[^13]: _potestur_: This rare passive form of posse is used when the infinitive completing the thought is also passive (in this case, expleri). The distinction between this form and potest cannot be captured in English
+
+[^14]: _Cerberus_ : the mythical three-headed dog that guards the entrance to the underworld
+
+[^15]: _Furiae_: the Furies, who are the goddesses of vengeance in ancient Roman mythology. They were often depicted as enacting the punishments of the underworld
+
+[^16]: _Cerberus…profecto_: These lines lack a main verb, although the sense is an implied “And now consider…”
+
+[^17]: _qui…profecto_: Here sunt and esse have the sense of “exist.” The punishments of the afterlife cannot (possunt) exist because, according to the Epicurean worldview, the underworld cannot exist (since humans cease to exist in any form upon death)
+
+[^18]: _pro male factis insignibus_: “in proportion to the remarkable misdeeds”
+
+[^19]: _elucet_: 
+
+[^20]: _ista_: 
+
 [^21]: _liberam curiositatem_: 
 
-[^12]: _nossem_ : 
+[^14]: _et_ : 
 
-[^13]: _instabatur_: 
+[^15]: _Latina nulla_: 
+
+[^16]: _infans_: 
+
+[^17]: _adridentium...adludentium...urgentium_: 
+
+[^18]: _illa_: 
+
+[^19]: _elucet_: 
+
+[^20]: _ista_: 
+
+[^21]: _liberam curiositatem_: 
+
+[^14]: _et_ : 
+
+[^15]: _Latina nulla_: 
+
+[^16]: _infans_: 
+
+[^17]: _adridentium...adludentium...urgentium_: 
+
+[^18]: _illa_: 
+
+[^19]: _elucet_: 
+
+[^20]: _ista_: 
+
+[^21]: _liberam curiositatem_: 
 
 [^14]: _et_ : 
 
