@@ -25,47 +25,47 @@ The passage’s text is drawn from [E.J. Kenney](https://en.wikipedia.org/wiki/E
 
      note2: footnotes will lead you to the commentary
 
-_Sisyphus_ in vita quoque nobis ante oculos est,
+_Sisyphus_[^1] in vita quoque[^2] nobis[^3] ante oculos est,
 
-qui petere a populo _fasces_ saevasque _secures_
+qui petere a populo _fasces_[^4] saevasque _secures_
 
-_imbibit_ et semper victus tristisque _recedit_.
+_imbibit_[^5] et semper victus tristisque _recedit_.
 
-Nam petere imperium, quod _inanest_ nec datur umquam,
+Nam petere[^8] imperium, quod _inanest_[^6] nec[^7] datur umquam,
 
-atque in eo semper durum _sufferre_ laborem,    **5**
+atque in eo[^9] semper durum _sufferre_ laborem,    **5**
 
-hoc est adverso _nixantem trudere_ monte
+hoc[^10] est adverso[^11] _nixantem trudere_ monte
 
 saxum, quod tamen e summo iam vertice rursum
 
-volvitur et _plani raptim_ petit aequora campi.
+volvitur et _plani[^12] raptim_ petit aequora campi.
 
-Deinde animi _ingratam_ naturam _pascere_ semper
+Deinde animi _ingratam_ naturam _pascere_[^13] semper
 
-atque _explere_ bonis rebus _satiareque_ numquam,    **10**
+atque _explere_ bonis rebus _satiareque_ numquam[^14],    **10**
 
-quod faciunt nobis annorum tempora,…
+quod[^15] faciunt[^16] nobis annorum[^17] tempora[^18],...
 
-hoc, ut _opinor_, id est, _aevo florente_ puellas
+hoc[^19], ut _opinor_, id[^20] est, _aevo[^21] florente_ puellas[^22]
 
 quod _memorant laticem pertusum congerere_ in _vas_,
 
-quod tamen _expleri_ nulla _ratione potestur_.
+quod tamen _expleri_ nulla _ratione potestur_[^23].
 
-_Cerberus_ et _Furiae_ iam vero et lucis _egestas_,    **15**
+_Cerberus_[^24][^26] et _Furiae_[^25] iam vero et lucis _egestas_,    **15**
 
-qui neque sunt _usquam_ nec possunt esse _profecto_.
+qui[^27] neque sunt _usquam_ nec possunt esse _profecto_.
 
-Sed metus in vita poenarum _pro_ male factis
+Sed metus in vita poenarum _pro_[^28] male factis
 
-est _insignibus insignis_ scelerisque _luela_.
+est[^29] _insignibus insignis_[^30] scelerisque[^31] _luela_.
 
-Quae tamen _etsi_ absunt, at mens sibi _conscia_ facti
+Quae[^32][^33][^35] tamen _etsi_ absunt, at mens sibi _conscia_ facti
 
-_praemetuens adhibet stimulos torretque flagellis_.    **20**
+_praemetuens adhibet stimulos[^36] torretque flagellis[^34]_.    **20**
 
-Hic _Acherusia_ fit stultorum denique vita.
+Hic[^37] _Acherusia_[^38] fit stultorum[^39] denique vita.
 
 
 --------
@@ -176,7 +176,7 @@ Hic _Acherusia_ fit stultorum denique vita.
 
 [^37]: _Hic_: “_Here_,” i.e., alive and on earth
 
-[^38]: _Acherusia_: a specific section of the underworld, used here to stand in for the part of the underworld where punishments occur
+[^38]: _Acherusia_: a specific section of the [underworld](https://en.wikipedia.org/wiki/Greek_underworld), used here to stand in for the part of the underworld where punishments occur
 
 [^39]: _stultorum_: namely, anyone who has not understood and put into action the (purported) truths of [Epicureanism](https://en.wikipedia.org/wiki/Epicureanism)
 
