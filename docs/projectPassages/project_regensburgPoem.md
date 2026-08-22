@@ -24,35 +24,44 @@ The passage’s text is drawn from D.A. Traill and J. Haynes’s _[Education of 
 
      note2: footnotes will lead you to the commentary
 
-Cur ergo Graecam etiam[^1] _grammaticam_[^2] _oderam_ talia[^3]
+Est tibi vana fides, non est dilectio perpes;
 
-_cantantem_[^4]? Nam et _Homerus_ _peritus_ _texere_[^5] tales _fabellas_
+qui “fortis” nomen tibi iunxit, perdidit omen.
 
-et dulcissime _vanus_[^6] est, mihi tamen _amarus_ erat puero[^7].
+Quid prodest nomen, si non retinebis honorem?
 
-Credo etiam Graecis pueris _Vergilius_ ita sit[^8], cum eum sic
+Nomine fulgebunt tali qui fortia quaerunt.
 
-discere coguntur ut ego illum[^9]. _Videlicet difficultas, difficultas_		**5**
+Tu “mollis” potius sis amodo iure vocatus.    **5**
 
-_omnino ediscendae_[^10] linguae _peregrinae_, quasi _felle_
+Nunc breviter dicam cur sic enigmata solvam. 
 
-_aspergebat_[^11] omnes _suavitates_ Graecas _fabulosarum_
+Cum tibi versiculos misi ratione politos,
 
-_narrationum_. Nulla enim verba illa noveram, et saevis
+non mihi responsum curasti reddere dignum, 
 
-_terroribus_ ac poenis ut nossem[^12] _instabatur_[^13] mihi vehementer.
+sed mihi rescribi vetuit “turbatio regni.”
 
-Nam et[^14] _Latina[^15] aliquando_ infans[^16] _utique_ nulla noveram, et			**10**
+Istud nempe tuae vitium successio culpae.     **5**
 
-tamen _advertendo_ didici sine ullo metu atque _cruciatu_, inter
+Tu solus pesti potuisses huic medicari, 
 
-etiam _blandimenta nutricum_ et _ioca adridentium[^17]_ et laetitias
+nec lorica tuum pectus protexit ineptum; 
 
-_adludentium_[^17]. Didici vero illa[^18] sine _poenali onere urgentium[^17]_.
+ensis namque tuus multa ferrugine tectus 
 
-Hinc satis _elucet[^19] maiorem_ habere vim ad discenda ista[^20]
+etsi percussit hostem, sine vulnere mansit.
 
-liberam[^21] _curiositatem_ quam _meticulosam necessitatem_.			**15**
+At miror clipeum tua quae ferret manus aptum.    **5**
+
+Dextra, reor, timido nam convenit hoc bene viro.
+
+Sed forsan dicis; “Deerat mihi nuntius omnis.” 
+
+Quae tibi porrexit mea scripta, tua mihi ferret,
+
+mittere si velles, vel si componere scires.
+
 
 --------
 
