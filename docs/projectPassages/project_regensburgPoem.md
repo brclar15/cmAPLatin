@@ -5,11 +5,19 @@ nav_order: 4
 parent: Project Passages
 ---
 
-# Augustine's *Confessions* 1.14.23
+# Regensburg Poem 46
+### DATE - Twelfth century CE
+
 
 ## Introduction
 
-Aurelius Augustinus Hipponensis, better known as [**Augustine of Hippo**](https://en.wikipedia.org/wiki/Augustine_of_Hippo), was a highly influential north African Christian theologian who lived and wrote in late Roman antiquity. His family were Berbers (an ethnic group indigenous to north Africa), highly Romanized, and members of the Roman aristocracy.  [_The Confessions_](https://en.wikipedia.org/wiki/Confessions_(Augustine)), from which the following passage is drawn, is among his most famous works and is widely considered to be the first Western autobiography. The work focuses heavily on Augustine’s inner experiences, primarily through his reflections on his education and other life events and, at the same time, his gradual conversion from paganism to Christianity.  Through these personal anecdotes, Augustine frequently proposes broad philosophical and religious insights.
+The Regensburg poems, or Carmina Ratisponensia, are a collection of 68 Latin poems authored primarily by German nuns for their teacher at a monastery in Regensburg, Germany, in the twelfth century CE. The main
+themes of the collection include love and cultivating virtues. Many of these poems, including the following poem, are written in a meter common to the time, Leonine hexameter, in which the last syllable of each line rhymes—sometimes quite loosely—with the last syllable of a word near the middle of the line. This collection consists of exercises or assignments, although generally highly polished, created by the nuns for their teacher. The
+collection also includes replies from the teacher and is notable as a window into the education of women during the Middle Ages. It is also an essential example of the literature of this period, during which there was a renewed and intense interest in classical sources and styles (in particular, Ovid and his love poetry). As such, these poems were often playful but also highly rhetorical (as educational exercises). In the following poem, presented as
+a letter, the poet complains in seemingly good humor that the teacher has not returned his feedback on her poem. Poem 47 in the collection is the teacher’s brief response, in which he clearly is not amused by his student’s criticism.
+
+The passage’s text is drawn from D.A. Traill and J. Haynes’s Education of Nuns, Feast of Fools, Letters of Love (2021) and edited for classroom use.
+
 
 -----------
 
