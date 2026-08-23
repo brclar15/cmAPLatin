@@ -96,67 +96,68 @@ mittere si velles, vel si _componere_ scires.
 ## Commentary
 
 
-[^1]: _dilectio_ : derived from the verb diligo, meaning “to value highly.” This sort of love is not romantic love (amor or cupiditas) but rather a strong, deliberate—i.e., consciously chosen and developed—affection. In fact, dilectio was commonly used in Medieval Christian texts to identify the love one is supposed to have toward God
+[^1]: _dilectio_ : derived from the verb _diligo_, meaning “_to value highly_.” This sort of love is not romantic love (_amor_ or _cupiditas_) but rather a strong, deliberate — i.e., consciously chosen and developed — affection. In fact, _dilectio_ was commonly used in Medieval Christian texts to identify the love one is supposed to have toward God
 
-[^2]: _qui_: = quisquis
+[^2]: _qui_: = _quisquis_
 
-[^3]: _perdidit omen_: Here, omen seems to refer to the power of an omen to point to something in the future. By extension, it suggests the power of a name to indicate a truth about the thing it names
+[^3]: _perdidit omen_: Here, _omen_ seems to refer to the power of an omen to point to something in the future. By extension, it suggests the power of a name to indicate a truth about the thing it names
 
-[^4]: _honorem_: Similar to omen, honorem refers to the word’s integrity, insofar as it accurately identifies what it is meant to name
+[^4]: _honorem_: Similar to _omen_, _honorem_ refers to the word’s integrity, insofar as it accurately identifies what it is meant to name
 
-[^5]: _qui_: refers to the implied subject of fulgebunt, “those who”fortia: fortis used substantively, “brave deeds” or “bravery”
+[^5]: _qui_: refers to the implied subject of _fulgebunt_, “_those who_”
 
-[^6]: _sis_: a subjunctive indicating possibility (has the sense of a command), “should be”
+[^6]: _fortia_: _fortis_ used substantively, “_brave deeds_” or “_bravery_”
 
-[^7]: _cur_: i.e., why she is calling him “weak”
+[^7]: _sis_: a subjunctive indicating possibility (has the sense of a command), “_should be_”
 
-[^8]: _enigma_: In the Medieval context, this word meant more than just a commonplace riddle. Rather, it commonly referred to text (such as Biblical text) that was difficult to interpret, but once interpreted, it would reveal some deeper truth
+[^8]: _cur_: i.e., why she is calling him “weak”
 
-[^9]: _curasti_: = _curavisti_
+[^9]: _enigma_: In the Medieval context, this word meant more than just a commonplace riddle. Rather, it commonly referred to text (such as Biblical text) that was difficult to interpret, but once interpreted, it would reveal some deeper truth
 
-[^10]: _mihi_: Classical Latin would expect the accusative as the personal object of vetuit, but the dative, indicating to whose advantage or disadvantage something is happening, is logical enough. Still, an English translation basically demands that it be taken as the personal object “forbids me”
+[^10]: _curasti_: = _curavisti_
 
-[^11]: _rescribi_: the present passive infinitive, “to be written back to”
+[^11]: _mihi_: Classical Latin would expect the accusative as the personal object of _vetuit_, but the dative, indicating to whose advantage or disadvantage something is happening, is logical enough. Still, an English translation basically demands that it be taken as the personal object “_forbids me_”
 
-[^12]: _turbatio regni_ : the subject of vetuit. This refers to a real political crisis of the time: the son of Henry IV, the current emperor (of the Holy Roman Empire), attempted to overthrow his father and almost succeeded.
-However, he was ultimately defeated, only for the father to die soon after (Paravicini, Carmina Ratisponensia 13)
+[^12]: _rescribi_: the present passive infinitive, “_to be written back to_”
 
-[^13]: _sed....culpae_: Some editions swap these two lines
+[^13]: _turbatio regni_ : the subject of _vetuit_. This refers to a real political crisis of the time: the son of [Henry IV](https://en.wikipedia.org/wiki/Henry_IV,_Holy_Roman_Emperor), the current emperor (of the [Holy Roman Empire](https://en.wikipedia.org/wiki/Holy_Roman_Empire)), attempted to overthrow his father and almost succeeded. However, he was ultimately defeated, only for the father to die soon after (Paravicini, Carmina Ratisponensia 13)
 
-[^14]: _Istud....culpae_ : Supply _est_
+[^14]: _sed....culpae_: Some editions swap these two lines
 
-[^15]: _vitium_: a vicious act or state of affairs (rather than a vice as a character trait). Logically, this refers to the addressee’s failure to write back, but given the immediately preceding turbatio regni and the following lines about combat, the poet leaves open that she is implicating the addressee in the political turmoil
+[^15]: _Istud....culpae_ : Supply _est_
 
-[^16]: _pesti_: It is ambiguous (no doubt intentionally) what metaphorical “plague” this refers to: the failure to return the poet’s letter or the political unrest
+[^16]: _vitium_: a vicious act or state of affairs (rather than a vice as a character trait). Logically, this refers to the addressee’s failure to write back, but given the immediately preceding _turbatio regni_ and the following lines about combat, the poet leaves open that she is implicating the addressee in the political turmoil
 
-[^17]: _potuisses_: a pluperfect subjunctive indicating a potential past action that did not, in fact, occur, “you could have (but did not)”
+[^17]: _pesti_: It is ambiguous (no doubt intentionally) what metaphorical “plague” this refers to: the failure to return the poet’s letter or the political unrest
 
-[^18]: _nec_: has the sense of “but” here
+[^18]: _potuisses_: a pluperfect subjunctive indicating a potential past action that did not, in fact, occur, “_you could have (but did not)_”
 
-[^19]: _ensis....etsi_: _etsi_ deferred for rhetorical effect. The logical order would be _namque etsi ensis…percussit hostem_
+[^19]: _nec_: has the sense of “_but_” here
 
-[^20]: _mansit_: Supply hostis as the subject. Note the sharp certainty implied by the indicatives percussit and mansit: if he tried to use his sword, it definitely did not wound his enemy
+[^20]: _ensis....etsi_: _etsi_ deferred for rhetorical effect. The logical order would be _namque etsi ensis...percussit hostem_
 
-[^21]: _clipeum...aptum_: an indirect question. The “question” verb is miror, the interrogative quae introduces the question, and ferret is the subjunctive verb
+[^21]: _mansit_: Supply _hostis_ as the subject. Note the sharp certainty implied by the indicatives _percussit_ and _mansit_: if he tried to use his sword, it definitely did not wound his enemy
 
-[^11]: _tua_: modifies manus
+[^22]: _clipeum...aptum_: an indirect question. The “question” verb is _miror_, the interrogative _quae_ introduces the question, and _ferret_ is the subjunctive verb
 
-[^12]: _Dextra_ : provides the answer to the indirect question of miror, which the following clause introduced by nam explains, “It is the right hand, I think, for this…”
+[^23]: _tua_: modifies _manus_
 
-[^13]: _hoc_: the subject of convenit; refers to the addressee using his right hand to hold his shield
+[^24]: _Dextra_ : provides the answer to the indirect question of _miror_, which the following clause introduced by _nam_ explains, “_It is the right hand, I think, for this_...”
 
-[^14]: _viro_ : dative with convenit, “is fitting for a [cowardly] man” or “fits a [cowardly] man”
+[^25]: _hoc_: the subject of _convenit_; refers to the addressee using his right hand to hold his shield
 
-[^15]: _Dextra...viro_: Assuming right-handedness, a soldier would hold his sword in his right hand to maximize his ability to attack while using his left, nondominant hand to hold his shield and protect himself. By holding the shield in his right hand, the addressee would be prioritizing his own safety and survival
+[^26]: _viro_ : dative with _convenit_, “_is fitting for a [cowardly] man_” or “_fits a [cowardly] man_”
 
-[^16]: _mihi_: a dative indicating separation with deerat, literally “was lacking for/from me,” more naturally “I lacked...”
+[^27]: _Dextra...viro_: Assuming right-handedness, a soldier would hold his sword in his right hand to maximize his ability to attack while using his left, non-dominant hand to hold his shield and protect himself. By holding the shield in his right hand, the addressee would be prioritizing his own safety and survival
 
-[^17]: _Quae_: refers to the implied female subject of ferret, “that woman who....”
+[^28]: _mihi_: a dative indicating separation with _deerat_, literally “_was lacking for/from me,_” more naturally “_I lacked..._”
 
-[^18]: _ferret_: subjunctive indicating unfulfilled possibility, “could have brought.” Classical Latin would expect the pluperfect subjunctive to indicate unrealized action in the past
+[^29]: _Quae_: refers to the implied female subject of _ferret_, “_that woman who...._”
 
-[^19]: _tua_: Supply scripta, which here means “poems.”
+[^30]: _ferret_: subjunctive indicating unfulfilled possibility, “_could have brought._” Classical Latin would expect the pluperfect subjunctive to indicate unrealized action in the past
 
-[^20]: _mittere....componere_: Supply scripta as the object of each verb.
+[^31]: _tua_: Supply _scripta_, which here means “_poems_”
 
-[^21]: _velles....scires_: subjunctives indicating unfulfilled possibility, “if you wanted to” and “if you knew”
+[^32]: _mittere....componere_: Supply _scripta_ as the object of each verb
+
+[^33]: _velles....scires_: subjunctives indicating unfulfilled possibility, “_if you wanted to_” and “_if you knew_”
