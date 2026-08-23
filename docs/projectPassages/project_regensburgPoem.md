@@ -69,25 +69,25 @@ mittere si velles, vel si componere scires.
 
 | Vocab | Definition | Vocab | Definition |
 | -------- | ------- | -------- | ------- |
-| **_adludo, -ere, -lusi, -lusum_**        | to joke         | **_adrideo, -ere_** |     to smile      |
-| **_adverto, -ere_**       | to pay attention          | **_aliquando_** |     at one time      |
-| **_amarus, -a, -um_**        | bitter, disagreeable          | **_aspergo, -ere_** |     to sprinkle      |
-| **_blandimentum, -i, n._**        | flattery          | **_canto, -are_** |     _cano, -ere_      |
-| **_cruciatus, -us, m._**        | torment          | **_curiositas, -tatis, f._** |     curiosity      |
-| **_difficultas, -tatis, f._**        | difficulty          | **_edisco, -ere_** |     _disco, -ere_      |
-| **_eluceo, -ere_**        | to be clear          | **_fabella, -ae, f._** |     _fabula, -ae_      |
-| **_fabulosus, -a, -um_**        | fabulous          | **_fel, fellis, n._** |     bile, bitterness      |
-| **_Graecus, -a, -um_**       | Greek, of Greek          | **_grammatica, -ae, f._** |     grammar      |
-| **_Homerus, -i, m._**       | Homer (Greek poet)          | **_insto, -are_** |     to demand, threaten      |
-| **_ioca, -orum, n._**       | jokes          | **_Latinus,-a, -um_** |     Latin      |
-| **_maior, -is_**        | greater          | **_meticulosus, -a, -um_** |     _timidus, -a, -um_      |
-| **_narratio, -onis, f._**       | _fabula, -ae_          | **_necessitas, -tatis, f._** |     compulsion      |
-| **_nutrix, -icis, f._**       | nurse          | **_odi, -isse, osum_** |     to hate      |
-| **_omnino_**        | at all          | **_onus, -eris, n._** |     burden      |
-| **_peregrinus, -a, -um_**         | **_alienus, -a, -um_**          | **peritus, -a, -um** |     skillful      |
-| **_poenalis, -e_**        |  of punishment          | **_suavitas, -tatis, f._** |     sweetness      |
-| **_terror, -is, m._**        | _formido, -inis, f._          | **_texo, -ere, -ui, textum_** |     _scribo, -ere_      |
-| **_urgeo, -ere_**        | to force          | **_utique_** |     certainly      |
+| **_amodo_**  (adv)      | from now on         | **_adrideo, -ere_** |     to smile      |
+| **_aptus, -a, -um_**       | _commodus, -a, -um_          | **_aliquando_** |     at one time      |
+| **_compono, -ere_**        | to compose (a letter/poem)          | **_aspergo, -ere_** |     to sprinkle      |
+| **_convenio, -ire_**        | to fit          | **_canto, -are_** |     _cano, -ere_      |
+| **_curo, -are, -avi_**        | to take the trouble           | **_curiositas, -tatis, f._** |     curiosity      |
+| **_dilectio, -onis, f._**        | affection          | **_edisco, -ere_** |     _disco, -ere_      |
+| **_enigma, -atis, n._**        | riddle          | **_fabella, -ae, f._** |     _fabula, -ae_      |
+| **_ensis, -is, m._**        | _gladius, -i m._          | **_fel, fellis, n._** |     bile, bitterness      |
+| **_etsi_**  (adv)      | even if          | **_grammatica, -ae, f._** |     grammar      |
+| **_ferrugo, -inis, f._**       | rust          | **_insto, -are_** |     to demand, threaten      |
+| **_forsan_** (adv)      | _fortasse_          | **_Latinus,-a, -um_** |     Latin      |
+| **_fulgeo, -ere_**        | to shine          | **_meticulosus, -a, -um_** |     _timidus, -a, -um_      |
+| **_ineptus, -a, -um_**       | _stultus, -a, -um_          | **_necessitas, -tatis, f._** |     compulsion      |
+| **_iungo, -ere, iunxi_**       | _addo, -ere_          | **_odi, -isse, osum_** |     to hate      |
+| **_iure_** (adv)       | rightly          | **_onus, -eris, n._** |     burden      |
+| **_lorica, -ae, f._**         | breastplate          | **peritus, -a, -um** |     skillful      |
+| **_medicor, -ari_** **+DAT**        |  to cure           | **_suavitas, -tatis, f._** |     sweetness      |
+| **_miror, -ari_**        |    to wonder     | **_texo, -ere, -ui, textum_** |     _scribo, -ere_      |
+| **_mollis, -e_** (adj)       |   weak, cowardly          | **_utique_** |     certainly      |
 | **_vanus, -a, -um_**        | deceptive          | **_Vergilius, -i, m._** |     Vergil (Roman poet)      |
 | **_videlicet_**        |    certainly       |  |           |
 
