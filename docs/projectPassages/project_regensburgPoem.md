@@ -24,43 +24,43 @@ The passage’s text is drawn from D.A. Traill and J. Haynes’s _[Education of 
 
      note2: footnotes will lead you to the commentary
 
-Est tibi vana fides, non est dilectio perpes;
+Est tibi _vana_ fides, non est _dilectio perpes_;
 
-qui “fortis” nomen tibi iunxit, perdidit omen.
+qui “fortis” nomen tibi _iunxit_, perdidit _omen_.
 
-Quid prodest nomen, si non retinebis honorem?
+Quid prodest nomen, si non _retinebis_ honorem?
 
-Nomine fulgebunt tali qui fortia quaerunt.
+Nomine _fulgebunt_ tali qui fortia quaerunt.
 
-Tu “mollis” potius sis amodo iure vocatus.    **5**
+Tu _“mollis” potius_ sis _amodo iure_ vocatus.    **5**
 
-Nunc breviter dicam cur sic enigmata solvam. 
+Nunc breviter dicam cur sic _enigmata solvam_. 
 
-Cum tibi versiculos misi ratione politos,
+Cum tibi _versiculos_ misi ratione _politos_,
 
-non mihi responsum curasti reddere dignum, 
+non mihi responsum _curasti_ reddere dignum, 
 
-sed mihi rescribi vetuit “turbatio regni.”
+sed mihi _rescribi vetuit “turbatio_ regni.”
 
-Istud nempe tuae vitium successio culpae.     **5**
+Istud _nempe_ tuae vitium _successio culpae_.     **10**
 
-Tu solus pesti potuisses huic medicari, 
+Tu solus _pesti_ potuisses huic _medicari_, 
 
-nec lorica tuum pectus protexit ineptum; 
+nec _lorica_ tuum pectus _protexit ineptum_; 
 
-ensis namque tuus multa ferrugine tectus 
+_ensis_ namque tuus multa _ferrugine_ tectus 
 
-etsi percussit hostem, sine vulnere mansit.
+_etsi percussit_ hostem, sine vulnere mansit.
 
-At miror clipeum tua quae ferret manus aptum.    **5**
+At _miror_ clipeum tua quae ferret manus _aptum_.    **15**
 
-Dextra, reor, timido nam convenit hoc bene viro.
+Dextra, _reor_, timido nam _convenit_ hoc bene viro.
 
-Sed forsan dicis; “Deerat mihi nuntius omnis.” 
+Sed _forsan_ dicis; “Deerat mihi nuntius omnis.” 
 
-Quae tibi porrexit mea scripta, tua mihi ferret,
+Quae tibi _porrexit_ mea _scripta_, tua mihi ferret,
 
-mittere si velles, vel si componere scires.
+mittere si velles, vel si _componere_ scires.
 
 
 --------
