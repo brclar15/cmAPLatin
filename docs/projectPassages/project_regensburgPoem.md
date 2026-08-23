@@ -96,25 +96,48 @@ mittere si velles, vel si _componere_ scires.
 ## Commentary
 
 
-[^1]: _etiam...talia_ : 
+[^1]: _dilectio_ : derived from the verb diligo, meaning “to value highly.” This sort of love is not romantic love (amor or cupiditas) but rather a strong, deliberate—i.e., consciously chosen and developed—affection. In fact, dilectio was commonly used in Medieval Christian texts to identify the love one is supposed to have toward God
 
-[^2]: _grammaticam_: 
+[^2]: _qui_: = quisquis
 
-[^3]: _talia_: 
+[^3]: _perdidit omen_: Here, omen seems to refer to the power of an omen to point to something in the future. By extension, it suggests the power of a name to indicate a truth about the thing it names
 
-[^4]: _cantantem_: 
+[^4]: _honorem_: Similar to omen, honorem refers to the word’s integrity, insofar as it accurately identifies what it is meant to name
 
-[^5]: _texere_: 
+[^5]: _qui_: refers to the implied subject of fulgebunt, “those who”fortia: fortis used substantively, “brave deeds” or “bravery”
 
-[^6]: _vanus_: 
+[^6]: _sis_: a subjunctive indicating possibility (has the sense of a command), “should be”
 
-[^7]: _puero_: 
+[^7]: _cur_: i.e., why she is calling him “weak”
 
-[^8]: _sit_: 
+[^8]: _enigma_: In the Medieval context, this word meant more than just a commonplace riddle. Rather, it commonly referred to text (such as Biblical text) that was difficult to interpret, but once interpreted, it would reveal some deeper truth
 
-[^9]: _illum_: 
+[^9]: _curasti_: = _curavisti_
 
-[^10]: _ediscendae_: 
+[^10]: _mihi_: Classical Latin would expect the accusative as the personal object of vetuit, but the dative, indicating to whose advantage or disadvantage something is happening, is logical enough. Still, an English translation basically demands that it be taken as the personal object “forbids me”
+
+[^11]: _rescribi_: the present passive infinitive, “to be written back to”
+
+[^12]: _turbatio regni_ : the subject of vetuit. This refers to a real political crisis of the time: the son of Henry IV, the current emperor (of the Holy Roman Empire), attempted to overthrow his father and almost succeeded.
+However, he was ultimately defeated, only for the father to die soon after (Paravicini, Carmina Ratisponensia 13)
+
+[^13]: _sed....culpae_: Some editions swap these two lines
+
+[^14]: _Istud....culpae_ : Supply _est_
+
+[^15]: _Latina nulla_: 
+
+[^16]: _infans_: 
+
+[^17]: _adridentium...adludentium...urgentium_: 
+
+[^18]: _illa_: 
+
+[^19]: _elucet_: 
+
+[^20]: _ista_: 
+
+[^21]: _liberam curiositatem_: 
 
 [^11]: _aspergebat_: 
 
