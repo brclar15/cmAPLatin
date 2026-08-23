@@ -24,43 +24,43 @@ The passage’s text is drawn from D.A. Traill and J. Haynes’s _[Education of 
 
      note2: footnotes will lead you to the commentary
 
-Est tibi _vana_ fides, non est _dilectio perpes_;
+Est tibi _vana_ fides, non est _dilectio[^1] perpes_;
 
-qui “fortis” nomen tibi _iunxit_, perdidit _omen_.
+qui[^2] “fortis” nomen tibi _iunxit_, perdidit[^3] _omen_.
 
-Quid prodest nomen, si non _retinebis_ honorem?
+Quid prodest nomen, si non _retinebis_ honorem[^4]?
 
-Nomine _fulgebunt_ tali qui fortia quaerunt.
+Nomine _fulgebunt_ tali qui[^5] fortia[^6] quaerunt.
 
-Tu _“mollis” potius_ sis _amodo iure_ vocatus.    **5**
+Tu _“mollis” potius_ sis[^7] _amodo iure_ vocatus.    **5**
 
-Nunc breviter dicam cur sic _enigmata solvam_. 
+Nunc breviter dicam cur[^8] sic _enigmata[^9] solvam_. 
 
 Cum tibi _versiculos_ misi ratione _politos_,
 
-non mihi responsum _curasti_ reddere dignum, 
+non mihi responsum _curasti_[^10] reddere dignum, 
 
-sed mihi _rescribi vetuit “turbatio_ regni.”
+sed[^14] mihi[^11] _rescribi[^12] vetuit “turbatio_[^13] regni.”
 
-Istud _nempe_ tuae vitium _successio culpae_.     **10**
+Istud[^15] _nempe_ tuae vitium[^16] _successio culpae_.     **10**
 
-Tu solus _pesti_ potuisses huic _medicari_, 
+Tu solus _pesti_[^17] potuisses[^18] huic _medicari_, 
 
-nec _lorica_ tuum pectus _protexit ineptum_; 
+nec[^19] _lorica_ tuum pectus _protexit ineptum_; 
 
-_ensis_ namque tuus multa _ferrugine_ tectus 
+_ensis_[^20] namque tuus multa _ferrugine_ tectus 
 
-_etsi percussit_ hostem, sine vulnere mansit.
+_etsi percussit_ hostem, sine vulnere mansit[^21].
 
-At _miror_ clipeum tua quae ferret manus _aptum_.    **15**
+At _miror_ clipeum[^22] tua[^23] quae ferret manus _aptum_.    **15**
 
-Dextra, _reor_, timido nam _convenit_ hoc bene viro.
+Dextra[^24], _reor_, timido nam _convenit_ hoc[^25] bene viro[^26][^27].
 
-Sed _forsan_ dicis; “Deerat mihi nuntius omnis.” 
+Sed _forsan_ dicis; “Deerat mihi[^28] nuntius omnis.” 
 
-Quae tibi _porrexit_ mea _scripta_, tua mihi ferret,
+Quae[^29] tibi _porrexit_ mea _scripta_, tua[^30] mihi ferret[^31],
 
-mittere si velles, vel si _componere_ scires.
+mittere[^32] si velles[^33], vel si _componere_ scires.
 
 
 --------
@@ -154,9 +154,9 @@ mittere si velles, vel si _componere_ scires.
 
 [^29]: _Quae_: refers to the implied female subject of _ferret_, “_that woman who...._”
 
-[^30]: _ferret_: subjunctive indicating unfulfilled possibility, “_could have brought._” Classical Latin would expect the pluperfect subjunctive to indicate unrealized action in the past
+[^30]: _tua_: Supply _scripta_, which here means “_poems_”
 
-[^31]: _tua_: Supply _scripta_, which here means “_poems_”
+[^31]: _ferret_: subjunctive indicating unfulfilled possibility, “_could have brought._” Classical Latin would expect the pluperfect subjunctive to indicate unrealized action in the past
 
 [^32]: _mittere....componere_: Supply _scripta_ as the object of each verb
 
