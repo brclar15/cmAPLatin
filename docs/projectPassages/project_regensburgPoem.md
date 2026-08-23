@@ -125,38 +125,38 @@ However, he was ultimately defeated, only for the father to die soon after (Para
 
 [^14]: _Istud....culpae_ : Supply _est_
 
-[^15]: _Latina nulla_: 
+[^15]: _vitium_: a vicious act or state of affairs (rather than a vice as a character trait). Logically, this refers to the addressee’s failure to write back, but given the immediately preceding turbatio regni and the following lines about combat, the poet leaves open that she is implicating the addressee in the political turmoil
 
-[^16]: _infans_: 
+[^16]: _pesti_: It is ambiguous (no doubt intentionally) what metaphorical “plague” this refers to: the failure to return the poet’s letter or the political unrest
 
-[^17]: _adridentium...adludentium...urgentium_: 
+[^17]: _potuisses_: a pluperfect subjunctive indicating a potential past action that did not, in fact, occur, “you could have (but did not)”
 
-[^18]: _illa_: 
+[^18]: _nec_: has the sense of “but” here
 
-[^19]: _elucet_: 
+[^19]: _ensis....etsi_: _etsi_ deferred for rhetorical effect. The logical order would be _namque etsi ensis…percussit hostem_
 
-[^20]: _ista_: 
+[^20]: _mansit_: Supply hostis as the subject. Note the sharp certainty implied by the indicatives percussit and mansit: if he tried to use his sword, it definitely did not wound his enemy
 
-[^21]: _liberam curiositatem_: 
+[^21]: _clipeum...aptum_: an indirect question. The “question” verb is miror, the interrogative quae introduces the question, and ferret is the subjunctive verb
 
-[^11]: _aspergebat_: 
+[^11]: _tua_: modifies manus
 
-[^12]: _nossem_ : 
+[^12]: _Dextra_ : provides the answer to the indirect question of miror, which the following clause introduced by nam explains, “It is the right hand, I think, for this…”
 
-[^13]: _instabatur_: 
+[^13]: _hoc_: the subject of convenit; refers to the addressee using his right hand to hold his shield
 
-[^14]: _et_ : 
+[^14]: _viro_ : dative with convenit, “is fitting for a [cowardly] man” or “fits a [cowardly] man”
 
-[^15]: _Latina nulla_: 
+[^15]: _Dextra...viro_: Assuming right-handedness, a soldier would hold his sword in his right hand to maximize his ability to attack while using his left, nondominant hand to hold his shield and protect himself. By holding the shield in his right hand, the addressee would be prioritizing his own safety and survival
 
-[^16]: _infans_: 
+[^16]: _mihi_: a dative indicating separation with deerat, literally “was lacking for/from me,” more naturally “I lacked...”
 
-[^17]: _adridentium...adludentium...urgentium_: 
+[^17]: _Quae_: refers to the implied female subject of ferret, “that woman who....”
 
-[^18]: _illa_: 
+[^18]: _ferret_: subjunctive indicating unfulfilled possibility, “could have brought.” Classical Latin would expect the pluperfect subjunctive to indicate unrealized action in the past
 
-[^19]: _elucet_: 
+[^19]: _tua_: Supply scripta, which here means “poems.”
 
-[^20]: _ista_: 
+[^20]: _mittere....componere_: Supply scripta as the object of each verb.
 
-[^21]: _liberam curiositatem_: 
+[^21]: _velles....scires_: subjunctives indicating unfulfilled possibility, “if you wanted to” and “if you knew”
