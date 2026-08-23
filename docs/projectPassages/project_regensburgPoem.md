@@ -69,27 +69,26 @@ mittere si velles, vel si componere scires.
 
 | Vocab | Definition | Vocab | Definition |
 | -------- | ------- | -------- | ------- |
-| **_amodo_**  (adv)      | from now on         | **_adrideo, -ere_** |     to smile      |
-| **_aptus, -a, -um_**       | _commodus, -a, -um_          | **_aliquando_** |     at one time      |
-| **_compono, -ere_**        | to compose (a letter/poem)          | **_aspergo, -ere_** |     to sprinkle      |
-| **_convenio, -ire_**        | to fit          | **_canto, -are_** |     _cano, -ere_      |
-| **_curo, -are, -avi_**        | to take the trouble           | **_curiositas, -tatis, f._** |     curiosity      |
-| **_dilectio, -onis, f._**        | affection          | **_edisco, -ere_** |     _disco, -ere_      |
-| **_enigma, -atis, n._**        | riddle          | **_fabella, -ae, f._** |     _fabula, -ae_      |
-| **_ensis, -is, m._**        | _gladius, -i m._          | **_fel, fellis, n._** |     bile, bitterness      |
-| **_etsi_**  (adv)      | even if          | **_grammatica, -ae, f._** |     grammar      |
-| **_ferrugo, -inis, f._**       | rust          | **_insto, -are_** |     to demand, threaten      |
-| **_forsan_** (adv)      | _fortasse_          | **_Latinus,-a, -um_** |     Latin      |
-| **_fulgeo, -ere_**        | to shine          | **_meticulosus, -a, -um_** |     _timidus, -a, -um_      |
-| **_ineptus, -a, -um_**       | _stultus, -a, -um_          | **_necessitas, -tatis, f._** |     compulsion      |
-| **_iungo, -ere, iunxi_**       | _addo, -ere_          | **_odi, -isse, osum_** |     to hate      |
-| **_iure_** (adv)       | rightly          | **_onus, -eris, n._** |     burden      |
-| **_lorica, -ae, f._**         | breastplate          | **peritus, -a, -um** |     skillful      |
-| **_medicor, -ari_** **+DAT**        |  to cure           | **_suavitas, -tatis, f._** |     sweetness      |
-| **_miror, -ari_**        |    to wonder     | **_texo, -ere, -ui, textum_** |     _scribo, -ere_      |
-| **_mollis, -e_** (adj)       |   weak, cowardly          | **_utique_** |     certainly      |
-| **_vanus, -a, -um_**        | deceptive          | **_Vergilius, -i, m._** |     Vergil (Roman poet)      |
-| **_videlicet_**        |    certainly       |  |           |
+| **_amodo_**  (adv)      | from now on         | **_nempe_**  (adv) |     _vero_      |
+| **_aptus, -a, -um_**       | _commodus, -a, -um_    | **_omen, -inis, n._** |     meaning      |
+| **_compono, -ere_**        | to compose (a letter/poem)          | **_percutio, -ere, -cussi_** |     _pulso, -are_      |
+| **_convenio, -ire_**        | to fit          | **_perpes, -etis_** (adj) |     lasting      |
+| **_curo, -are, -avi_**        | to take the trouble           | **_pestis, -is, f._** |     plague      |
+| **_dilectio, -onis, f._**        | affection          | **_polio, -ere, -ivi, -itus_** |    to polish      |
+| **_enigma, -atis, n._**        | riddle          | **_porrigo, -ere, -rexi_** |     _trado, -ere_      |
+| **_ensis, -is, m._**        | _gladius, -i m._          | **_potius_** (adv) |     rather      |
+| **_etsi_**  (adv)      | even if          | **_protego, -ere, -xi_** |     _defendo, -ere_       |
+| **_ferrugo, -inis, f._**       | rust          | **_reor, -eri_** |     _puto, -are_      |
+| **_forsan_** (adv)      | _fortasse_          | **_rescribo, -ere_** |     _scribo, -ere_      |
+| **_fulgeo, -ere_**        | to shine          | **_retineo, -ere_** |     to preserve      |
+| **_ineptus, -a, -um_**       | _stultus, -a, -um_          | **_scriptum, -i, n._** |     writing      |
+| **_iungo, -ere, iunxi_**       | _addo, -ere_          | **_solvo, -ere_** |     to solve      |
+| **_iure_** (adv)       | rightly          | **_successio, -onis, f._** |     product      |
+| **_lorica, -ae, f._**         | breastplate          | **_turbatio, -onis, f._** |     _tumultus, -i m._      |
+| **_medicor, -ari_** **+DAT**        |  to cure           | **_vanus, -a, -um_** |     false      |
+| **_miror, -ari_**        |    to wonder     | **_versiculus, -i, m._** |     little line (of poetry)     |
+| **_mollis, -e_** (adj)       |   weak, cowardly          | **_veto, -ere, -ui_** |     to hinder      |
+
 
 
 --------------
