@@ -24,13 +24,13 @@ parent: Sallust
 
 [^2]: _itum_ : PPP from _eo, ire, ivi, itus_, _it has been gone against_. Sounds weird, I know
 
-[^3]: _quae contentio_ : remember that there are **3rd declension nouns** where your nominative ends in -o, so take this as your subject 
+[^3]: _quae contentio_ : remember that there are **3rd declension nouns** where your nominative ends in -_o_, so take this as your subject 
 
 [^4]: _eo_ : here this means _such_
 
-[^5]: _vastitas_ : similiar to note 3, there are **3rd declension nouns** where your nominative ends in -tas and genitive in -tatis, so take this as your subject
+[^5]: _vastitas_ : similiar to note 3, there are **3rd declension nouns** where your nominative ends in -_tas_ and genitive in -_tatis_, so take this as your subject
 
-[^6]: _huiusce_ : the -ce is just emphatic, no real change in meaning. This _hic/haec/hoc_ + -ce is common in Sallust
+[^6]: _huiusce_ : the -_ce_ is just emphatic, no real change in meaning. This _hic/haec/hoc_ + -_ce_ is common in Sallust
 
 [^7]: _pauca_ : neuter, accusative, plural; _a few things_
 
