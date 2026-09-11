@@ -22,7 +22,7 @@ parent: Sallust
 
 [^1]: _varia victoria_: this is an **ablative of description**, where these words don't grammatically describe the _bellum_ (comparer the form of _magn**um**_), but are taken with it to provide a description. _big and fierce and **with varied victory**_
 
-[^2]: _itum_ : PPP from _eo, ire, ivi, itus_, _it has been gone against_. Sounds weird, I know
+[^2]: _itum_ : PPP from _eo, ire, ivi, itus_, _it has  gone against_
 
 [^3]: _quae contentio_ : remember that there are **3rd declension nouns** where your nominative ends in -_o_, so take this as your subject 
 
