@@ -18,7 +18,7 @@ Sed is natus et omnem pueritiam Arpini altus, ubi primum aetas militiae patiens 
 
 [64] Igitur ubi Marius haruspicis dicta eodem[^13] intendere videt, quo cupido animi hortabatur, ab Metello petendi gratia[^14] missionem rogat. Cui quamquam virtus, gloria atque alia optanda bonis superabant, tamen inerat contemptor animus et superbia, commune nobilitatis malum. Itaque primum commotus insolita re mirari[^15] eius consilium et quasi per amicitiam monere[^15], ne tam prava[^16] inciperet neu super fortunam animum gereret: non omnia omnibus cupienda esse, debere illi res suas satis placere; postremo caveret id[^17] petere a populo Romano, quod illi iure negaretur. 
 
-Postquam haec atque alia talia dixit neque animus Mari flectitur, respondit, ubi primum potuisset per negotia[^18] publica, facturum[^19] sese quae peteret. Ac postea saepius eadem postulanti[^20] fertur[^21] dixisse, ne festinaret abire: satis[^22] mature illum cum filio suo consulatum petiturum. Is eo tempore contubernio[^23] patris ibidem militabat. Annos natus[^24] circiter viginti. Quae res Marium cum pro honore, quem affectabat, tum contra Metellum vehementer accenderat. Ita cupidine atque ira, pessimis consultoribus, grassari[^25]; neque facto ullo neque dicto abstinere, quod modo ambitiosum foret; milites, quibus in hibernis praeerat, laxiore[^26] imperio quam antea habere; apud negotiatores, quorum magna multitudo Uticae erat, criminose[^27] simul et magnifice de bello loqui: dimidia pars exercitus si sibi permitteretur, paucis diebus Iugurtham in catenis habiturum; ab imperatore consulto trahi[^28], quod homo inanis et regiae[^29] superbiae imperio nimis gauderet. Quae omnia illis eo firmiora videbantur, quia diuturnitate belli res familiares corruperant et animo cupienti nihil satis festinatur[^30]. 
+Postquam haec atque alia talia dixit neque animus Mari flectitur, respondit, ubi primum potuisset per negotia[^18] publica, facturum[^19] sese quae peteret. Ac postea saepius eadem postulanti[^20] fertur[^21] dixisse, ne festinaret abire: satis[^22] mature illum cum filio suo consulatum petiturum. Is eo tempore contubernio[^23] patris ibidem militabat. Annos natus[^24] circiter viginti. Quae res Marium cum pro honore, quem affectabat, tum contra Metellum vehementer accenderat. Ita cupidine atque ira, pessimis consultoribus, grassari[^25]; neque facto ullo neque dicto abstinere, quod modo ambitiosum foret; milites, quibus in hibernis praeerat, laxiore[^26] imperio quam antea habere; apud negotiatores, quorum magna multitudo Uticae erat, criminose[^27] simul et magnifice de bello loqui: dimidia pars exercitus si sibi permitteretur, paucis diebus Iugurtham in catenis habiturum; ab imperatore consulto[^28] trahi[^29], quod homo inanis et regiae[^30] superbiae imperio nimis gauderet. Quae omnia illis eo firmiora videbantur, quia diuturnitate belli res familiares corruperant et animo cupienti nihil satis festinatur[^31]. 
 
 
 --------------
@@ -80,9 +80,11 @@ Postquam haec atque alia talia dixit neque animus Mari flectitur, respondit, ubi
 
 [^27]: _criminose_ : _reproachfully_, meaning with critique and disapproval 
 
-[^28]: _trahi_ : add a _bellum_ in as your subject
+[^28]: _consulto_ : an adverb meaning *purposely*
 
-[^29]: _regiae superbiae_ : **genitive of desctiption** (works just like an **ablative of description**)
+[^29]: _trahi_ : add a _bellum_ in as your subject
 
-[^30]: _festinatur_ : this would be weird in the passive in English, just make it active
+[^30]: _regiae superbiae_ : **genitive of desctiption** (works just like an **ablative of description**)
+
+[^31]: _festinatur_ : this would be weird in the passive in English, just make it active
 
