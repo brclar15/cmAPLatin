@@ -58,7 +58,7 @@ Postquam haec atque alia talia dixit neque animus Mari flectitur, respondit, ubi
 
 [^16]: _prava_ : _mishappen things_, meaning things he should not desire
 
-[^17]: _id_ : connect this to the _quod_ later on. _a thing which....._
+[^17]: _id_ : connect this to the _quod_ later on, _a thing which....._
 
 [^18]: _per negotia publica_ : meaning that Marius cannot just up and leave whenever he wants, but has to wait for military things to be in order and to receive permission before he can return to Rome to run for consul
 
@@ -66,7 +66,7 @@ Postquam haec atque alia talia dixit neque animus Mari flectitur, respondit, ubi
 
 [^20]: _postulanti_ : this refers to Marius, _the one asking_
 
-[^21]: _fertur_ : _fero_ in the 3rd singular can mean _s/he says_ (fert) or _he/she/it is said_ (fertur). Metellus is the subject here
+[^21]: _fertur_ : _fero_ in the 3rd singular can mean _s/he says_ (_fert_) or _he/she/it is said_ (_fertur_). Metellus is the subject here
 
 [^22]: _satis mature_ : _soon enough_
 
