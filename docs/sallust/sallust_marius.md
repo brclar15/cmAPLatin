@@ -70,7 +70,7 @@ Postquam haec atque alia talia dixit neque animus Mari flectitur, respondit, ubi
 
 [^22]: _satis mature_ : _soon enough_
 
-[^23]: _contubernio_ : contubernium, -i (n) - personal military staff
+[^23]: _contubernio_ : _contubernium, -i_ (n) - personal military staff
 
 [^24]: _natus_ : sigh, sometimes if you really need to, you can add a form of _sum_ to make a PPP into your main verb
 
