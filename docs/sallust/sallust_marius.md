@@ -78,11 +78,11 @@ Postquam haec atque alia talia dixit neque animus Mari flectitur, respondit, ubi
 
 [^26]: _laxiore_ : note the **comparison** in _lax**ior**e_
 
-[^27]: _criminose_ : reproachfully, meaning with critique and disapproval 
+[^27]: _criminose_ : _reproachfully_, meaning with critique and disapproval 
 
 [^28]: _trahi_ : add a _bellum_ in as your subject
 
-[^29]: _regiae superbiae_ : **genitive of desctiption** (works just like an **ablative of description**
+[^29]: _regiae superbiae_ : **genitive of desctiption** (works just like an **ablative of description**)
 
 [^30]: _festinatur_ : this would be weird in the passive in English, just make it active
 
