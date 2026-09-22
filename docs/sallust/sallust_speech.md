@@ -131,4 +131,4 @@ Huiusce[^13] rei[^14] ego inopiam fateor, Quirites, verum[^15], id[^16] quod mul
 
 [^46]: _ereptum eunt_ : _ereptum_ is a **supine**, which is your **PPP** ending in _-u_ or _-um_. It shows purpose, _to steal_, and is often paired with verbs of motion
 
-[^47]: _rei publicae innoxiae cladi sunt_ : a beautiful **double dative!**. _They are **as a disaster/ruin** (_cladi_) **for the blameless republic** (_rei publicae innoxiae_)_
+[^47]: _rei publicae innoxiae cladi sunt_ : a beautiful **double dative!**. _They are **as a disaster/ruin** (_cladi_) **for the blameless republic** (_rei publicae innoxiae_)
