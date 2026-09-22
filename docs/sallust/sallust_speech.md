@@ -44,7 +44,7 @@ Huiusce[^13] rei[^14] ego inopiam fateor, Quirites, verum[^15], id[^16] quod mul
 
 [^3]: _quem_ : remember that after _si, nisi, num and ne_, all the _ali-s_ fly away! Meaning that you won't get _aliquis_ (or other forms of it), just _quis_
 
-[^4]: _imaginum_ : _imago, -inis_ (f) are statues or busts of ancestors that the Romans displayed in their houses
+[^4]: _imaginum_ : _imago, -inis_ (f) are [statues or busts of ancestors](https://en.wikipedia.org/wiki/Togatus_Barberini) that the Romans displayed in their houses
 
 [^5]: _stipendi_ : _stipendium, -i_ (n) here means "military service"
 
