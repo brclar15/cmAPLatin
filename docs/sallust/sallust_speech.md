@@ -120,7 +120,7 @@ parent: Sallust
 
 [^41]: _accepi_ :  accepted here meaning "learned," as in "received"
 
-[^42]: _decori_ :  **dative of purpose**, _as an honor_, meaning acted as, or even just was, an honor
+[^42]: _decori_ :  **dative of purpose**, _as an honor_, meaning "acted a"s, or even just "was..." _an honor_
 
 [^43]: _quod iuvat, quod carum aestimant_ :  both _quod_'s are "which," taking the _id_ later on as their antecedent  
 
