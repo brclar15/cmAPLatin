@@ -84,7 +84,7 @@ parent: Sallust
 
 [^23]: _oratio_ : remember that there are 3rd declension nouns where your nominative ends in -o, so take this as your subject 
 
-[^24]: _quippe....praedicent_ : "they speak true things, it's necessary that they speak well."
+[^24]: _quippe....praedicent_ : "surely if they speak true things, it's necessary that they speak well."
 
 [^25]: _falsa_ : add in another _praedicent_, with _falsa_ as your direct object
 
