@@ -118,7 +118,7 @@ parent: Sallust
 
 [^40]: _pluris preti_ :  **genitive of value**, _of a greater price_
 
-[^41]: _accepi_ :  accepted here meaing "learned," like received
+[^41]: _accepi_ :  accepted here meaning "learned," as in "received"
 
 [^42]: _decori_ :  **dative of purpose**, _as an honor_, meaning acted as, or even just was, an honor
 
