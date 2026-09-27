@@ -96,7 +96,7 @@ parent: Sallust
 
 [^29]: _parvi id facio_ :  **genitive of value**, _I consider (make) it **of little (importance)**_
 
-[^30]: _opus est_ :  this is an idiom (stock phrase) meaning "there is a need" or "it is useful"
+[^30]: _opus est_ :  this is an idiom (stock phrase) meaning "there is a need" or "it is useful", often _of something_ in the **ablative** and _for someone_ in the **dative**
 
 [^31]: _parum_ :  _too little, not at all_
 
