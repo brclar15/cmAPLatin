@@ -114,7 +114,7 @@ parent: Sallust
 
 [^38]: _incultis moribus_ :  **ablative of description**, _with unrefined customs_
 
-[^39]: _scite_ :  _excellently, skillfully, knowledgeably_
+[^39]: _scite_ :  an adverb here, meaing _excellently, skillfully, knowledgeably_
 
 [^40]: _pluris preti_ :  **genitive of value**, _of a greater price_
 
@@ -127,7 +127,6 @@ parent: Sallust
 [^44]: _faciant....ament...potent....agant....relinquant_ :  note these as **hortatory subjunctives**, _let them...._
 
 [^45]: _quibus illa epulis iucundiora_ :  note the _-ior_ in _iucundiora_. That'll help tip you off that the _epulis_ is **ablative of comparison**, _than the feasts_
-
 
 [^46]: _ereptum eunt_ : _ereptum_ is a **supine**, which is your **PPP** ending in _-u_ or _-um_. It shows purpose, _to steal_, and is often paired with verbs of motion
 
