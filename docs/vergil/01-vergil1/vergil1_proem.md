@@ -5,8 +5,7 @@ nav_order: 1
 parent: Vergil 1
 ---
 
-# Vergil 1 - Proem
-# 1.1 - 1.33
+# Vergil 1 - Proem (1.1 - 1.33)
 
 ## Opening of the Epic
 
