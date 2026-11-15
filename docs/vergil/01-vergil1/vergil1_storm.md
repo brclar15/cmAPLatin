@@ -28,7 +28,7 @@ praesentemque viris intentant omnia mortem.
 
 Extemplo Aeneae solvuntur frigore membra:
 
-ingemit, et duplicis tendens ad sidera palmas
+ingemit, et duplices tendens ad sidera palmas
 
 talia voce refert: 'O terque quaterque beati,
 
