@@ -5,8 +5,7 @@ nav_order: 2
 parent: Vergil 1
 ---
 
-# Vergil 1 - Storm
-# 1.88 - 1.107     
+# Vergil 1 - Storm (1.88 - 1.107)   
 
 ## Context
 
