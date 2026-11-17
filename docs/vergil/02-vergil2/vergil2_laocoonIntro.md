@@ -35,7 +35,7 @@ inspectura domos venturaque desuper urbi,
 
 aut aliquis latet error; equo ne credite, Teucri.
 
-quidquid id est, timeo Danaos et dona ferentis.'
+quidquid id est, timeo Danaos et dona ferentes.'
 
 sic fatus ualidis ingentem viribus hastam               **50**
 
