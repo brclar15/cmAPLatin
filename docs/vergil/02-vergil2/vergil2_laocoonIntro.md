@@ -17,7 +17,7 @@ It is essential to remember that all of Book 2 (and Book 3!) are told through Ae
 
 ## Laocoon Intro
 
-Primus ibi ante omnis magna comitante caterva               **40**
+Primus ibi ante omnes magna comitante caterva               **40**
 
 Laocoon ardens summa decurrit ab arce,
 
