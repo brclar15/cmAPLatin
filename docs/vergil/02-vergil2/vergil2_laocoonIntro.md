@@ -23,7 +23,7 @@ Laocoon ardens summa decurrit ab arce,
 
 et procul 'o miseri, quae tanta insania, cives?
 
-creditis avectos hostis? aut ulla putatis
+creditis avectos hostes? aut ulla putatis
 
 dona carere dolis Danaum? sic notus Ulixes?
 
