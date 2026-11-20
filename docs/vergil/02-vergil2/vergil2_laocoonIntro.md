@@ -37,7 +37,7 @@ aut aliquis latet error; equo ne credite, Teucri.
 
 quidquid id est, timeo Danaos et dona ferentes.'
 
-sic fatus ualidis ingentem viribus hastam               **50**
+sic fatus validis ingentem viribus hastam               **50**
 
 in latus inque feri curvam compagibus alvum
 
